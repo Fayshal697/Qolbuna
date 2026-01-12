@@ -1,30 +1,49 @@
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
-[RequireComponent(typeof(Button))]
-public class AccessibleSelectable : MonoBehaviour, IPointerEnterHandler, ISelectHandler
+[RequireComponent(typeof(Selectable))]
+public class AccessibleSelectable : MonoBehaviour,
+    IPointerEnterHandler,
+    ISelectHandler
 {
-    public AudioClip narrationClip;   // Narasi khusus tombol ini
-    public AudioClip hoverSFX;        // SFX opsional
+    [Header("Audio")]
+    [Tooltip("Narasi saat tombol di-highlight (keyboard / mouse)")]
+    public AudioClip narrationClip;
+
+    [Tooltip("SFX hover (opsional)")]
+    public AudioClip hoverSFX;
+
+    private bool hasPlayedThisFrame = false;
+
+    private void LateUpdate()
+    {
+        // reset flag tiap frame (anti double trigger)
+        hasPlayedThisFrame = false;
+    }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        Announce();
+        PlayAudio();
     }
 
     public void OnSelect(BaseEventData eventData)
     {
-        Announce();
+        PlayAudio();
     }
 
-    void Announce()
+    private void PlayAudio()
     {
-        // SFX hover
+        if (hasPlayedThisFrame) return;
+        hasPlayedThisFrame = true;
+
+        if (AudioManager.Instance == null) return;
+
+        // SFX dulu (pendek)
         if (hoverSFX != null)
             AudioManager.Instance.PlaySFX(hoverSFX);
 
-        // Narasi
+        // Narasi setelahnya
         if (narrationClip != null)
             AudioManager.Instance.PlayVoice(narrationClip);
     }

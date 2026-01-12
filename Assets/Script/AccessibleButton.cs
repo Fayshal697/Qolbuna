@@ -20,7 +20,7 @@ public class AccessibleButton : MonoBehaviour, ISelectHandler
         }
 
         // 2. Berikan umpan balik visual (opsional, tapi baik untuk yang masih bisa melihat)
-        // Anda bisa menambahkan animasi atau pewarnaan di sini.
+      
     }
     
     // Fungsi OnClick bawaan Unity akan menangani Enter/Spasi.

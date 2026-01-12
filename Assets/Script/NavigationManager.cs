@@ -1,12 +1,16 @@
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class NavigationManager : MonoBehaviour
 {
-    [Tooltip("Isi semua tombol dalam urutan navigasi (atas ke bawah atau kiri ke kanan)")]
+    [Tooltip("Isi semua tombol dalam urutan navigasi")]
     public List<Selectable> selectables;
+
+    [SerializeField] private Button backButton;
+    [SerializeField] private UISceneManager uiSceneManager;
 
     private int currentIndex = 0;
 
@@ -16,8 +20,24 @@ public class NavigationManager : MonoBehaviour
             return;
 
         currentIndex = 0;
+        StartCoroutine(WaitThenSelect());
+    }
+
+    private IEnumerator WaitThenSelect()
+    {
+        // Tunggu sampai suara scene selesai
+        while (AudioManager.Instance != null &&
+               AudioManager.Instance.IsVoicePlaying())
+        {
+            yield return null;
+        }
+
+        // buffer kecil biar aman (1 frame + dikit)
+        yield return new WaitForSeconds(0.1f);
+
         SelectCurrent();
     }
+
 
     private void Update()
     {
@@ -28,19 +48,40 @@ public class NavigationManager : MonoBehaviour
 
         if (KeyBindings.GetConfirm()) ActivateCurrent();
 
-        // Back
-        if (Input.GetKeyDown(KeyBindings.Back))
-            OnBack();
-
-        // Toggle Voice
         if (Input.GetKeyDown(KeyBindings.ToggleSound))
             AudioManager.Instance.ToggleSound();
+
+        // J → STOP SEMUA AUDIO
+        if (Input.GetKeyDown(KeyCode.J))
+        {
+            AudioManager.Instance.StopAllAudio();
+        }
+
+        // K → ULANGI SCENE ANNOUNCER
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            AudioManager.Instance.ReplaySceneNarration();
+        }
+
+
+        // BACKSPACE → tombol back
+        if (Input.GetKeyDown(KeyCode.Backspace))
+        {
+            if (backButton != null && backButton.gameObject.activeInHierarchy)
+                backButton.onClick.Invoke();
+        }
+
+        // ESC → kembali ke Main Menu (SCENE)
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (uiSceneManager != null)
+                uiSceneManager.GoToMainMenu();
+        }
     }
 
     private void MoveNext()
     {
         if (selectables.Count == 0) return;
-
         currentIndex = (currentIndex + 1) % selectables.Count;
         SelectCurrent();
     }
@@ -48,7 +89,6 @@ public class NavigationManager : MonoBehaviour
     private void MovePrev()
     {
         if (selectables.Count == 0) return;
-
         currentIndex = (currentIndex - 1 + selectables.Count) % selectables.Count;
         SelectCurrent();
     }
@@ -56,33 +96,15 @@ public class NavigationManager : MonoBehaviour
     private void SelectCurrent()
     {
         var element = selectables[currentIndex];
-
         if (element == null) return;
 
-        // set focus visually
         EventSystem.current.SetSelectedGameObject(element.gameObject);
-
-        // voice label
-        var acc = element.GetComponent<AccessibleSelectable>();
-        // if (acc != null)
-            // AudioManager.Instance.PlayVoice(acc.accessibilityLabel);
     }
 
     private void ActivateCurrent()
     {
-        var element = selectables[currentIndex];
-        var btn = element.GetComponent<Button>();
-
-        if (btn)
-        {
+        var btn = selectables[currentIndex].GetComponent<Button>();
+        if (btn != null)
             btn.onClick.Invoke();
-            // AudioManager.Instance.PlaySFX("MouseClick_SFX"); # nanti ditambahkan SFX klik
-        }
-    }
-
-    public void OnBack()
-    {
-        // AudioManager.Instance.PlayVoice("Kembali");
-        UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
     }
 }
