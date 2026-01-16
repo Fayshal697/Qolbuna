@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2786a019513311640b9f14ce2862605e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1495398767343666098
+    second: An Naba 16-25_0
+  - first:
+      213: -9212279035262980508
+    second: An Naba 16-25_1
+  - first:
+      213: -5682971314052011032
+    second: An Naba 16-25_2
+  - first:
+      213: -5205396153569199330
+    second: An Naba 16-25_3
+  - first:
+      213: -6203829272378132384
+    second: An Naba 16-25_4
+  - first:
+      213: -6479906217150632099
+    second: An Naba 16-25_5
+  - first:
+      213: 6552700386503154071
+    second: An Naba 16-25_6
+  - first:
+      213: 5654274157773939412
+    second: An Naba 16-25_7
+  - first:
+      213: -4366597185783147539
+    second: An Naba 16-25_8
+  - first:
+      213: 1057075950002969701
+    second: An Naba 16-25_9
+  - first:
+      213: 7698629500683592702
+    second: An Naba 16-25_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: An Naba 16-25_0
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1744
+        width: 1574
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c7cea7eb64f3be0800000000000000
+      internalID: -1495398767343666098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_1
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1744
+        width: 1018
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e2f53b609672080800000000000000
+      internalID: -9212279035262980508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1347
+        width: 1746
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebe13513b70221b0800000000000000
+      internalID: -5682971314052011032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_3
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1347
+        width: 2008
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb25717c7b2c7b0800000000000000
+      internalID: -5205396153569199330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 975
+        width: 1463
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0683bb4652297e9a0800000000000000
+      internalID: -6203829272378132384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_5
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 975
+        width: 1743
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f24e4a0afb216a0800000000000000
+      internalID: -6479906217150632099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_6
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 591
+        width: 918
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799d519a84edfea50800000000000000
+      internalID: 6552700386503154071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_7
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 577
+        width: 1231
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d269cc8364087e40800000000000000
+      internalID: 5654274157773939412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_8
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 577
+        width: 993
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3dc28aefab663c0800000000000000
+      internalID: -4366597185783147539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_9
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 207
+        width: 1245
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c1984d9fc7bae00800000000000000
+      internalID: 1057075950002969701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 16-25_10
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 207
+        width: 1780
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a695edb607da60800000000000000
+      internalID: 7698629500683592702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      An Naba 16-25_0: -1495398767343666098
+      An Naba 16-25_1: -9212279035262980508
+      An Naba 16-25_10: 7698629500683592702
+      An Naba 16-25_2: -5682971314052011032
+      An Naba 16-25_3: -5205396153569199330
+      An Naba 16-25_4: -6203829272378132384
+      An Naba 16-25_5: -6479906217150632099
+      An Naba 16-25_6: 6552700386503154071
+      An Naba 16-25_7: 5654274157773939412
+      An Naba 16-25_8: -4366597185783147539
+      An Naba 16-25_9: 1057075950002969701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

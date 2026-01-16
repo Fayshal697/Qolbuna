@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 5d95a68a4217c3c48ba4f5a518235964
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 461063859188632520
+    second: Hal Pilihan Level Soal_0
+  - first:
+      213: -8836770410695335301
+    second: Hal Pilihan Level Soal_1
+  - first:
+      213: 4068364508980662465
+    second: Hal Pilihan Level Soal_2
+  - first:
+      213: 7685161977032941339
+    second: Hal Pilihan Level Soal_3
+  - first:
+      213: -7057458530100380157
+    second: Hal Pilihan Level Soal_4
+  - first:
+      213: 3644513195087662832
+    second: Hal Pilihan Level Soal_5
+  - first:
+      213: 1189198440957385806
+    second: Hal Pilihan Level Soal_6
+  - first:
+      213: -4203816245292547229
+    second: Hal Pilihan Level Soal_7
+  - first:
+      213: 105479202836341906
+    second: Hal Pilihan Level Soal_8
+  - first:
+      213: 1749393689636361755
+    second: Hal Pilihan Level Soal_9
+  - first:
+      213: 3050158947718611627
+    second: Hal Pilihan Level Soal_10
+  - first:
+      213: -6363330390560156484
+    second: Hal Pilihan Level Soal_11
+  - first:
+      213: -598812622790992481
+    second: Hal Pilihan Level Soal_12
+  - first:
+      213: 3664537333335074710
+    second: Hal Pilihan Level Soal_13
+  - first:
+      213: 52461596075478871
+    second: Hal Pilihan Level Soal_14
+  - first:
+      213: 7813243595773360492
+    second: Hal Pilihan Level Soal_15
+  - first:
+      213: 4481082844135832774
+    second: Hal Pilihan Level Soal_16
+  - first:
+      213: 3054602394623097290
+    second: Hal Pilihan Level Soal_17
+  - first:
+      213: -3975834996847629957
+    second: Hal Pilihan Level Soal_18
+  - first:
+      213: -5230951966303929185
+    second: Hal Pilihan Level Soal_19
+  - first:
+      213: 1566485561545895568
+    second: Hal Pilihan Level Soal_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_0
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2123
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb85b91327066600800000000000000
+      internalID: 461063859188632520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2108
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7262d4712c7d5580800000000000000
+      internalID: -8836770410695335301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_2
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 1863
+        width: 347
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0599e37fbb57830800000000000000
+      internalID: 4068364508980662465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_3
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 2159
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f1362b91e27aa60800000000000000
+      internalID: 7685161977032941339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1860
+        width: 400
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ef050ebdede0e90800000000000000
+      internalID: -7057458530100380157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2088
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8c640179e39230800000000000000
+      internalID: 3644513195087662832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1684
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c96b07ea1e08010800000000000000
+      internalID: 1189198440957385806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1572
+        width: 1212
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363425ec56b09a5c0800000000000000
+      internalID: -4203816245292547229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_8
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1572
+        width: 1509
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2946040b6ccb67100800000000000000
+      internalID: 105479202836341906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1377
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d513ca48174810800000000000000
+      internalID: 1749393689636361755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 786
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24f3b0767545a20800000000000000
+      internalID: 3050158947718611627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_11
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 786
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4d63269b8e0b7a0800000000000000
+      internalID: -6363330390560156484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_12
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 786
+        width: 671
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd58b971790b7f0800000000000000
+      internalID: -598812622790992481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_13
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 786
+        width: 672
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69728930a4d0bd230800000000000000
+      internalID: 3664537333335074710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1053
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fcd6e2b816ab000800000000000000
+      internalID: 52461596075478871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_15
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 473
+        width: 519
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69baad67a73e6c60800000000000000
+      internalID: 7813243595773360492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_16
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 473
+        width: 519
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc30ddda11003e30800000000000000
+      internalID: 4481082844135832774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_17
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 473
+        width: 519
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac93195a1b0246a20800000000000000
+      internalID: 3054602394623097290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_18
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 473
+        width: 519
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79a45f922ff2d8c0800000000000000
+      internalID: -3975834996847629957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_19
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 111
+        width: 338
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb253c6ece767b0800000000000000
+      internalID: -5230951966303929185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Level Soal_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 110
+        width: 391
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ea8b191564db510800000000000000
+      internalID: 1566485561545895568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hal Pilihan Level Soal_0: 461063859188632520
+      Hal Pilihan Level Soal_1: -8836770410695335301
+      Hal Pilihan Level Soal_10: 3050158947718611627
+      Hal Pilihan Level Soal_11: -6363330390560156484
+      Hal Pilihan Level Soal_12: -598812622790992481
+      Hal Pilihan Level Soal_13: 3664537333335074710
+      Hal Pilihan Level Soal_14: 52461596075478871
+      Hal Pilihan Level Soal_15: 7813243595773360492
+      Hal Pilihan Level Soal_16: 4481082844135832774
+      Hal Pilihan Level Soal_17: 3054602394623097290
+      Hal Pilihan Level Soal_18: -3975834996847629957
+      Hal Pilihan Level Soal_19: -5230951966303929185
+      Hal Pilihan Level Soal_2: 4068364508980662465
+      Hal Pilihan Level Soal_20: 1566485561545895568
+      Hal Pilihan Level Soal_3: 7685161977032941339
+      Hal Pilihan Level Soal_4: -7057458530100380157
+      Hal Pilihan Level Soal_5: 3644513195087662832
+      Hal Pilihan Level Soal_6: 1189198440957385806
+      Hal Pilihan Level Soal_7: -4203816245292547229
+      Hal Pilihan Level Soal_8: 105479202836341906
+      Hal Pilihan Level Soal_9: 1749393689636361755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

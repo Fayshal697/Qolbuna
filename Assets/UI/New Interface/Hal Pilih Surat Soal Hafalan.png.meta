@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 25dbd749da55c1f4f80cf98a4a3b6dae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5345453818041772320
+    second: Hal Pilih Surat Soal Hafalan_0
+  - first:
+      213: -7707535037514104125
+    second: Hal Pilih Surat Soal Hafalan_1
+  - first:
+      213: -2847899703248098006
+    second: Hal Pilih Surat Soal Hafalan_2
+  - first:
+      213: -4175912778364784565
+    second: Hal Pilih Surat Soal Hafalan_3
+  - first:
+      213: 5753119520435941266
+    second: Hal Pilih Surat Soal Hafalan_4
+  - first:
+      213: 8230394046526771051
+    second: Hal Pilih Surat Soal Hafalan_5
+  - first:
+      213: -1077279964284305827
+    second: Hal Pilih Surat Soal Hafalan_6
+  - first:
+      213: 2393891431840087216
+    second: Hal Pilih Surat Soal Hafalan_7
+  - first:
+      213: 7023552146856165185
+    second: Hal Pilih Surat Soal Hafalan_8
+  - first:
+      213: 8786852274195680917
+    second: Hal Pilih Surat Soal Hafalan_9
+  - first:
+      213: 169150364202212108
+    second: Hal Pilih Surat Soal Hafalan_10
+  - first:
+      213: -6130037021818367163
+    second: Hal Pilih Surat Soal Hafalan_11
+  - first:
+      213: 6208198988792076480
+    second: Hal Pilih Surat Soal Hafalan_12
+  - first:
+      213: -4150812718879660701
+    second: Hal Pilih Surat Soal Hafalan_13
+  - first:
+      213: 2448106651934786009
+    second: Hal Pilih Surat Soal Hafalan_14
+  - first:
+      213: -5012279022026466903
+    second: Hal Pilih Surat Soal Hafalan_15
+  - first:
+      213: 1084093467690147958
+    second: Hal Pilih Surat Soal Hafalan_16
+  - first:
+      213: -659121717949115693
+    second: Hal Pilih Surat Soal Hafalan_17
+  - first:
+      213: -5277479967647525731
+    second: Hal Pilih Surat Soal Hafalan_18
+  - first:
+      213: 2391238500502489216
+    second: Hal Pilih Surat Soal Hafalan_19
+  - first:
+      213: -1886513110849019211
+    second: Hal Pilih Surat Soal Hafalan_20
+  - first:
+      213: -3328291725405935842
+    second: Hal Pilih Surat Soal Hafalan_21
+  - first:
+      213: -3719036543822265145
+    second: Hal Pilih Surat Soal Hafalan_22
+  - first:
+      213: -5326652912157202040
+    second: Hal Pilih Surat Soal Hafalan_23
+  - first:
+      213: 262840519220693781
+    second: Hal Pilih Surat Soal Hafalan_24
+  - first:
+      213: -998925968228300647
+    second: Hal Pilih Surat Soal Hafalan_25
+  - first:
+      213: -2093856567489838880
+    second: Hal Pilih Surat Soal Hafalan_26
+  - first:
+      213: -8049429378978319679
+    second: Hal Pilih Surat Soal Hafalan_27
+  - first:
+      213: -8558824907938671619
+    second: Hal Pilih Surat Soal Hafalan_28
+  - first:
+      213: -2840271052569792220
+    second: Hal Pilih Surat Soal Hafalan_29
+  - first:
+      213: 3240821606708105350
+    second: Hal Pilih Surat Soal Hafalan_30
+  - first:
+      213: -3192775146909529314
+    second: Hal Pilih Surat Soal Hafalan_31
+  - first:
+      213: 8036916699114198209
+    second: Hal Pilih Surat Soal Hafalan_32
+  - first:
+      213: -3035851949995753388
+    second: Hal Pilih Surat Soal Hafalan_33
+  - first:
+      213: 3260274484354357274
+    second: Hal Pilih Surat Soal Hafalan_34
+  - first:
+      213: 3409512221875160265
+    second: Hal Pilih Surat Soal Hafalan_35
+  - first:
+      213: -867236074180545586
+    second: Hal Pilih Surat Soal Hafalan_36
+  - first:
+      213: -8854224234613667299
+    second: Hal Pilih Surat Soal Hafalan_37
+  - first:
+      213: 2289290060862312580
+    second: Hal Pilih Surat Soal Hafalan_38
+  - first:
+      213: 1189185922097734807
+    second: Hal Pilih Surat Soal Hafalan_39
+  - first:
+      213: -4628936396569317370
+    second: Hal Pilih Surat Soal Hafalan_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e65d5ce21221d5b0800000000000000
+      internalID: -5345453818041772320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1862
+        width: 2036
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2481b38b5590590800000000000000
+      internalID: -7707535037514104125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1374
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de4f70f4a3a78d0800000000000000
+      internalID: -2847899703248098006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1600
+        width: 503
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b407d88f37d2c06c0800000000000000
+      internalID: -4175912778364784565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_4
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f23f5f8bf27df40800000000000000
+      internalID: 5753119520435941266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_5
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fc7b067cb383270800000000000000
+      internalID: 8230394046526771051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_6
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3035849bbc01f0800000000000000
+      internalID: -1077279964284305827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_7
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcfda9e29fc83120800000000000000
+      internalID: 2393891431840087216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3bc6177ba87160800000000000000
+      internalID: 7023552146856165185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1380
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e4441b69b21f970800000000000000
+      internalID: 8786852274195680917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_10
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b96eb2c51f85200800000000000000
+      internalID: 169150364202212108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_11
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543d5869ecbbdeaa0800000000000000
+      internalID: -6130037021818367163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_12
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c814ed7614f72650800000000000000
+      internalID: 6208198988792076480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_13
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365210af2d95566c0800000000000000
+      internalID: -4150812718879660701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1031
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d108d0870c69f120800000000000000
+      internalID: 2448106651934786009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1133
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a958f029cec07ab0800000000000000
+      internalID: -5012279022026466903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_16
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1139
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6702efcd3497b0f00800000000000000
+      internalID: 1084093467690147958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d5e92a445ad6f0800000000000000
+      internalID: -659121717949115693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_18
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9411234eef92c6b0800000000000000
+      internalID: -5277479967647525731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_19
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08840b33fb26f2120800000000000000
+      internalID: 2391238500502489216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_20
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b22ab32252c1d5e0800000000000000
+      internalID: -1886513110849019211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17ae4e4f488fc1d0800000000000000
+      internalID: -3328291725405935842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_22
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c407cab7f3536cc0800000000000000
+      internalID: -3719036543822265145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889e111f56de316b0800000000000000
+      internalID: -5326652912157202040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_24
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b8ab44f0cc5a300800000000000000
+      internalID: 262840519220693781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_25
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998c6dadf1a1322f0800000000000000
+      internalID: -998925968228300647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_26
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0462cab8021f2e0800000000000000
+      internalID: -2093856567489838880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c27765a0aeaa4090800000000000000
+      internalID: -8049429378978319679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3dc83c712f83980800000000000000
+      internalID: -8558824907938671619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_29
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b0cda6845598d0800000000000000
+      internalID: -2840271052569792220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_30
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6805f38a416b9fc20800000000000000
+      internalID: 3240821606708105350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_31
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b03c08bebf0b3d0800000000000000
+      internalID: -3192775146909529314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_32
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 668
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45b1c082dd88f60800000000000000
+      internalID: 8036916699114198209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45083d17cbc7ed5d0800000000000000
+      internalID: -3035851949995753388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_34
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18163eae52de3d20800000000000000
+      internalID: 3260274484354357274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_35
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4c83a2d45015f20800000000000000
+      internalID: 3409512221875160265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_36
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37016a265f6f3f0800000000000000
+      internalID: -867236074180545586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_37
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a823668f97f1580800000000000000
+      internalID: -8854224234613667299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_38
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480d7816e2135cf10800000000000000
+      internalID: 2289290060862312580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_39
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794e78aab46d08010800000000000000
+      internalID: 1189185922097734807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilih Surat Soal Hafalan_40
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600fb9a5fd6b2cfb0800000000000000
+      internalID: -4628936396569317370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hal Pilih Surat Soal Hafalan_0: -5345453818041772320
+      Hal Pilih Surat Soal Hafalan_1: -7707535037514104125
+      Hal Pilih Surat Soal Hafalan_10: 169150364202212108
+      Hal Pilih Surat Soal Hafalan_11: -6130037021818367163
+      Hal Pilih Surat Soal Hafalan_12: 6208198988792076480
+      Hal Pilih Surat Soal Hafalan_13: -4150812718879660701
+      Hal Pilih Surat Soal Hafalan_14: 2448106651934786009
+      Hal Pilih Surat Soal Hafalan_15: -5012279022026466903
+      Hal Pilih Surat Soal Hafalan_16: 1084093467690147958
+      Hal Pilih Surat Soal Hafalan_17: -659121717949115693
+      Hal Pilih Surat Soal Hafalan_18: -5277479967647525731
+      Hal Pilih Surat Soal Hafalan_19: 2391238500502489216
+      Hal Pilih Surat Soal Hafalan_2: -2847899703248098006
+      Hal Pilih Surat Soal Hafalan_20: -1886513110849019211
+      Hal Pilih Surat Soal Hafalan_21: -3328291725405935842
+      Hal Pilih Surat Soal Hafalan_22: -3719036543822265145
+      Hal Pilih Surat Soal Hafalan_23: -5326652912157202040
+      Hal Pilih Surat Soal Hafalan_24: 262840519220693781
+      Hal Pilih Surat Soal Hafalan_25: -998925968228300647
+      Hal Pilih Surat Soal Hafalan_26: -2093856567489838880
+      Hal Pilih Surat Soal Hafalan_27: -8049429378978319679
+      Hal Pilih Surat Soal Hafalan_28: -8558824907938671619
+      Hal Pilih Surat Soal Hafalan_29: -2840271052569792220
+      Hal Pilih Surat Soal Hafalan_3: -4175912778364784565
+      Hal Pilih Surat Soal Hafalan_30: 3240821606708105350
+      Hal Pilih Surat Soal Hafalan_31: -3192775146909529314
+      Hal Pilih Surat Soal Hafalan_32: 8036916699114198209
+      Hal Pilih Surat Soal Hafalan_33: -3035851949995753388
+      Hal Pilih Surat Soal Hafalan_34: 3260274484354357274
+      Hal Pilih Surat Soal Hafalan_35: 3409512221875160265
+      Hal Pilih Surat Soal Hafalan_36: -867236074180545586
+      Hal Pilih Surat Soal Hafalan_37: -8854224234613667299
+      Hal Pilih Surat Soal Hafalan_38: 2289290060862312580
+      Hal Pilih Surat Soal Hafalan_39: 1189185922097734807
+      Hal Pilih Surat Soal Hafalan_4: 5753119520435941266
+      Hal Pilih Surat Soal Hafalan_40: -4628936396569317370
+      Hal Pilih Surat Soal Hafalan_5: 8230394046526771051
+      Hal Pilih Surat Soal Hafalan_6: -1077279964284305827
+      Hal Pilih Surat Soal Hafalan_7: 2393891431840087216
+      Hal Pilih Surat Soal Hafalan_8: 7023552146856165185
+      Hal Pilih Surat Soal Hafalan_9: 8786852274195680917
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

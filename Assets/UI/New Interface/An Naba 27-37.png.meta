@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 0ca8861bd237eb74f812939cb74f0fde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2104110181532863561
+    second: An Naba 27-37_0
+  - first:
+      213: 3885122111059267139
+    second: An Naba 27-37_1
+  - first:
+      213: -7368422192400544343
+    second: An Naba 27-37_2
+  - first:
+      213: 196707091676398939
+    second: An Naba 27-37_3
+  - first:
+      213: 4829014188584780058
+    second: An Naba 27-37_4
+  - first:
+      213: 79564003715517571
+    second: An Naba 27-37_5
+  - first:
+      213: -3757113597634411189
+    second: An Naba 27-37_6
+  - first:
+      213: -357416973365375343
+    second: An Naba 27-37_7
+  - first:
+      213: -7888953425006461712
+    second: An Naba 27-37_8
+  - first:
+      213: -529116154641522183
+    second: An Naba 27-37_9
+  - first:
+      213: 3410034784819530522
+    second: An Naba 27-37_10
+  - first:
+      213: -2629698571680285818
+    second: An Naba 27-37_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: An Naba 27-37_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1869
+        width: 1275
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8c82ef0d433d10800000000000000
+      internalID: 2104110181532863561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_1
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1869
+        width: 1647
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e04bac9f9bae530800000000000000
+      internalID: 3885122111059267139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1514
+        width: 1749
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4cda3e0b1eb990800000000000000
+      internalID: -7368422192400544343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_3
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1514
+        width: 1563
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b550c24ce08dab200800000000000000
+      internalID: 196707091676398939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1160
+        width: 1037
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11caedb1da140340800000000000000
+      internalID: 4829014188584780058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_5
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1153
+        width: 1032
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0f523a0baa1100800000000000000
+      internalID: 79564003715517571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_6
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 1153
+        width: 1176
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b450638c61d0cdbc0800000000000000
+      internalID: -3757113597634411189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 794
+        width: 1819
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e8cd908233a0bf0800000000000000
+      internalID: -357416973365375343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_8
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 801
+        width: 977
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc73ec48aec48290800000000000000
+      internalID: -7888953425006461712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 434
+        width: 1740
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1eba529a338a8f0800000000000000
+      internalID: -529116154641522183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_10
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 436
+        width: 1649
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bc4e4d190e25f20800000000000000
+      internalID: 3410034784819530522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An Naba 27-37_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 98
+        width: 1762
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bf4a0f41f618bd0800000000000000
+      internalID: -2629698571680285818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      An Naba 27-37_0: 2104110181532863561
+      An Naba 27-37_1: 3885122111059267139
+      An Naba 27-37_10: 3410034784819530522
+      An Naba 27-37_11: -2629698571680285818
+      An Naba 27-37_2: -7368422192400544343
+      An Naba 27-37_3: 196707091676398939
+      An Naba 27-37_4: 4829014188584780058
+      An Naba 27-37_5: 79564003715517571
+      An Naba 27-37_6: -3757113597634411189
+      An Naba 27-37_7: -357416973365375343
+      An Naba 27-37_8: -7888953425006461712
+      An Naba 27-37_9: -529116154641522183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 5a03774d46357704c889fd2523389d03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5098988114007673773
+    second: Al Qiyamah 14-26_0
+  - first:
+      213: -4185721912032692147
+    second: Al Qiyamah 14-26_1
+  - first:
+      213: -5251220468654418625
+    second: Al Qiyamah 14-26_2
+  - first:
+      213: 7151616433383500897
+    second: Al Qiyamah 14-26_3
+  - first:
+      213: 1577063657186636782
+    second: Al Qiyamah 14-26_4
+  - first:
+      213: -2980202386981831106
+    second: Al Qiyamah 14-26_5
+  - first:
+      213: -795654238610992845
+    second: Al Qiyamah 14-26_6
+  - first:
+      213: -3286911199805836637
+    second: Al Qiyamah 14-26_7
+  - first:
+      213: -6533341750984588093
+    second: Al Qiyamah 14-26_8
+  - first:
+      213: 1702321895184997517
+    second: Al Qiyamah 14-26_9
+  - first:
+      213: -5149223813520735590
+    second: Al Qiyamah 14-26_10
+  - first:
+      213: 5927184484472683743
+    second: Al Qiyamah 14-26_11
+  - first:
+      213: 1015271905194795807
+    second: Al Qiyamah 14-26_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1893
+        width: 1205
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35432ae6351cc39b0800000000000000
+      internalID: -5098988114007673773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_1
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1893
+        width: 1720
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f8b0191459e5c0800000000000000
+      internalID: -4185721912032692147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_2
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1486
+        width: 1414
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35d7905ecaef17b0800000000000000
+      internalID: -5251220468654418625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_3
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1486
+        width: 1758
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c6ba95145af3360800000000000000
+      internalID: 7151616433383500897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_4
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1146
+        width: 1122
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3b9c26a0bd2e510800000000000000
+      internalID: 1577063657186636782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_5
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 1146
+        width: 1421
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e3d2508b134a6d0800000000000000
+      internalID: -2980202386981831106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 740
+        width: 1293
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331de8f7fa445f4f0800000000000000
+      internalID: -795654238610992845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_7
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 740
+        width: 1071
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2f157bdab8262d0800000000000000
+      internalID: -3286911199805836637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_8
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 740
+        width: 1415
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4c558ea48e455a0800000000000000
+      internalID: -6533341750984588093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_9
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 400
+        width: 1359
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1fdf8ebcdf9710800000000000000
+      internalID: 1702321895184997517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_10
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 400
+        width: 1025
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a924d1e29384a88b0800000000000000
+      internalID: -5149223813520735590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_11
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 60
+        width: 1339
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc733392e6914250800000000000000
+      internalID: 5927184484472683743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al Qiyamah 14-26_12
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 60
+        width: 1509
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13e19b2b68f61e00800000000000000
+      internalID: 1015271905194795807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al Qiyamah 14-26_0: -5098988114007673773
+      Al Qiyamah 14-26_1: -4185721912032692147
+      Al Qiyamah 14-26_10: -5149223813520735590
+      Al Qiyamah 14-26_11: 5927184484472683743
+      Al Qiyamah 14-26_12: 1015271905194795807
+      Al Qiyamah 14-26_2: -5251220468654418625
+      Al Qiyamah 14-26_3: 7151616433383500897
+      Al Qiyamah 14-26_4: 1577063657186636782
+      Al Qiyamah 14-26_5: -2980202386981831106
+      Al Qiyamah 14-26_6: -795654238610992845
+      Al Qiyamah 14-26_7: -3286911199805836637
+      Al Qiyamah 14-26_8: -6533341750984588093
+      Al Qiyamah 14-26_9: 1702321895184997517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

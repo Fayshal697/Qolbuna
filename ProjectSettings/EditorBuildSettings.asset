@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/06. Soal Evaluasi (5).unity
     guid: 97b17b69a7f812846a611d7d84ab3766
+  - enabled: 1
+    path: Assets/Scenes/07. Menu Surah (6).unity
+    guid: 23847fb3ab826824ca826287a45c78ef
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,1131 @@
+fileFormatVersion: 2
+guid: b4c48104770ebcf4392bea5e473cde88
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4476167317596911463
+    second: Hal Pilihan Jawaban Soal (36)_0
+  - first:
+      213: 4157938252626985547
+    second: Hal Pilihan Jawaban Soal (36)_1
+  - first:
+      213: -7115552953541718176
+    second: Hal Pilihan Jawaban Soal (36)_2
+  - first:
+      213: -3546291878649308225
+    second: Hal Pilihan Jawaban Soal (36)_3
+  - first:
+      213: 1194616767128519379
+    second: Hal Pilihan Jawaban Soal (36)_4
+  - first:
+      213: 4843556714892050236
+    second: Hal Pilihan Jawaban Soal (36)_5
+  - first:
+      213: -7367220944463044920
+    second: Hal Pilihan Jawaban Soal (36)_6
+  - first:
+      213: -6220677659490653994
+    second: Hal Pilihan Jawaban Soal (36)_7
+  - first:
+      213: 4462649105813373795
+    second: Hal Pilihan Jawaban Soal (36)_8
+  - first:
+      213: 3633397298946739840
+    second: Hal Pilihan Jawaban Soal (36)_9
+  - first:
+      213: 6584786367371080330
+    second: Hal Pilihan Jawaban Soal (36)_10
+  - first:
+      213: 7630051988636495653
+    second: Hal Pilihan Jawaban Soal (36)_11
+  - first:
+      213: 1079461902276345073
+    second: Hal Pilihan Jawaban Soal (36)_12
+  - first:
+      213: 1185872267468999169
+    second: Hal Pilihan Jawaban Soal (36)_13
+  - first:
+      213: 6817380647206565951
+    second: Hal Pilihan Jawaban Soal (36)_14
+  - first:
+      213: -7916546184961898401
+    second: Hal Pilihan Jawaban Soal (36)_15
+  - first:
+      213: 7123424981320761745
+    second: Hal Pilihan Jawaban Soal (36)_16
+  - first:
+      213: -8420696755822318688
+    second: Hal Pilihan Jawaban Soal (36)_17
+  - first:
+      213: -800285496239264927
+    second: Hal Pilihan Jawaban Soal (36)_18
+  - first:
+      213: -6894378164812820107
+    second: Hal Pilihan Jawaban Soal (36)_19
+  - first:
+      213: 687519892971203529
+    second: Hal Pilihan Jawaban Soal (36)_20
+  - first:
+      213: -3812795508311348523
+    second: Hal Pilihan Jawaban Soal (36)_21
+  - first:
+      213: 7680543463841404964
+    second: Hal Pilihan Jawaban Soal (36)_22
+  - first:
+      213: -3133454267372310384
+    second: Hal Pilihan Jawaban Soal (36)_23
+  - first:
+      213: 5756122044352426105
+    second: Hal Pilihan Jawaban Soal (36)_24
+  - first:
+      213: 5589075857709841628
+    second: Hal Pilihan Jawaban Soal (36)_25
+  - first:
+      213: -4195935722746418483
+    second: Hal Pilihan Jawaban Soal (36)_26
+  - first:
+      213: 8731436445570143318
+    second: Hal Pilihan Jawaban Soal (36)_27
+  - first:
+      213: 6780959394326559934
+    second: Hal Pilihan Jawaban Soal (36)_28
+  - first:
+      213: 7517845759371034127
+    second: Hal Pilihan Jawaban Soal (36)_29
+  - first:
+      213: 5426714358886174481
+    second: Hal Pilihan Jawaban Soal (36)_30
+  - first:
+      213: 3933953368373654389
+    second: Hal Pilihan Jawaban Soal (36)_31
+  - first:
+      213: -7552176073884251579
+    second: Hal Pilihan Jawaban Soal (36)_32
+  - first:
+      213: 1088913204528617394
+    second: Hal Pilihan Jawaban Soal (36)_33
+  - first:
+      213: -3414174227878759284
+    second: Hal Pilihan Jawaban Soal (36)_34
+  - first:
+      213: -2136040136735288357
+    second: Hal Pilihan Jawaban Soal (36)_35
+  - first:
+      213: 3141579585549164534
+    second: Hal Pilihan Jawaban Soal (36)_36
+  - first:
+      213: -7655216936615669515
+    second: Hal Pilihan Jawaban Soal (36)_37
+  - first:
+      213: -7512358782746223736
+    second: Hal Pilihan Jawaban Soal (36)_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767b398a57a8e1e30800000000000000
+      internalID: 4476167317596911463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1848
+        width: 1054
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4207d1afc6f3b930800000000000000
+      internalID: 4157938252626985547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_2
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1845
+        width: 640
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0aafd94a704d90800000000000000
+      internalID: -7115552953541718176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_3
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1848
+        width: 582
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb514f435a09cec0800000000000000
+      internalID: -3546291878649308225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1409
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2cb6fce91249010800000000000000
+      internalID: 1194616767128519379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_5
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1302
+        width: 281
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f39908b25c73340800000000000000
+      internalID: 4843556714892050236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_6
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1484
+        width: 565
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce567f859f52c990800000000000000
+      internalID: -7367220944463044920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_7
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1486
+        width: 271
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e9d390a6bba9a0800000000000000
+      internalID: -6220677659490653994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_8
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 1507
+        width: 147
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3638835b7b38eed30800000000000000
+      internalID: 4462649105813373795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1085
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e8593c79b6c6230800000000000000
+      internalID: 3633397298946739840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_10
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1304
+        width: 185
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82fcfc305cd16b50800000000000000
+      internalID: 6584786367371080330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_11
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1294
+        width: 98
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe070abd363e960800000000000000
+      internalID: 7630051988636495653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_12
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1276
+        width: 236
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcbfb181e40bfe00800000000000000
+      internalID: 1079461902276345073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_13
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1305
+        width: 403
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a0a735b80157010800000000000000
+      internalID: 1185872267468999169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_14
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1304
+        width: 268
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38be5f14933c9e50800000000000000
+      internalID: 6817380647206565951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_15
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 933
+        width: 300
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f584f5d3037c22290800000000000000
+      internalID: -7916546184961898401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_16
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1028
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19184cb674d7bd260800000000000000
+      internalID: 7123424981320761745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_17
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1049
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab2de35aeca32b80800000000000000
+      internalID: -8420696755822318688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_18
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1049
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be2cdc490d4e4f0800000000000000
+      internalID: -800285496239264927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_19
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 950
+        width: 295
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5715f1b469f3250a0800000000000000
+      internalID: -6894378164812820107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_20
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1028
+        width: 77
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb209433bf8a8900800000000000000
+      internalID: 687519892971203529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_21
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1042
+        width: 235
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5daa5edafaa361bc0800000000000000
+      internalID: -3812795508311348523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_22
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 1045
+        width: 241
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428173c4695c69a60800000000000000
+      internalID: 7680543463841404964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_23
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1028
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090775112fbb384d0800000000000000
+      internalID: -3133454267372310384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_24
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1041
+        width: 206
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970fb69808ad1ef40800000000000000
+      internalID: 5756122044352426105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_25
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 1062
+        width: 62
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb18161e2609d40800000000000000
+      internalID: 5589075857709841628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_26
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 493
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae351f0ba05c5c0800000000000000
+      internalID: -4195935722746418483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_27
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 608
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6549b15af2b4c2970800000000000000
+      internalID: 8731436445570143318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_28
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 587
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcbe2f54aeca1e50800000000000000
+      internalID: 6780959394326559934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_29
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 574
+        width: 101
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ebc7b03e0c45860800000000000000
+      internalID: 7517845759371034127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_30
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 588
+        width: 192
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0cea15ff8f4b40800000000000000
+      internalID: 5426714358886174481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_31
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 588
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573fcdcdeb5389630800000000000000
+      internalID: 3933953368373654389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_32
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 588
+        width: 164
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54acceabfd7413790800000000000000
+      internalID: -7552176073884251579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_33
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 482
+        width: 295
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7192b4ac89c1f00800000000000000
+      internalID: 1088913204528617394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_34
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 563
+        width: 373
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c843ef9f0aa6e90d0800000000000000
+      internalID: -3414174227878759284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_35
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 553
+        width: 157
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39ae710d24b52e0800000000000000
+      internalID: -2136040136735288357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_36
+      rect:
+        serializedVersion: 2
+        x: 2974
+        y: 573
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffd64efcf1299b20800000000000000
+      internalID: 3141579585549164534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_37
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 574
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0187651c433c590800000000000000
+      internalID: -7655216936615669515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Pilihan Jawaban Soal (36)_38
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 47
+        width: 753
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b10214d7dbeb790800000000000000
+      internalID: -7512358782746223736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hal Pilihan Jawaban Soal (36)_0: 4476167317596911463
+      Hal Pilihan Jawaban Soal (36)_1: 4157938252626985547
+      Hal Pilihan Jawaban Soal (36)_10: 6584786367371080330
+      Hal Pilihan Jawaban Soal (36)_11: 7630051988636495653
+      Hal Pilihan Jawaban Soal (36)_12: 1079461902276345073
+      Hal Pilihan Jawaban Soal (36)_13: 1185872267468999169
+      Hal Pilihan Jawaban Soal (36)_14: 6817380647206565951
+      Hal Pilihan Jawaban Soal (36)_15: -7916546184961898401
+      Hal Pilihan Jawaban Soal (36)_16: 7123424981320761745
+      Hal Pilihan Jawaban Soal (36)_17: -8420696755822318688
+      Hal Pilihan Jawaban Soal (36)_18: -800285496239264927
+      Hal Pilihan Jawaban Soal (36)_19: -6894378164812820107
+      Hal Pilihan Jawaban Soal (36)_2: -7115552953541718176
+      Hal Pilihan Jawaban Soal (36)_20: 687519892971203529
+      Hal Pilihan Jawaban Soal (36)_21: -3812795508311348523
+      Hal Pilihan Jawaban Soal (36)_22: 7680543463841404964
+      Hal Pilihan Jawaban Soal (36)_23: -3133454267372310384
+      Hal Pilihan Jawaban Soal (36)_24: 5756122044352426105
+      Hal Pilihan Jawaban Soal (36)_25: 5589075857709841628
+      Hal Pilihan Jawaban Soal (36)_26: -4195935722746418483
+      Hal Pilihan Jawaban Soal (36)_27: 8731436445570143318
+      Hal Pilihan Jawaban Soal (36)_28: 6780959394326559934
+      Hal Pilihan Jawaban Soal (36)_29: 7517845759371034127
+      Hal Pilihan Jawaban Soal (36)_3: -3546291878649308225
+      Hal Pilihan Jawaban Soal (36)_30: 5426714358886174481
+      Hal Pilihan Jawaban Soal (36)_31: 3933953368373654389
+      Hal Pilihan Jawaban Soal (36)_32: -7552176073884251579
+      Hal Pilihan Jawaban Soal (36)_33: 1088913204528617394
+      Hal Pilihan Jawaban Soal (36)_34: -3414174227878759284
+      Hal Pilihan Jawaban Soal (36)_35: -2136040136735288357
+      Hal Pilihan Jawaban Soal (36)_36: 3141579585549164534
+      Hal Pilihan Jawaban Soal (36)_37: -7655216936615669515
+      Hal Pilihan Jawaban Soal (36)_38: -7512358782746223736
+      Hal Pilihan Jawaban Soal (36)_4: 1194616767128519379
+      Hal Pilihan Jawaban Soal (36)_5: 4843556714892050236
+      Hal Pilihan Jawaban Soal (36)_6: -7367220944463044920
+      Hal Pilihan Jawaban Soal (36)_7: -6220677659490653994
+      Hal Pilihan Jawaban Soal (36)_8: 4462649105813373795
+      Hal Pilihan Jawaban Soal (36)_9: 3633397298946739840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

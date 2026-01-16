@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: ed2a148ac322d4e42bc8e3b4a9b161e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6167261901597845248
+    second: HAL Pilih Surat_0
+  - first:
+      213: -5183485284384095477
+    second: HAL Pilih Surat_1
+  - first:
+      213: 4034780071919013929
+    second: HAL Pilih Surat_2
+  - first:
+      213: -8896257419210042288
+    second: HAL Pilih Surat_3
+  - first:
+      213: -7073887912744604145
+    second: HAL Pilih Surat_4
+  - first:
+      213: 2490401971238471283
+    second: HAL Pilih Surat_5
+  - first:
+      213: -6590936856961108164
+    second: HAL Pilih Surat_6
+  - first:
+      213: -4369323891254458611
+    second: HAL Pilih Surat_7
+  - first:
+      213: 3524930941768224544
+    second: HAL Pilih Surat_8
+  - first:
+      213: -3995491491677818433
+    second: HAL Pilih Surat_9
+  - first:
+      213: 7670761015984982270
+    second: HAL Pilih Surat_10
+  - first:
+      213: 4966816530441908750
+    second: HAL Pilih Surat_11
+  - first:
+      213: -4389277643169345078
+    second: HAL Pilih Surat_12
+  - first:
+      213: 3019083653249907015
+    second: HAL Pilih Surat_13
+  - first:
+      213: 662391937126730260
+    second: HAL Pilih Surat_14
+  - first:
+      213: 3103395031724912133
+    second: HAL Pilih Surat_15
+  - first:
+      213: -134597214783877474
+    second: HAL Pilih Surat_16
+  - first:
+      213: -2050129290333809437
+    second: HAL Pilih Surat_17
+  - first:
+      213: 495099948804580979
+    second: HAL Pilih Surat_18
+  - first:
+      213: -9096086463853709139
+    second: HAL Pilih Surat_19
+  - first:
+      213: -4540716962090206701
+    second: HAL Pilih Surat_20
+  - first:
+      213: -1253954654297343416
+    second: HAL Pilih Surat_21
+  - first:
+      213: 2552388424504184742
+    second: HAL Pilih Surat_22
+  - first:
+      213: -3241041170637290322
+    second: HAL Pilih Surat_23
+  - first:
+      213: -6634357454298533226
+    second: HAL Pilih Surat_24
+  - first:
+      213: -9173031086528123846
+    second: HAL Pilih Surat_25
+  - first:
+      213: -7336512753644379983
+    second: HAL Pilih Surat_26
+  - first:
+      213: -1112925742089511996
+    second: HAL Pilih Surat_27
+  - first:
+      213: 2194698366647072111
+    second: HAL Pilih Surat_28
+  - first:
+      213: 4550307360845406447
+    second: HAL Pilih Surat_29
+  - first:
+      213: -6150642724617895977
+    second: HAL Pilih Surat_30
+  - first:
+      213: 379790574889343357
+    second: HAL Pilih Surat_31
+  - first:
+      213: -9031498786046633318
+    second: HAL Pilih Surat_32
+  - first:
+      213: -8149659766051034973
+    second: HAL Pilih Surat_33
+  - first:
+      213: -3941120022257136451
+    second: HAL Pilih Surat_34
+  - first:
+      213: 8657826871275918513
+    second: HAL Pilih Surat_35
+  - first:
+      213: -8208430577946314894
+    second: HAL Pilih Surat_36
+  - first:
+      213: 2680701474007140982
+    second: HAL Pilih Surat_37
+  - first:
+      213: -5458341830683627699
+    second: HAL Pilih Surat_38
+  - first:
+      213: -8512381889862397053
+    second: HAL Pilih Surat_39
+  - first:
+      213: 5257378794588984853
+    second: HAL Pilih Surat_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HAL Pilih Surat_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d57ed9fb796aa0800000000000000
+      internalID: -6167261901597845248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_1
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1914
+        width: 1345
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0342ddd89f8018b0800000000000000
+      internalID: -5183485284384095477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1374
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920de85291b6ef730800000000000000
+      internalID: 4034780071919013929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1600
+        width: 503
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0545d89f2052a8480800000000000000
+      internalID: -8896257419210042288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_4
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eade32c6084dd90800000000000000
+      internalID: -7073887912744604145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_5
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3760a9be56faf8220800000000000000
+      internalID: 2490401971238471283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_6
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37bdcf49d94884a0800000000000000
+      internalID: -6590936856961108164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_7
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1593
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d078621121b0d53c0800000000000000
+      internalID: -4369323891254458611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc0e104021be030800000000000000
+      internalID: 3524930941768224544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1380
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b27748a92d88c0800000000000000
+      internalID: -3995491491677818433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_10
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef803baa084047a60800000000000000
+      internalID: 7670761015984982270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_11
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e023781b15dade440800000000000000
+      internalID: 4966816530441908750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_12
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d35a2d372613c0800000000000000
+      internalID: -4389277643169345078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_13
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1380
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749362b3690f5e920800000000000000
+      internalID: 3019083653249907015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1031
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a858215f9413900800000000000000
+      internalID: 662391937126730260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_15
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1133
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eecafb659711b20800000000000000
+      internalID: 3103395031724912133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_16
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1139
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ecc09db80d12ef0800000000000000
+      internalID: -134597214783877474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_17
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49702c54a7c83e0800000000000000
+      internalID: -2050129290333809437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_18
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376afc0c7c2fed600800000000000000
+      internalID: 495099948804580979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_19
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8b2c3ed8534c180800000000000000
+      internalID: -9096086463853709139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_20
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1139
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab5011bf12cf0c0800000000000000
+      internalID: -4540716962090206701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_21
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ab82ab2ee099ee0800000000000000
+      internalID: -1253954654297343416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_22
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af046bbfb7eb6320800000000000000
+      internalID: 2552388424504184742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_23
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea48fb12a328503d0800000000000000
+      internalID: -3241041170637290322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_24
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692329fab070ee3a0800000000000000
+      internalID: -6634357454298533226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_25
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c20edd3d8d2b080800000000000000
+      internalID: -9173031086528123846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_26
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 903
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b067e465887f2a90800000000000000
+      internalID: -7336512753644379983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_27
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbdd512fe71e80f0800000000000000
+      internalID: -1112925742089511996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_28
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f0255982257e10800000000000000
+      internalID: 2194698366647072111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_29
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02906af60f52f30800000000000000
+      internalID: 4550307360845406447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_30
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df3fca870784aaa0800000000000000
+      internalID: -6150642724617895977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_31
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 668
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7912510489454500800000000000000
+      internalID: 379790574889343357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_32
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 668
+        width: 489
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a915c74bba9a280800000000000000
+      internalID: -9031498786046633318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82c3c1f9796ee80800000000000000
+      internalID: -8149659766051034973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_34
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc0f2088345e49c0800000000000000
+      internalID: -3941120022257136451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_35
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b49b351ba7c62870800000000000000
+      internalID: 8657826871275918513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_36
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2773e0621ebc51e80800000000000000
+      internalID: -8208430577946314894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_37
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 440
+        width: 488
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67acf03a9c3c33520800000000000000
+      internalID: 2680701474007140982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_38
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f627746031044b0800000000000000
+      internalID: -5458341830683627699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_39
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383984e85c1fdd980800000000000000
+      internalID: -8512381889862397053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HAL Pilih Surat_40
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 224
+        width: 488
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d52da826f5f840800000000000000
+      internalID: 5257378794588984853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HAL Pilih Surat_0: -6167261901597845248
+      HAL Pilih Surat_1: -5183485284384095477
+      HAL Pilih Surat_10: 7670761015984982270
+      HAL Pilih Surat_11: 4966816530441908750
+      HAL Pilih Surat_12: -4389277643169345078
+      HAL Pilih Surat_13: 3019083653249907015
+      HAL Pilih Surat_14: 662391937126730260
+      HAL Pilih Surat_15: 3103395031724912133
+      HAL Pilih Surat_16: -134597214783877474
+      HAL Pilih Surat_17: -2050129290333809437
+      HAL Pilih Surat_18: 495099948804580979
+      HAL Pilih Surat_19: -9096086463853709139
+      HAL Pilih Surat_2: 4034780071919013929
+      HAL Pilih Surat_20: -4540716962090206701
+      HAL Pilih Surat_21: -1253954654297343416
+      HAL Pilih Surat_22: 2552388424504184742
+      HAL Pilih Surat_23: -3241041170637290322
+      HAL Pilih Surat_24: -6634357454298533226
+      HAL Pilih Surat_25: -9173031086528123846
+      HAL Pilih Surat_26: -7336512753644379983
+      HAL Pilih Surat_27: -1112925742089511996
+      HAL Pilih Surat_28: 2194698366647072111
+      HAL Pilih Surat_29: 4550307360845406447
+      HAL Pilih Surat_3: -8896257419210042288
+      HAL Pilih Surat_30: -6150642724617895977
+      HAL Pilih Surat_31: 379790574889343357
+      HAL Pilih Surat_32: -9031498786046633318
+      HAL Pilih Surat_33: -8149659766051034973
+      HAL Pilih Surat_34: -3941120022257136451
+      HAL Pilih Surat_35: 8657826871275918513
+      HAL Pilih Surat_36: -8208430577946314894
+      HAL Pilih Surat_37: 2680701474007140982
+      HAL Pilih Surat_38: -5458341830683627699
+      HAL Pilih Surat_39: -8512381889862397053
+      HAL Pilih Surat_4: -7073887912744604145
+      HAL Pilih Surat_40: 5257378794588984853
+      HAL Pilih Surat_5: 2490401971238471283
+      HAL Pilih Surat_6: -6590936856961108164
+      HAL Pilih Surat_7: -4369323891254458611
+      HAL Pilih Surat_8: 3524930941768224544
+      HAL Pilih Surat_9: -3995491491677818433
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

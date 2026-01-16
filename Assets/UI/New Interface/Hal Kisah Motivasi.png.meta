@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: c9d713c25dbd12f42bebb984038671cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4164701842082401485
+    second: Hal Kisah Motivasi_0
+  - first:
+      213: 9190369271717723711
+    second: Hal Kisah Motivasi_1
+  - first:
+      213: -4582951455349921548
+    second: Hal Kisah Motivasi_2
+  - first:
+      213: 2648318099007372134
+    second: Hal Kisah Motivasi_3
+  - first:
+      213: 3673225845028423369
+    second: Hal Kisah Motivasi_4
+  - first:
+      213: 5425360571387142674
+    second: Hal Kisah Motivasi_5
+  - first:
+      213: -7294056187658099557
+    second: Hal Kisah Motivasi_6
+  - first:
+      213: 6189745945039002290
+    second: Hal Kisah Motivasi_7
+  - first:
+      213: -6968081432824883967
+    second: Hal Kisah Motivasi_8
+  - first:
+      213: 8505796262723388887
+    second: Hal Kisah Motivasi_9
+  - first:
+      213: 3649300298785627042
+    second: Hal Kisah Motivasi_10
+  - first:
+      213: 2029006882716033581
+    second: Hal Kisah Motivasi_11
+  - first:
+      213: 4896148187993332001
+    second: Hal Kisah Motivasi_12
+  - first:
+      213: -8493272656902721951
+    second: Hal Kisah Motivasi_13
+  - first:
+      213: -8729281926426566013
+    second: Hal Kisah Motivasi_14
+  - first:
+      213: 1034970119260187438
+    second: Hal Kisah Motivasi_15
+  - first:
+      213: 3712430364717199089
+    second: Hal Kisah Motivasi_16
+  - first:
+      213: -340133821235064046
+    second: Hal Kisah Motivasi_17
+  - first:
+      213: -4264369789707098783
+    second: Hal Kisah Motivasi_18
+  - first:
+      213: 5297294982820709260
+    second: Hal Kisah Motivasi_19
+  - first:
+      213: -2169617388453860263
+    second: Hal Kisah Motivasi_20
+  - first:
+      213: -4906586492548713902
+    second: Hal Kisah Motivasi_21
+  - first:
+      213: -8910685443489404183
+    second: Hal Kisah Motivasi_22
+  - first:
+      213: 6654224165928232649
+    second: Hal Kisah Motivasi_23
+  - first:
+      213: -1658484589173542617
+    second: Hal Kisah Motivasi_24
+  - first:
+      213: -2859995162853104012
+    second: Hal Kisah Motivasi_25
+  - first:
+      213: -4635547006324484317
+    second: Hal Kisah Motivasi_26
+  - first:
+      213: 7475171994968955844
+    second: Hal Kisah Motivasi_27
+  - first:
+      213: -7292431090953505383
+    second: Hal Kisah Motivasi_28
+  - first:
+      213: 223820666262525278
+    second: Hal Kisah Motivasi_29
+  - first:
+      213: 5460453309274816955
+    second: Hal Kisah Motivasi_30
+  - first:
+      213: -7597499394818469299
+    second: Hal Kisah Motivasi_31
+  - first:
+      213: -1193810069576212384
+    second: Hal Kisah Motivasi_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc8cb4824efbc930800000000000000
+      internalID: 4164701842082401485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_1
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1896
+        width: 1452
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7663f820ca8f70800000000000000
+      internalID: 9190369271717723711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_2
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1642
+        width: 325
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f82201dee51660c0800000000000000
+      internalID: -4582951455349921548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_3
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1622
+        width: 332
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b72979747b0c420800000000000000
+      internalID: 2648318099007372134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_4
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1685
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c604b8c17be9f230800000000000000
+      internalID: 3673225845028423369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_5
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1642
+        width: 282
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e0f3e1b0ca4b40800000000000000
+      internalID: 5425360571387142674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_6
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 1642
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9426eafa8e46ca90800000000000000
+      internalID: -7294056187658099557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_7
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1623
+        width: 389
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad6ff642566e550800000000000000
+      internalID: 6189745945039002290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_8
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 1622
+        width: 242
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1055a76fad66c4f90800000000000000
+      internalID: -6968081432824883967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1409
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d50973a2a8aa0670800000000000000
+      internalID: 8505796262723388887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_10
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1643
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab18d3794be4a230800000000000000
+      internalID: 3649300298785627042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_11
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1500
+        width: 356
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22ac1b720b782c10800000000000000
+      internalID: 2029006882716033581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_12
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1500
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129d30906dc92f340800000000000000
+      internalID: 4896148187993332001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_13
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1500
+        width: 463
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e66c09485d12a80800000000000000
+      internalID: -8493272656902721951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1085
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826b1f665c5bd680800000000000000
+      internalID: -8729281926426566013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_15
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1304
+        width: 493
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ba5a707d3fc5e00800000000000000
+      internalID: 1034970119260187438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_16
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1291
+        width: 439
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fea7565fb3358330800000000000000
+      internalID: 3712430364717199089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_17
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 1284
+        width: 599
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2131039771a974bf0800000000000000
+      internalID: -340133821235064046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_18
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1311
+        width: 118
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e995154ae1d4c0800000000000000
+      internalID: -4264369789707098783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1311
+        width: 318
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83cc7978b5c38940800000000000000
+      internalID: 5297294982820709260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_20
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1147
+        width: 698
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c62b6fa78f3e1e0800000000000000
+      internalID: -2169617388453860263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_21
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 797
+        width: 1986
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25277ebc49d48ebb0800000000000000
+      internalID: -4906586492548713902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_22
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 112
+        width: 754
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae19bccc2e65480800000000000000
+      internalID: -8910685443489404183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_23
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 468
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6e8f19f9d885c50800000000000000
+      internalID: 6654224165928232649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_24
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 473
+        width: 228
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f9dc9d01ebf8e0800000000000000
+      internalID: -1658484589173542617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_25
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 464
+        width: 238
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762ec26d814f48d0800000000000000
+      internalID: -2859995162853104012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_26
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 299
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3275764de8a3bafb0800000000000000
+      internalID: -4635547006324484317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_27
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 228
+        width: 246
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb921303552db760800000000000000
+      internalID: 7475171994968955844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_28
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 229
+        width: 426
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995b3ba4f841cca90800000000000000
+      internalID: -7292431090953505383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_29
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 248
+        width: 619
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5518f9c5bb2b1300800000000000000
+      internalID: 223820666262525278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_30
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 87
+        width: 681
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18ee3aa5d67cb40800000000000000
+      internalID: 5460453309274816955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_31
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 85
+        width: 612
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42999ebd82409690800000000000000
+      internalID: -7597499394818469299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Kisah Motivasi_32
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 80
+        width: 663
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06020a9111cbe6fe0800000000000000
+      internalID: -1193810069576212384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hal Kisah Motivasi_0: 4164701842082401485
+      Hal Kisah Motivasi_1: 9190369271717723711
+      Hal Kisah Motivasi_10: 3649300298785627042
+      Hal Kisah Motivasi_11: 2029006882716033581
+      Hal Kisah Motivasi_12: 4896148187993332001
+      Hal Kisah Motivasi_13: -8493272656902721951
+      Hal Kisah Motivasi_14: -8729281926426566013
+      Hal Kisah Motivasi_15: 1034970119260187438
+      Hal Kisah Motivasi_16: 3712430364717199089
+      Hal Kisah Motivasi_17: -340133821235064046
+      Hal Kisah Motivasi_18: -4264369789707098783
+      Hal Kisah Motivasi_19: 5297294982820709260
+      Hal Kisah Motivasi_2: -4582951455349921548
+      Hal Kisah Motivasi_20: -2169617388453860263
+      Hal Kisah Motivasi_21: -4906586492548713902
+      Hal Kisah Motivasi_22: -8910685443489404183
+      Hal Kisah Motivasi_23: 6654224165928232649
+      Hal Kisah Motivasi_24: -1658484589173542617
+      Hal Kisah Motivasi_25: -2859995162853104012
+      Hal Kisah Motivasi_26: -4635547006324484317
+      Hal Kisah Motivasi_27: 7475171994968955844
+      Hal Kisah Motivasi_28: -7292431090953505383
+      Hal Kisah Motivasi_29: 223820666262525278
+      Hal Kisah Motivasi_3: 2648318099007372134
+      Hal Kisah Motivasi_30: 5460453309274816955
+      Hal Kisah Motivasi_31: -7597499394818469299
+      Hal Kisah Motivasi_32: -1193810069576212384
+      Hal Kisah Motivasi_4: 3673225845028423369
+      Hal Kisah Motivasi_5: 5425360571387142674
+      Hal Kisah Motivasi_6: -7294056187658099557
+      Hal Kisah Motivasi_7: 6189745945039002290
+      Hal Kisah Motivasi_8: -6968081432824883967
+      Hal Kisah Motivasi_9: 8505796262723388887
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
