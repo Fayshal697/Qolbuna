@@ -1915,6 +1915,7 @@ GameObject:
   - component: {fileID: 630132188}
   - component: {fileID: 630132187}
   - component: {fileID: 630132186}
+  - component: {fileID: 630132189}
   m_Layer: 5
   m_Name: '''Abasa'
   m_TagString: Untagged
@@ -1984,7 +1985,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 630132187}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 689971962}
+        m_TargetAssemblyTypeName: UISceneManager, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 6
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &630132187
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2023,6 +2036,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 630132184}
   m_CullTransparentMesh: 1
+--- !u!114 &630132189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 630132184}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099810cb004c9f542a3930e375f2463c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
+  narrationClip: {fileID: 8300000, guid: 994ddad52a82fca4a8ddc2c660c5627a, type: 3}
+  hoverSFX: {fileID: 0}
 --- !u!1 &689971961
 GameObject:
   m_ObjectHideFlags: 0
@@ -3684,6 +3711,7 @@ GameObject:
   - component: {fileID: 1287488578}
   - component: {fileID: 1287488577}
   - component: {fileID: 1287488576}
+  - component: {fileID: 1287488579}
   m_Layer: 5
   m_Name: Al-Infitar
   m_TagString: Untagged
@@ -3792,6 +3820,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1287488574}
   m_CullTransparentMesh: 1
+--- !u!114 &1287488579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1287488574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099810cb004c9f542a3930e375f2463c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
+  narrationClip: {fileID: 0}
+  hoverSFX: {fileID: 0}
 --- !u!1 &1322354571
 GameObject:
   m_ObjectHideFlags: 0
@@ -3804,6 +3846,7 @@ GameObject:
   - component: {fileID: 1322354575}
   - component: {fileID: 1322354574}
   - component: {fileID: 1322354573}
+  - component: {fileID: 1322354576}
   m_Layer: 5
   m_Name: An-Naba'
   m_TagString: Untagged
@@ -3936,6 +3979,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322354571}
   m_CullTransparentMesh: 1
+--- !u!114 &1322354576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1322354571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099810cb004c9f542a3930e375f2463c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
+  narrationClip: {fileID: 8300000, guid: cab32c45d6b31544aa67d6fce17aed2c, type: 3}
+  hoverSFX: {fileID: 0}
 --- !u!1 &1326839659
 GameObject:
   m_ObjectHideFlags: 0
@@ -3981,8 +4038,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NavigationManager
   selectables:
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 783956979}
+  - {fileID: 1322354573}
+  - {fileID: 95678757}
+  - {fileID: 630132186}
+  - {fileID: 752339468}
+  - {fileID: 1004668942}
+  - {fileID: 1287488576}
   backButton: {fileID: 778370156}
   uiSceneManager: {fileID: 689971962}
 --- !u!1 &1344839072
