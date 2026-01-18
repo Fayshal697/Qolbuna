@@ -1,77 +1,91 @@
-using UnityEngine;
-using System.Collections.Generic;
+﻿using UnityEngine;
 using UnityEngine.UI;
+using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 
-public class QuizManager : MonoBehaviour {
-    public int level = 1; // 1..4
-    public QuranData surah;
-    public int questionsPerLevel = 5;
-    public Text questionText;
-    public Button[] choiceButtons;
-    public AudioClip correctClip, wrongClip;
-    int currentQuestion = 0;
-    int score = 0;
-    List<Question> questions;
+public class QuizManager : MonoBehaviour
+{
+    [Header("Soal (Panel)")]
+    public List<QuestionPanel> questions;
 
-    void Start() {
-        GenerateQuestions();
-        DisplayQuestion();
+    [Header("Button Jawaban")]
+    public Button buttonA;
+    public Button buttonB;
+    public Button buttonC;
+    public Button buttonD;
+
+    private int currentIndex = 0;
+    private bool answeredThisQuestion = false;
+
+    private void Start()
+    {
+        ScoreManager.ResetScore();
+        ShowQuestion(currentIndex);
     }
 
-    void GenerateQuestions() {
-        questions = new List<Question>();
-        int startAyat = (level - 1) * 10 + 1;
-        // create questions based on ayat text or audio; here dummy sample
-        for (int i = 0; i < questionsPerLevel; i++) {
-            int ay = startAyat + i;
-            Question q = new Question {
-                prompt = $"Sambung: ayat {ay} dari surah {surah.surahName}",
-                choices = new string[] {"A","B","C","D"},
-                correctIndex = Random.Range(0,4)
-            };
-            questions.Add(q);
+    private void Update()
+    {
+        // INPUT JAWABAN
+        if (!answeredThisQuestion)
+        {
+            if (Input.GetKeyDown(KeyCode.A)) SelectAnswer(0);
+            if (Input.GetKeyDown(KeyCode.S)) SelectAnswer(1);
+            if (Input.GetKeyDown(KeyCode.D)) SelectAnswer(2);
+            if (Input.GetKeyDown(KeyCode.F)) SelectAnswer(3);
+        }
+
+        // NEXT SOAL
+        if (answeredThisQuestion && Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            NextQuestion();
+        }
+
+        // RESET & KELUAR
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            ScoreManager.ResetScore();
+            SceneManager.LoadScene("MainMenu");
+        }
+
+        if (Input.GetKeyDown(KeyCode.Backspace))
+        {
+            ScoreManager.ResetScore();
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         }
     }
 
-    void DisplayQuestion() {
-        if (currentQuestion >= questions.Count) {
-            FinishQuiz();
+    public void SelectAnswer(int index)
+    {
+        if (answeredThisQuestion) return;
+
+        bool correct = questions[currentIndex].IsCorrect(index);
+
+        if (correct)
+            ScoreManager.AddScore(1);
+
+        answeredThisQuestion = true;
+    }
+
+    private void NextQuestion()
+    {
+        currentIndex++;
+
+        if (currentIndex >= questions.Count)
+        {
+            // SEMUA SOAL SELESAI
+            SceneManager.LoadScene("ResultScene");
             return;
         }
-        var q = questions[currentQuestion];
-        questionText.text = q.prompt;
-        // AudioManager.Instance.PlayVoice(q.prompt);
-        for (int i=0;i<choiceButtons.Length;i++){
-            var txt = choiceButtons[i].GetComponentInChildren<Text>();
-            txt.text = q.choices[i];
-            int idx = i;
-            choiceButtons[i].onClick.RemoveAllListeners();
-            choiceButtons[i].onClick.AddListener(()=>OnChoice(idx));
+
+        answeredThisQuestion = false;
+        ShowQuestion(currentIndex);
+    }
+
+    private void ShowQuestion(int index)
+    {
+        for (int i = 0; i < questions.Count; i++)
+        {
+            questions[i].gameObject.SetActive(i == index);
         }
-    }
-
-    void OnChoice(int idx) {
-        var q = questions[currentQuestion];
-        if (idx == q.correctIndex) {
-            score++;
-            AudioManager.Instance.PlaySFX(correctClip);
-            // AudioManager.Instance.PlayVoice("Benar");
-        } else {
-            AudioManager.Instance.PlaySFX(wrongClip);
-            // AudioManager.Instance.PlayVoice("Salah");
-        }
-        currentQuestion++;
-        DisplayQuestion();
-    }
-
-    void FinishQuiz() {
-        // AudioManager.Instance.PlayVoice($"Tes selesai. Skor Anda {score} dari {questions.Count}");
-        // play final narrasi clip or show result screen
-    }
-
-    public class Question {
-        public string prompt;
-        public string[] choices;
-        public int correctIndex;
     }
 }

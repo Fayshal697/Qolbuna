@@ -1,45 +1,68 @@
 ﻿using UnityEngine;
 
-public class SceneFeatureByIndex : MonoBehaviour
+public class UIButtonIndexIdentity : MonoBehaviour
 {
     [System.Serializable]
-    public class FeatureEntry
+    public class SubFeature
     {
-        public int identityIndex;
-        public GameObject[] featureObjects;
+        public int subIndex;
+        public GameObject[] objects;
     }
 
-    [Header("Feature Mapping")]
-    [SerializeField] private FeatureEntry[] features;
+    [System.Serializable]
+    public class Feature
+    {
+        public int mainIndex;
+        public GameObject root;              // parent fitur
+        public SubFeature[] subFeatures;      // optional
+    }
+
+    [Header("Feature Setup")]
+    public Feature[] features;
 
     void Start()
     {
-        DisableAll();
+        Apply();
+    }
 
-        int index = SceneSelectionData.selectedIndex;
+    void Apply()
+    {
+        int main = UIIndexContext.mainIndex;
+        int sub = UIIndexContext.subIndex;
+
+        Debug.Log($"[IDENTITY] main={main}, sub={sub}");
 
         foreach (var feature in features)
         {
-            if (feature.identityIndex == index)
+            bool isMainActive = feature.mainIndex == main;
+
+            // 🔥 ON / OFF fitur utama
+            feature.root.SetActive(isMainActive);
+
+            if (!isMainActive || feature.subFeatures == null)
+                continue;
+
+            // 🔍 ADA SUB INDEX
+            if (sub != -1)
             {
-                Activate(feature.featureObjects);
-                return;
+                foreach (var s in feature.subFeatures)
+                {
+                    bool active = s.subIndex == sub;
+                    SetActive(s.objects, active);
+                }
+            }
+            // 🔍 TIDAK ADA SUB → SEMUA SUB NYALA
+            else
+            {
+                foreach (var s in feature.subFeatures)
+                    SetActive(s.objects, true);
             }
         }
-
-        Debug.LogWarning("No feature matched index: " + index);
     }
 
-    void DisableAll()
-    {
-        foreach (var feature in features)
-            foreach (var go in feature.featureObjects)
-                go.SetActive(false);
-    }
-
-    void Activate(GameObject[] list)
+    void SetActive(GameObject[] list, bool state)
     {
         foreach (var go in list)
-            go.SetActive(true);
+            if (go) go.SetActive(state);
     }
 }

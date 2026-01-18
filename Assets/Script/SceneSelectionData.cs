@@ -1,4 +1,10 @@
-public static class SceneSelectionData
+public static class UIIndexContext
 {
-    public static int selectedIndex = 0;
+    public static int mainIndex = -1;
+    public static int subIndex = -1;
+
+    public static void ResetSub()
+    {
+        subIndex = -1;
+    }
 }

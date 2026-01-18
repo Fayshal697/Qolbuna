@@ -4,10 +4,24 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
+[System.Serializable]
+public class ButtonGroup
+{
+    [Header("Nama Kelompok Button")]
+    public string groupName;
+
+    [Tooltip("Button-button dalam kelompok ini (URUTAN PENTING)")]
+    public List<Selectable> buttons;
+}
+
 public class NavigationManager : MonoBehaviour
 {
-    [Tooltip("Isi semua tombol dalam urutan navigasi")]
-    public List<Selectable> selectables;
+    [Header("Kelompok Button (Inspector Friendly)")]
+    [Tooltip("Urutan group dan urutan button di dalamnya menentukan navigasi")]
+    public List<ButtonGroup> buttonGroups;
+
+    [HideInInspector]
+    public List<Selectable> selectables = new List<Selectable>();
 
     [SerializeField] private Button backButton;
     [SerializeField] private UISceneManager uiSceneManager;
@@ -16,11 +30,29 @@ public class NavigationManager : MonoBehaviour
 
     private void OnEnable()
     {
+        BuildSelectableList();
+
         if (selectables == null || selectables.Count == 0)
             return;
 
         currentIndex = 0;
         StartCoroutine(WaitThenSelect());
+    }
+
+    private void BuildSelectableList()
+    {
+        selectables.Clear();
+
+        foreach (var group in buttonGroups)
+        {
+            if (group == null || group.buttons == null) continue;
+
+            foreach (var btn in group.buttons)
+            {
+                if (btn != null)
+                    selectables.Add(btn);
+            }
+        }
     }
 
     private IEnumerator WaitThenSelect()
@@ -32,12 +64,11 @@ public class NavigationManager : MonoBehaviour
             yield return null;
         }
 
-        // buffer kecil biar aman (1 frame + dikit)
+        // buffer kecil biar aman
         yield return new WaitForSeconds(0.1f);
 
         SelectCurrent();
     }
-
 
     private void Update()
     {
@@ -62,7 +93,6 @@ public class NavigationManager : MonoBehaviour
         {
             AudioManager.Instance.ReplaySceneNarration();
         }
-
 
         // BACKSPACE → tombol back
         if (Input.GetKeyDown(KeyCode.Backspace))

@@ -1,0 +1,77 @@
+﻿using UnityEngine;
+using UnityEngine.UI;
+using System.Collections.Generic;
+
+public class PanelSwitcherInput : MonoBehaviour
+{
+    [Header("Panel Settings (URUTAN PENTING)")]
+    public List<GameObject> panels;
+
+    [Header("Arrow Buttons (Optional)")]
+    public Button leftArrowButton;
+    public Button rightArrowButton;
+
+    public int currentIndex = 0;
+
+    private void Start()
+    {
+        // Hook button click (mouse)
+        if (leftArrowButton != null)
+            leftArrowButton.onClick.AddListener(PreviousPanel);
+
+        if (rightArrowButton != null)
+            rightArrowButton.onClick.AddListener(NextPanel);
+
+        ShowPanel(currentIndex);
+        UpdateArrowState();
+    }
+
+    private void Update()
+    {
+        // Keyboard input
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
+            PreviousPanel();
+
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
+            NextPanel();
+    }
+
+    public void NextPanel()
+    {
+        if (panels.Count == 0) return;
+        if (currentIndex >= panels.Count - 1) return;
+
+        currentIndex++;
+        ShowPanel(currentIndex);
+        UpdateArrowState();
+    }
+
+    public void PreviousPanel()
+    {
+        if (panels.Count == 0) return;
+        if (currentIndex <= 0) return;
+
+        currentIndex--;
+        ShowPanel(currentIndex);
+        UpdateArrowState();
+    }
+
+    private void ShowPanel(int index)
+    {
+        for (int i = 0; i < panels.Count; i++)
+        {
+            if (panels[i] != null)
+                panels[i].SetActive(i == index);
+        }
+    }
+
+    private void UpdateArrowState()
+    {
+        // Optional: disable arrow di ujung
+        if (leftArrowButton != null)
+            leftArrowButton.interactable = currentIndex > 0;
+
+        if (rightArrowButton != null)
+            rightArrowButton.interactable = currentIndex < panels.Count - 1;
+    }
+}

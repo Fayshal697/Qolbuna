@@ -173,6 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346dfd673ad5658429ee2ef6467f6e57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NavigationManager
+  buttonGroups: []
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
@@ -1333,6 +1334,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346dfd673ad5658429ee2ef6467f6e57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NavigationManager
+  buttonGroups:
+  - groupName: fitur
+    buttons:
+    - {fileID: 1067080029}
   selectables:
   - {fileID: 1304938815}
   backButton: {fileID: 1067080029}
