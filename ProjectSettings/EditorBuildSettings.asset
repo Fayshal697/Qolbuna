@@ -21,20 +21,29 @@ EditorBuildSettings:
     path: Assets/Scenes/04. Mode Menghapal (3) A.unity
     guid: 9d5bbf0b77b50ee42b40a526db423cf0
   - enabled: 1
-    path: Assets/Scenes/05. Kisah Inpiratif (4).unity
+    path: Assets/Scenes/05. Pilihan Kisah Inpiratif (4) B.unity
     guid: d9ba51388af121d4ca0df36de90cd5c3
   - enabled: 1
-    path: Assets/Scenes/06. Soal Evaluasi (5).unity
+    path: Assets/Scenes/06. Soal Evaluasi (5) C.unity
     guid: 97b17b69a7f812846a611d7d84ab3766
   - enabled: 1
     path: Assets/Scenes/07. Menu Surah dan Pilih ayat(6)  A1.unity
     guid: 6169c06d9ae8c8e4198d4761dbbb8e8c
   - enabled: 1
     path: Assets/Scenes/08. Menu Ayat Surah (7) A2.unity
+    guid: a9602033755fcfd4cb411b8e5ac7c931
+  - enabled: 1
+    path: Assets/Scenes/09. Menu Soal Evaluasi Surat (8) C1.unity
+    guid: a620d6ee38d26c340840bc577a048884
+  - enabled: 1
+    path: Assets/Scenes/10. Soal Evaluasii (9) C2.unity
+    guid: de045824f30ae1940b5c382455c8913d
+  - enabled: 1
+    path: Assets/Scenes/11. Hasil Score (10) C3.unity
     guid: 23847fb3ab826824ca826287a45c78ef
   - enabled: 1
-    path: Assets/Scenes/09. Menu Soal Evaluasi Surat (8).unity
-    guid: a620d6ee38d26c340840bc577a048884
+    path: Assets/Scenes/12. Kisah Inpiratif (11) B 1.unity
+    guid: 080acfd18639f314f9866f5fee862ec7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

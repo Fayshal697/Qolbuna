@@ -73,7 +73,7 @@ public class QuizManager : MonoBehaviour
         if (currentIndex >= questions.Count)
         {
             // SEMUA SOAL SELESAI
-            SceneManager.LoadScene("ResultScene");
+            SceneManager.LoadScene(10);
             return;
         }
 

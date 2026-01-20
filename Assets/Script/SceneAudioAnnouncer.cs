@@ -2,15 +2,19 @@ using UnityEngine;
 
 public class SceneAudioAnnouncer : MonoBehaviour
 {
-    [Header("Scene Narration")]
-    public AudioClip sceneNarration;
+    [Header("Scene / Panel Narration")]
+    [Tooltip("Narasi pertama saat masuk scene / panel")]
+    public AudioClip introNarration;
+
+    [Tooltip("Narasi saat tombol K ditekan (opsional)")]
+    public AudioClip replayNarration;
 
     private void Start()
     {
         if (AudioManager.Instance == null) return;
-        if (sceneNarration == null) return;
+        if (introNarration == null) return;
 
         AudioManager.Instance.StopAllAudio();
-        AudioManager.Instance.PlaySceneNarration(sceneNarration);
+        AudioManager.Instance.PlaySceneNarration(introNarration, replayNarration);
     }
 }

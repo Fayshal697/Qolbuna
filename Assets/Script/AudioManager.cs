@@ -5,13 +5,14 @@ public class AudioManager : MonoBehaviour
     public static AudioManager Instance;
 
     [Header("Audio Sources")]
-    public AudioSource sfxSource;    // hover, click, dll
-    public AudioSource voiceSource;  // narasi (scene / button)
+    public AudioSource sfxSource;
+    public AudioSource voiceSource;
 
     private bool voiceEnabled = true;
 
-    // ⬇️ SIMPAN AUDIO SCENE TERAKHIR
-    private AudioClip lastSceneNarration;
+    // === SCENE NARRATION SYSTEM ===
+    private AudioClip sceneIntroClip;   // sound pertama
+    private AudioClip sceneReplayClip;  // sound ke-2 (opsional)
 
     void Awake()
     {
@@ -27,7 +28,7 @@ public class AudioManager : MonoBehaviour
     }
 
     // =====================
-    // SFX (button hover, click)
+    // SFX
     // =====================
     public void PlaySFX(AudioClip clip)
     {
@@ -39,7 +40,7 @@ public class AudioManager : MonoBehaviour
     }
 
     // =====================
-    // VOICE UMUM (button narration)
+    // VOICE UMUM
     // =====================
     public void PlayVoice(AudioClip clip)
     {
@@ -51,30 +52,37 @@ public class AudioManager : MonoBehaviour
     }
 
     // =====================
-    // VOICE KHUSUS SCENE
+    // SCENE / PANEL ANNOUNCER
     // =====================
-    public void PlaySceneNarration(AudioClip clip)
+    public void PlaySceneNarration(AudioClip introClip, AudioClip replayClip = null)
     {
-        if (!voiceEnabled || clip == null || voiceSource == null) return;
+        if (!voiceEnabled || introClip == null || voiceSource == null) return;
 
-        lastSceneNarration = clip;
+        sceneIntroClip = introClip;
+        sceneReplayClip = replayClip;
 
         voiceSource.Stop();
-        voiceSource.clip = clip;
+        voiceSource.clip = sceneIntroClip;
         voiceSource.Play();
     }
 
     public void ReplaySceneNarration()
     {
-        if (!voiceEnabled || lastSceneNarration == null || voiceSource == null) return;
+        if (!voiceEnabled || voiceSource == null) return;
+
+        AudioClip clipToPlay = sceneReplayClip != null
+            ? sceneReplayClip
+            : sceneIntroClip;
+
+        if (clipToPlay == null) return;
 
         voiceSource.Stop();
-        voiceSource.clip = lastSceneNarration;
+        voiceSource.clip = clipToPlay;
         voiceSource.Play();
     }
 
     // =====================
-    // STOP SEMUA AUDIO (TOMBOL J)
+    // STOP & TOGGLE
     // =====================
     public void StopAllAudio()
     {
@@ -82,9 +90,6 @@ public class AudioManager : MonoBehaviour
         if (voiceSource != null) voiceSource.Stop();
     }
 
-    // =====================
-    // TOGGLE NARASI
-    // =====================
     public void ToggleSound()
     {
         voiceEnabled = !voiceEnabled;

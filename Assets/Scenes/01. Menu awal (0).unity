@@ -720,7 +720,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  sceneNarration: {fileID: 8300000, guid: 71c6164cb4d18d5498795eafd30097c3, type: 3}
+  introNarration: {fileID: 8300000, guid: 71c6164cb4d18d5498795eafd30097c3, type: 3}
+  replayNarration: {fileID: 0}
 --- !u!4 &819117429
 Transform:
   m_ObjectHideFlags: 0
