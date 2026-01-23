@@ -15,12 +15,14 @@ public class PanelSwitcherInput : MonoBehaviour
 
     private void Start()
     {
-        // Hook button click (mouse)
         if (leftArrowButton != null)
             leftArrowButton.onClick.AddListener(PreviousPanel);
 
         if (rightArrowButton != null)
             rightArrowButton.onClick.AddListener(NextPanel);
+
+        // Sinkron awal
+        currentIndex = GetActivePanelIndex();
 
         ShowPanel(currentIndex);
         UpdateArrowState();
@@ -28,7 +30,6 @@ public class PanelSwitcherInput : MonoBehaviour
 
     private void Update()
     {
-        // Keyboard input
         if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
             PreviousPanel();
 
@@ -38,6 +39,8 @@ public class PanelSwitcherInput : MonoBehaviour
 
     public void NextPanel()
     {
+        currentIndex = GetActivePanelIndex(); 
+
         if (panels.Count == 0) return;
         if (currentIndex >= panels.Count - 1) return;
 
@@ -48,6 +51,8 @@ public class PanelSwitcherInput : MonoBehaviour
 
     public void PreviousPanel()
     {
+        currentIndex = GetActivePanelIndex(); 
+
         if (panels.Count == 0) return;
         if (currentIndex <= 0) return;
 
@@ -67,11 +72,22 @@ public class PanelSwitcherInput : MonoBehaviour
 
     private void UpdateArrowState()
     {
-        // Optional: disable arrow di ujung
         if (leftArrowButton != null)
             leftArrowButton.interactable = currentIndex > 0;
 
         if (rightArrowButton != null)
             rightArrowButton.interactable = currentIndex < panels.Count - 1;
+    }
+
+
+    private int GetActivePanelIndex()
+    {
+        for (int i = 0; i < panels.Count; i++)
+        {
+            if (panels[i] != null && panels[i].activeSelf)
+                return i;
+        }
+
+        return 0; // fallback aman
     }
 }

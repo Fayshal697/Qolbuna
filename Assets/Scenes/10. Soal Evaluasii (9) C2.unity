@@ -169,10 +169,6 @@ MonoBehaviour:
   - {fileID: 958905868}
   - {fileID: 161314112}
   - {fileID: 362106345}
-  buttonA: {fileID: 1443839853}
-  buttonB: {fileID: 1256856007}
-  buttonC: {fileID: 1405670216}
-  buttonD: {fileID: 36328738}
 --- !u!1 &36328736
 GameObject:
   m_ObjectHideFlags: 0
@@ -571,8 +567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a713df8d09107d44922c4757ed83270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuestionPanel
-  correctAnswerIndex: 2
-  isAnswered: 0
+  correctIndex: 0
 --- !u!114 &161314113
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1128,8 +1123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a713df8d09107d44922c4757ed83270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuestionPanel
-  correctAnswerIndex: 3
-  isAnswered: 0
+  correctIndex: 0
 --- !u!114 &362106346
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1506,8 +1500,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a713df8d09107d44922c4757ed83270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuestionPanel
-  correctAnswerIndex: 1
-  isAnswered: 0
+  correctIndex: 0
 --- !u!1 &493900991
 GameObject:
   m_ObjectHideFlags: 0
@@ -3044,8 +3037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a713df8d09107d44922c4757ed83270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuestionPanel
-  correctAnswerIndex: 0
-  isAnswered: 0
+  correctIndex: 0
 --- !u!114 &958905869
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3279,6 +3271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 794574e7cdc0935498a2696ccf82d1ad, type: 3}
   replayNarration: {fileID: 0}
+  stepNarrations: []
 --- !u!4 &1070336770
 Transform:
   m_ObjectHideFlags: 0
@@ -4438,8 +4431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a713df8d09107d44922c4757ed83270, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QuestionPanel
-  correctAnswerIndex: 2
-  isAnswered: 0
+  correctIndex: 0
 --- !u!114 &1549183072
 MonoBehaviour:
   m_ObjectHideFlags: 0

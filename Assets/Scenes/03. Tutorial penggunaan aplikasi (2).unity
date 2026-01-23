@@ -177,6 +177,7 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
+  activePanel: {fileID: 0}
 --- !u!1 &133981707
 GameObject:
   m_ObjectHideFlags: 0
@@ -1456,7 +1457,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 710782438}
-  - component: {fileID: 710782437}
+  - component: {fileID: 710782439}
   m_Layer: 0
   m_Name: SceneAnnouncer
   m_TagString: Untagged
@@ -1464,20 +1465,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &710782437
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 710782436}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 24f4938f7be5c104d81a293e4606cf79, type: 3}
-  replayNarration: {fileID: 0}
 --- !u!4 &710782438
 Transform:
   m_ObjectHideFlags: 0
@@ -1493,6 +1480,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &710782439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 710782436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0df51c10473385749b86c7b6d81eaa76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
+  sceneIntroAudio: {fileID: 8300000, guid: 24f4938f7be5c104d81a293e4606cf79, type: 3}
 --- !u!1 &788792066
 GameObject:
   m_ObjectHideFlags: 0
@@ -4381,6 +4381,7 @@ MonoBehaviour:
   - {fileID: 1304938815}
   backButton: {fileID: 1067080029}
   uiSceneManager: {fileID: 689971962}
+  activePanel: {fileID: 0}
 --- !u!1 &2075407376
 GameObject:
   m_ObjectHideFlags: 0

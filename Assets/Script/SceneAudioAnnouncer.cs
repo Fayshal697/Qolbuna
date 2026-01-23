@@ -1,20 +1,43 @@
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneAudioAnnouncer : MonoBehaviour
 {
-    [Header("Scene / Panel Narration")]
-    [Tooltip("Narasi pertama saat masuk scene / panel")]
-    public AudioClip introNarration;
+    public AudioClip sceneIntroAudio; // audio untuk scene ini
 
-    [Tooltip("Narasi saat tombol K ditekan (opsional)")]
-    public AudioClip replayNarration;
+    private bool firstTime = true;
 
     private void Start()
     {
-        if (AudioManager.Instance == null) return;
-        if (introNarration == null) return;
+        // Trigger audio saat game pertama kali dimuat
+        if (firstTime)
+        {
+            firstTime = false;
+            PlaySceneAudio();
+        }
+    }
 
-        AudioManager.Instance.StopAllAudio();
-        AudioManager.Instance.PlaySceneNarration(introNarration, replayNarration);
+    private void OnEnable()
+    {
+        // Trigger audio saat scene berikutnya diaktifkan / dipindah
+        if (!firstTime)
+        {
+            PlaySceneAudio();
+        }
+    }
+
+    public void PlaySceneAudio()
+    {
+        if (sceneIntroAudio != null && AudioManager.Instance != null)
+        {
+            AudioManager.Instance.StopAllAudio(); // hentikan audio lain dulu
+            AudioManager.Instance.PlayVoice(sceneIntroAudio);
+        }
+    }
+
+    public void StopSceneAudio()
+    {
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.StopAllAudio();
     }
 }

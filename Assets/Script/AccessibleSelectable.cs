@@ -39,10 +39,6 @@ public class AccessibleSelectable : MonoBehaviour,
 
         if (AudioManager.Instance == null) return;
 
-        // SFX dulu (pendek)
-        if (hoverSFX != null)
-            AudioManager.Instance.PlaySFX(hoverSFX);
-
         // Narasi setelahnya
         if (narrationClip != null)
             AudioManager.Instance.PlayVoice(narrationClip);

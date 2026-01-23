@@ -8,62 +8,51 @@ public class QuizManager : MonoBehaviour
     [Header("Soal (Panel)")]
     public List<QuestionPanel> questions;
 
-    [Header("Button Jawaban")]
-    public Button buttonA;
-    public Button buttonB;
-    public Button buttonC;
-    public Button buttonD;
-
     private int currentIndex = 0;
-    private bool answeredThisQuestion = false;
+    private bool answered = false;
 
     private void Start()
     {
         ScoreManager.ResetScore();
-        ShowQuestion(currentIndex);
+        ShowQuestion();
     }
 
     private void Update()
     {
-        // INPUT JAWABAN
-        if (!answeredThisQuestion)
+        if (!answered)
         {
-            if (Input.GetKeyDown(KeyCode.A)) SelectAnswer(0);
-            if (Input.GetKeyDown(KeyCode.S)) SelectAnswer(1);
-            if (Input.GetKeyDown(KeyCode.D)) SelectAnswer(2);
-            if (Input.GetKeyDown(KeyCode.F)) SelectAnswer(3);
+            if (Input.GetKeyDown(KeyCode.A)) Answer(0);
+            if (Input.GetKeyDown(KeyCode.S)) Answer(1);
+            if (Input.GetKeyDown(KeyCode.D)) Answer(2);
+            if (Input.GetKeyDown(KeyCode.F)) Answer(3);
         }
 
-        // NEXT SOAL
-        if (answeredThisQuestion && Input.GetKeyDown(KeyCode.RightArrow))
+        if (answered && Input.GetKeyDown(KeyCode.RightArrow))
         {
             NextQuestion();
         }
 
-        // RESET & KELUAR
         if (Input.GetKeyDown(KeyCode.Escape))
         {
-            ScoreManager.ResetScore();
-            SceneManager.LoadScene("MainMenu");
+            ExitToMenu();
         }
 
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
-            ScoreManager.ResetScore();
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         }
     }
 
-    public void SelectAnswer(int index)
+    public void Answer(int index)
     {
-        if (answeredThisQuestion) return;
+        if (answered) return;
 
-        bool correct = questions[currentIndex].IsCorrect(index);
-
-        if (correct)
+        if (questions[currentIndex].IsCorrect(index))
+        {
             ScoreManager.AddScore(1);
+        }
 
-        answeredThisQuestion = true;
+        answered = true;
     }
 
     private void NextQuestion()
@@ -72,20 +61,25 @@ public class QuizManager : MonoBehaviour
 
         if (currentIndex >= questions.Count)
         {
-            // SEMUA SOAL SELESAI
-            SceneManager.LoadScene(10);
+            SceneManager.LoadScene(10); // ResultScene
             return;
         }
 
-        answeredThisQuestion = false;
-        ShowQuestion(currentIndex);
+        answered = false;
+        ShowQuestion();
     }
 
-    private void ShowQuestion(int index)
+    private void ShowQuestion()
     {
         for (int i = 0; i < questions.Count; i++)
         {
-            questions[i].gameObject.SetActive(i == index);
+            questions[i].gameObject.SetActive(i == currentIndex);
         }
+    }
+
+    private void ExitToMenu()
+    {
+        ScoreManager.ResetScore();
+        SceneManager.LoadScene("MainMenu");
     }
 }

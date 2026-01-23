@@ -1076,6 +1076,7 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
+  activePanel: {fileID: 0}
 --- !u!1001 &723472649
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1686,6 +1687,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 964386446}
+  - component: {fileID: 964386447}
   m_Layer: 5
   m_Name: Surat An - Naba
   m_TagString: Untagged
@@ -1718,6 +1720,22 @@ RectTransform:
   m_AnchoredPosition: {x: -65.35748, y: -171.99854}
   m_SizeDelta: {x: 1381.6355, y: 397.2229}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &964386447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964386445}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
+  introNarration: {fileID: 8300000, guid: 843fac07a1f0de5439e848ccead2a2de, type: 3}
+  replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1070336768
 GameObject:
   m_ObjectHideFlags: 0
@@ -1749,6 +1767,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 843fac07a1f0de5439e848ccead2a2de, type: 3}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!4 &1070336770
 Transform:
   m_ObjectHideFlags: 0
@@ -2170,6 +2190,7 @@ MonoBehaviour:
   - {fileID: 0}
   backButton: {fileID: 778370156}
   uiSceneManager: {fileID: 689971962}
+  activePanel: {fileID: 0}
 --- !u!1 &1329911975
 GameObject:
   m_ObjectHideFlags: 0

@@ -292,6 +292,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 7ff3c9142103c6241a487df3a26ac8b5, type: 3}
   replayNarration: {fileID: 8300000, guid: 1b586bbaa1f41b347a72744b9b69d9a7, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &59786448
 GameObject:
   m_ObjectHideFlags: 0
@@ -344,6 +346,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 39fc514783335904d845d71067331835, type: 3}
   replayNarration: {fileID: 8300000, guid: c37676f5d9d950d45bf25c9b67238cc8, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &67163418
 GameObject:
   m_ObjectHideFlags: 0
@@ -396,6 +400,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 466a6885ce5c344439de14d694159ea0, type: 3}
   replayNarration: {fileID: 8300000, guid: 8e2aa77f72fffcb45836e51988221bfb, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &82262049
 GameObject:
   m_ObjectHideFlags: 0
@@ -2161,6 +2167,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 998b4ef6959b07c41a0cb82393d93ab4, type: 3}
   replayNarration: {fileID: 8300000, guid: 9de7122f8c32f0248bb2977b5fad91d3, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &359924597
 GameObject:
   m_ObjectHideFlags: 0
@@ -2334,6 +2342,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: f44a67a491f77c04cb9ecbc448406bf8, type: 3}
   replayNarration: {fileID: 8300000, guid: c9882077bd1509546b2905b28a5978e9, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &410745503
 GameObject:
   m_ObjectHideFlags: 0
@@ -2747,6 +2757,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 503126b2eb7b5764aa8b63aaa726b11a, type: 3}
   replayNarration: {fileID: 8300000, guid: 4e6d9d7781223e947bbfffe2e605ad19, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &449735201
 GameObject:
   m_ObjectHideFlags: 0
@@ -3825,6 +3837,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 974119fe665e42f4693ff5177f60546d, type: 3}
   replayNarration: {fileID: 8300000, guid: b49ebbf3f796457408568b4240c291b8, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &529367233
 GameObject:
   m_ObjectHideFlags: 0
@@ -3877,6 +3891,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 34958f831dd295f49bf7eea1f6a70ec4, type: 3}
   replayNarration: {fileID: 8300000, guid: aeb1983bdafb1ff408ab7b404dad1045, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &576453981
 GameObject:
   m_ObjectHideFlags: 0
@@ -5154,6 +5170,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: ad57bfadb6b58a5478ca6a03de77bcb5, type: 3}
   replayNarration: {fileID: 8300000, guid: a25ee49f4d3dfcc42bcb27e737b2d8b1, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &693370398
 GameObject:
   m_ObjectHideFlags: 0
@@ -5163,7 +5181,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 693370399}
-  - component: {fileID: 693370401}
+  - component: {fileID: 693370400}
   m_Layer: 5
   m_Name: Ayat 1
   m_TagString: Untagged
@@ -5192,7 +5210,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: -0.000015258789}
   m_SizeDelta: {x: 560, y: 498.7805}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &693370401
+--- !u!114 &693370400
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5206,6 +5224,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: a1cd77fe416b03347a6d2b4ecab133ed, type: 3}
   replayNarration: {fileID: 8300000, guid: 76fed03dfa599c74f9c4327b4aa070a7, type: 3}
+  stepNarrations:
+  - {fileID: 8300000, guid: aa087ae9e4be6324294091a496534fc5, type: 3}
+  - {fileID: 8300000, guid: 5a9660a8e1bc20c4b94982173e70c71a, type: 3}
+  specialNarration: {fileID: 8300000, guid: 8900f71f3fda2df4cb4cd1af029f971a, type: 3}
 --- !u!1 &695869407
 GameObject:
   m_ObjectHideFlags: 0
@@ -5514,6 +5536,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 7fc43b0a78ff2d3429c128e4846c4993, type: 3}
   replayNarration: {fileID: 8300000, guid: 4cc27e69162992345a054d0383535d13, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &709157116
 GameObject:
   m_ObjectHideFlags: 0
@@ -5686,6 +5710,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 80e45d4bc4f974b418b7d6a004ce98b4, type: 3}
   replayNarration: {fileID: 8300000, guid: c650a3026e13c804dab9b261ae0359a9, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &765179261
 GameObject:
   m_ObjectHideFlags: 0
@@ -5858,6 +5884,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: c510b9932ab19d145ac378f327a95c07, type: 3}
   replayNarration: {fileID: 8300000, guid: e899660ba6b35004796b9e4e661a8b0f, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &775896326
 GameObject:
   m_ObjectHideFlags: 0
@@ -5910,6 +5938,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 17a0479c13a304a4eb31debddaf7d37d, type: 3}
   replayNarration: {fileID: 8300000, guid: 96c6516a105035f4ab8a20700e324812, type: 3}
+  stepNarrations:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  specialNarration: {fileID: 0}
 --- !u!1 &777819143
 GameObject:
   m_ObjectHideFlags: 0
@@ -7044,6 +7077,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: c5d3957b903db8b4c87558d63b9dae7b, type: 3}
   replayNarration: {fileID: 8300000, guid: aae15b07ab38b5740aeee8980a7d4b15, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &942587109
 GameObject:
   m_ObjectHideFlags: 0
@@ -7956,6 +7991,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: eee6e0c870814c04ca52f954e2eb6be4, type: 3}
   replayNarration: {fileID: 8300000, guid: ff6ff9a724b898a40b6c447e34d99c87, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1030528297
 GameObject:
   m_ObjectHideFlags: 0
@@ -8506,6 +8543,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 12157513b0efd974187a898360660998, type: 3}
   replayNarration: {fileID: 8300000, guid: 2b9bf53d9e60ee3449ecb0ce67609c75, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1070336768
 GameObject:
   m_ObjectHideFlags: 0
@@ -8537,6 +8576,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 0}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!4 &1070336770
 Transform:
   m_ObjectHideFlags: 0
@@ -8604,6 +8645,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 59be938aa49778443b2defe02d1ea138, type: 3}
   replayNarration: {fileID: 8300000, guid: 24413ed9291579042afe901f832b0a46, type: 3}
+  stepNarrations:
+  - {fileID: 8300000, guid: f5c04eda0e87d374984dff26835ad0fd, type: 3}
+  - {fileID: 8300000, guid: f5c04eda0e87d374984dff26835ad0fd, type: 3}
+  - {fileID: 8300000, guid: 5a9660a8e1bc20c4b94982173e70c71a, type: 3}
+  specialNarration: {fileID: 8300000, guid: 8900f71f3fda2df4cb4cd1af029f971a, type: 3}
 --- !u!1 &1076367732
 GameObject:
   m_ObjectHideFlags: 0
@@ -8972,6 +9018,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 2385e7b6d8058e040a6da6ba5c1c01e5, type: 3}
   replayNarration: {fileID: 8300000, guid: 2a90007182141da43a833b7acb877706, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1130406816
 GameObject:
   m_ObjectHideFlags: 0
@@ -10035,6 +10083,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: b77c5e76c974f16478184ea4ff37d4b3, type: 3}
   replayNarration: {fileID: 8300000, guid: c71d6c9bbe75c9943bf5f7b8e4e1e7a7, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1238003888
 GameObject:
   m_ObjectHideFlags: 0
@@ -10223,6 +10273,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 1f757fc9e2a2b684ca5b763346d28f8d, type: 3}
   replayNarration: {fileID: 8300000, guid: 00ffc562ad276b74d8a850c997efc50d, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1241460280
 GameObject:
   m_ObjectHideFlags: 0
@@ -10275,6 +10327,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 08c8c9d6bda39f942bb61a000c451a9f, type: 3}
   replayNarration: {fileID: 8300000, guid: b8954f3fcf0e9784c97bf16633d92158, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1255402282
 GameObject:
   m_ObjectHideFlags: 0
@@ -10809,6 +10863,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: fe417c082b155824eb7286ab288e17d9, type: 3}
   replayNarration: {fileID: 8300000, guid: 7cbcb3856c1c7aa488fd3dc709a852d6, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1300529300
 GameObject:
   m_ObjectHideFlags: 0
@@ -10981,6 +11037,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 5cb4874dd778d5a43b90f41b26e6538f, type: 3}
   replayNarration: {fileID: 8300000, guid: 5cb4874dd778d5a43b90f41b26e6538f, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1312914495
 GameObject:
   m_ObjectHideFlags: 0
@@ -12808,6 +12866,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 746a35028c52512489378eab03d3a8a4, type: 3}
   replayNarration: {fileID: 8300000, guid: 9998c41df12425a40ab8a614d99d0a8d, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 8300000, guid: 8900f71f3fda2df4cb4cd1af029f971a, type: 3}
 --- !u!1 &1412766481
 GameObject:
   m_ObjectHideFlags: 0
@@ -12954,6 +13014,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: e15cc13ef5b168244a3c61b27d04cc6f, type: 3}
   replayNarration: {fileID: 8300000, guid: 72fd15a20781d854696f1a4da2727d71, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1482751878
 GameObject:
   m_ObjectHideFlags: 0
@@ -13399,6 +13461,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 4f3a86280c890404083aee1aa8e610bc, type: 3}
   replayNarration: {fileID: 8300000, guid: 3326002ee0e8dc749a32c800d3840675, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1541258306
 GameObject:
   m_ObjectHideFlags: 0
@@ -14191,6 +14255,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: daa2f3dd080b34a40aeb707f1a58a09b, type: 3}
   replayNarration: {fileID: 8300000, guid: 495d916d61b44d540831335ecbf71d40, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1614074752
 GameObject:
   m_ObjectHideFlags: 0
@@ -14606,6 +14672,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: f9121ef4e9d66e9498f15617978f82c7, type: 3}
   replayNarration: {fileID: 8300000, guid: cda8703dcb1bec34ba71aea1bda5ab3e, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1678853411
 GameObject:
   m_ObjectHideFlags: 0
@@ -15546,6 +15614,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: f2e0ae064589fd64a9bab90ea47ebb12, type: 3}
   replayNarration: {fileID: 8300000, guid: e0cb1e4fd585fd24e960b2309e317929, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1805673994
 GameObject:
   m_ObjectHideFlags: 0
@@ -15598,6 +15668,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 16d219326d7038748987aa236294eb19, type: 3}
   replayNarration: {fileID: 8300000, guid: 5e2761c4101cb9348bc3dde86f55ad39, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1827721792
 GameObject:
   m_ObjectHideFlags: 0
@@ -16028,6 +16100,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: afdca906a27d3f74ba1431b0f0d31a61, type: 3}
   replayNarration: {fileID: 8300000, guid: 4a3c15499c8712048aaa7d06d908acce, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1844986443
 GameObject:
   m_ObjectHideFlags: 0
@@ -16302,7 +16376,7 @@ MonoBehaviour:
     - subIndex: 34
       objects:
       - {fileID: 1311697305}
-    - subIndex: 36
+    - subIndex: 35
       objects:
       - {fileID: 400548886}
     - subIndex: 36
@@ -16489,6 +16563,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: c07bd3539082b544984202bfb71df967, type: 3}
   replayNarration: {fileID: 8300000, guid: be6e8de064fd159469e15d021f8f8249, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1882105018
 GameObject:
   m_ObjectHideFlags: 0
@@ -16934,6 +17010,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 1c0a4eb9146c525428e6872dd3afd230, type: 3}
   replayNarration: {fileID: 8300000, guid: 9ed4aa3f499bde5438fad013a7b8a978, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1900638915
 GameObject:
   m_ObjectHideFlags: 0
@@ -17106,6 +17184,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: fac7da4f7ae80e84e83d77fe31f9c751, type: 3}
   replayNarration: {fileID: 8300000, guid: 05622f9336ec509448e88a331ea5e718, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1917345649
 GameObject:
   m_ObjectHideFlags: 0
@@ -17158,6 +17238,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: cf3b615079524b5429029b26990f92c1, type: 3}
   replayNarration: {fileID: 8300000, guid: 84d3d4e82ac63a947a6f7d24d43c5509, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1923017053
 GameObject:
   m_ObjectHideFlags: 0
@@ -18038,6 +18120,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: cc65d658be0f3c545922e3621e453b78, type: 3}
   replayNarration: {fileID: 8300000, guid: 1045302f9ad1a0a4990a5f620fb695a8, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1991144589
 GameObject:
   m_ObjectHideFlags: 0
@@ -18090,6 +18174,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 21d47568331ef4e44900c7cf6cb7eaa7, type: 3}
   replayNarration: {fileID: 8300000, guid: 4c6533171fe0d904fa7b58eb4aef336c, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1999890540
 GameObject:
   m_ObjectHideFlags: 0
@@ -18384,6 +18470,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: 2ef601bb8754ee444a99cc2faa4f8187, type: 3}
   replayNarration: {fileID: 8300000, guid: 84f0c90abfce280479be6a0e55eea659, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &2065027889
 GameObject:
   m_ObjectHideFlags: 0
@@ -19071,6 +19159,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 8300000, guid: a198a1c16a5a88e41af5e6fded629649, type: 3}
   replayNarration: {fileID: 8300000, guid: 20c3062a1dc2a1e4fb35873da18f1db4, type: 3}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &2143546534
 GameObject:
   m_ObjectHideFlags: 0
