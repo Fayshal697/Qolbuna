@@ -47,13 +47,20 @@ public class QuizManager : MonoBehaviour
     {
         if (answered) return;
 
-        if (questions[currentIndex].IsCorrect(index))
+        QuestionPanel currentQuestion = questions[currentIndex];
+        bool isCorrect = currentQuestion.IsCorrect(index);
+
+        if (isCorrect)
         {
             ScoreManager.AddScore(1);
         }
 
+        // 🔊 audio milik panel soal
+        currentQuestion.PlayFeedbackAudio(isCorrect);
+
         answered = true;
     }
+
 
     private void NextQuestion()
     {

@@ -1204,7 +1204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3012da4e42f30a348b1d0b88c8b15934, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIPanelManager
-  mainMenuIndex: 0
+  mainMenuIndex: 1
 --- !u!4 &689971963
 Transform:
   m_ObjectHideFlags: 0
@@ -1527,7 +1527,6 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
-  activePanel: {fileID: 0}
 --- !u!1 &1565433742
 GameObject:
   m_ObjectHideFlags: 0
@@ -1585,7 +1584,6 @@ MonoBehaviour:
   - {fileID: 1636612995}
   backButton: {fileID: 1753386104}
   uiSceneManager: {fileID: 689971962}
-  activePanel: {fileID: 0}
 --- !u!224 &1628214029 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8549344069854026031, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
@@ -1893,7 +1891,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0df51c10473385749b86c7b6d81eaa76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  sceneIntroAudio: {fileID: 8300000, guid: 1d23e710676f0c442a8ae9807beff482, type: 3}
+  sceneIntroAudio: {fileID: 8300000, guid: 2c9754f267d8e9b4db00e7c1c880237e, type: 3}
 --- !u!1 &1989822829
 GameObject:
   m_ObjectHideFlags: 0
@@ -2116,7 +2114,19 @@ PrefabInstance:
     - target: {fileID: 1799059076664871472, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
       propertyPath: narrationClip
       value: 
-      objectReference: {fileID: 8300000, guid: fca919fce771c6d44b00ddabf2f13762, type: 3}
+      objectReference: {fileID: 8300000, guid: 3a71856f817633848847c86ae865eb6e, type: 3}
+    - target: {fileID: 4968606243503471801, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4968606243503471801, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4968606243503471801, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.7176471
+      objectReference: {fileID: 0}
     - target: {fileID: 4968606243503471801, guid: 1a2cee06fcc39a14aaece994c6e194fa, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -2373,6 +2383,18 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4905314178799860605, guid: f7a1360e6ba662040802835163f59138, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4905314178799860605, guid: f7a1360e6ba662040802835163f59138, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4905314178799860605, guid: f7a1360e6ba662040802835163f59138, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 4905314178799860605, guid: f7a1360e6ba662040802835163f59138, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
       objectReference: {fileID: 0}
@@ -2435,7 +2457,7 @@ PrefabInstance:
     - target: {fileID: 5624216411526108008, guid: f7a1360e6ba662040802835163f59138, type: 3}
       propertyPath: narrationClip
       value: 
-      objectReference: {fileID: 8300000, guid: 5e8e0c2fd15d6c742b67516c7eae5391, type: 3}
+      objectReference: {fileID: 8300000, guid: d5c029219e7cbd544a6bfbc50e83740d, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8776332124671541574, guid: f7a1360e6ba662040802835163f59138, type: 3}
@@ -2467,6 +2489,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1548378996}
     m_Modifications:
+    - target: {fileID: 900073568230036503, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.b
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 900073568230036503, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.g
+      value: 0.7176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 900073568230036503, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
+      propertyPath: m_Colors.m_SelectedColor.r
+      value: 0.7176471
+      objectReference: {fileID: 0}
     - target: {fileID: 900073568230036503, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -2530,7 +2564,7 @@ PrefabInstance:
     - target: {fileID: 5649727340027884630, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
       propertyPath: narrationClip
       value: 
-      objectReference: {fileID: 8300000, guid: 2a6cf4c8dc121994191e888969d01885, type: 3}
+      objectReference: {fileID: 8300000, guid: a0280e74d5af70b448a9f692c6db5ad6, type: 3}
     - target: {fileID: 5761159504976116444, guid: 39b519048a734a3468f28e7bb60df8a1, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

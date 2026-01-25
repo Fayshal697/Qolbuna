@@ -2448,7 +2448,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &378942780
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2482,7 +2482,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: a717a18e7e2fba1489885370727fdeda, type: 3}
+  introNarration: {fileID: 8300000, guid: 3e953aa803e2c8843adbbd8bde8a16c6, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}
@@ -3472,7 +3472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3012da4e42f30a348b1d0b88c8b15934, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIPanelManager
-  mainMenuIndex: 0
+  mainMenuIndex: 1
 --- !u!4 &689971963
 Transform:
   m_ObjectHideFlags: 0
@@ -3542,7 +3542,6 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
-  activePanel: {fileID: 0}
 --- !u!1001 &778370154
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6081,7 +6080,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::NavigationManager
   buttonGroups:
-  - groupName: 
+  - groupName: surat annaba
     buttons:
     - {fileID: 45399459}
     - {fileID: 1128977525}
@@ -6089,6 +6088,62 @@ MonoBehaviour:
     - {fileID: 275355245}
     - {fileID: 1612973928}
     - {fileID: 1166701337}
+    - {fileID: 1050144497}
+    - {fileID: 394065981}
+    - {fileID: 326553531}
+    - {fileID: 2030062810}
+    - {fileID: 70631153}
+    - {fileID: 51438559}
+    - {fileID: 987371733}
+    - {fileID: 425497243}
+    - {fileID: 1520154431}
+    - {fileID: 1921609554}
+    - {fileID: 1040426181}
+    - {fileID: 1166701337}
+    - {fileID: 1166701337}
+    - {fileID: 1166701337}
+  - groupName: surat annaba
+    buttons:
+    - {fileID: 45399459}
+    - {fileID: 1128977525}
+    - {fileID: 285798931}
+    - {fileID: 275355245}
+    - {fileID: 1612973928}
+    - {fileID: 1166701337}
+    - {fileID: 1050144497}
+    - {fileID: 394065981}
+    - {fileID: 326553531}
+    - {fileID: 2030062810}
+    - {fileID: 70631153}
+    - {fileID: 51438559}
+    - {fileID: 987371733}
+    - {fileID: 425497243}
+    - {fileID: 1520154431}
+    - {fileID: 1921609554}
+    - {fileID: 1040426181}
+    - {fileID: 1402081993}
+    - {fileID: 1775774796}
+    - {fileID: 1305490137}
+    - {fileID: 653881530}
+    - {fileID: 1160768505}
+    - {fileID: 49601312}
+    - {fileID: 1432863932}
+    - {fileID: 2055415492}
+    - {fileID: 70804623}
+    - {fileID: 596547933}
+    - {fileID: 1971017234}
+    - {fileID: 4185935}
+    - {fileID: 1041440863}
+    - {fileID: 1874272910}
+    - {fileID: 1123481838}
+    - {fileID: 63417020}
+    - {fileID: 1768358481}
+    - {fileID: 1813524116}
+    - {fileID: 1189147164}
+    - {fileID: 1354190762}
+    - {fileID: 308470553}
+    - {fileID: 182720214}
+    - {fileID: 779556562}
   selectables:
   - {fileID: 0}
   - {fileID: 0}
@@ -6096,7 +6151,6 @@ MonoBehaviour:
   - {fileID: 0}
   backButton: {fileID: 778370156}
   uiSceneManager: {fileID: 689971962}
-  activePanel: {fileID: 0}
 --- !u!1 &1354190758
 GameObject:
   m_ObjectHideFlags: 0

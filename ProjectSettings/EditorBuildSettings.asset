@@ -44,6 +44,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/12. Kisah Inpiratif (11) B 1.unity
     guid: 080acfd18639f314f9866f5fee862ec7
+  - enabled: 1
+    path: Assets/Scenes/13. Pengembang (12).unity
+    guid: 7f23d14749c35624db9c2a64e7a6ce94
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

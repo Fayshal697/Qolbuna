@@ -1447,7 +1447,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3012da4e42f30a348b1d0b88c8b15934, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIPanelManager
-  mainMenuIndex: 0
+  mainMenuIndex: 1
 --- !u!4 &689971963
 Transform:
   m_ObjectHideFlags: 0
@@ -1591,8 +1591,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 2a6cf4c8dc121994191e888969d01885, type: 3}
+  introNarration: {fileID: 8300000, guid: 3c08b0597e7064b4fb33ba7432bdf060, type: 3}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1001 &879112652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2201,8 +2203,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: fca919fce771c6d44b00ddabf2f13762, type: 3}
+  introNarration: {fileID: 8300000, guid: 7b1ddbb0ed5f3604a9415d2e82dfa647, type: 3}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &1548378995
 GameObject:
   m_ObjectHideFlags: 0
@@ -2789,6 +2793,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
   introNarration: {fileID: 0}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!4 &1782293780
 Transform:
   m_ObjectHideFlags: 0
@@ -3373,8 +3379,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 5e8e0c2fd15d6c742b67516c7eae5391, type: 3}
+  introNarration: {fileID: 8300000, guid: 4fe1806c3c4fb064180c4b2b4fa508ae, type: 3}
   replayNarration: {fileID: 0}
+  stepNarrations: []
+  specialNarration: {fileID: 0}
 --- !u!1 &2110290436
 GameObject:
   m_ObjectHideFlags: 0

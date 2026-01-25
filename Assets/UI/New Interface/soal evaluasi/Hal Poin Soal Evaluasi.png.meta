@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f3db6e770859b7a459ed10ee12b3a3ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7781591981799215601
+    second: Hal Poin Soal Evaluasi_0
+  - first:
+      213: 6479323221809695324
+    second: Hal Poin Soal Evaluasi_1
+  - first:
+      213: -8317685473980065234
+    second: Hal Poin Soal Evaluasi_2
+  - first:
+      213: 681846803651049088
+    second: Hal Poin Soal Evaluasi_3
+  - first:
+      213: 3810680390987949204
+    second: Hal Poin Soal Evaluasi_4
+  - first:
+      213: -1959202330055271020
+    second: Hal Poin Soal Evaluasi_5
+  - first:
+      213: -8279012540930263164
+    second: Hal Poin Soal Evaluasi_6
+  - first:
+      213: 7403176425190851914
+    second: Hal Poin Soal Evaluasi_7
+  - first:
+      213: 7389928460665833949
+    second: Hal Poin Soal Evaluasi_8
+  - first:
+      213: -3823776673004545830
+    second: Hal Poin Soal Evaluasi_9
+  - first:
+      213: -621789836013697645
+    second: Hal Poin Soal Evaluasi_10
+  - first:
+      213: -9205274609116756107
+    second: Hal Poin Soal Evaluasi_11
+  - first:
+      213: -4714002233508725899
+    second: Hal Poin Soal Evaluasi_12
+  - first:
+      213: 6717387372340126174
+    second: Hal Poin Soal Evaluasi_13
+  - first:
+      213: 8171668069511294441
+    second: Hal Poin Soal Evaluasi_14
+  - first:
+      213: 5791780745303527842
+    second: Hal Poin Soal Evaluasi_15
+  - first:
+      213: 6554380188981792476
+    second: Hal Poin Soal Evaluasi_16
+  - first:
+      213: -5936997269181708998
+    second: Hal Poin Soal Evaluasi_17
+  - first:
+      213: -2609413288794308646
+    second: Hal Poin Soal Evaluasi_18
+  - first:
+      213: -8793730896371840084
+    second: Hal Poin Soal Evaluasi_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f19b26cda4cdfb60800000000000000
+      internalID: 7781591981799215601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1767
+        width: 389
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a08ec242e2be950800000000000000
+      internalID: 6479323221809695324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_2
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1896
+        width: 1418
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2addf16125a19c80800000000000000
+      internalID: -8317685473980065234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_3
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1797
+        width: 399
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0863bda2e08667900800000000000000
+      internalID: 681846803651049088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1409
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494226130a142e430800000000000000
+      internalID: 3810680390987949204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1263
+        width: 751
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d10f17cd38fc4e0800000000000000
+      internalID: -1959202330055271020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_6
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1263
+        width: 746
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f8d645f90b1d80800000000000000
+      internalID: -8279012540930263164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_7
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 1338
+        width: 767
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a450c092cbd5db660800000000000000
+      internalID: 7403176425190851914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1085
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9498d08cc4e8660800000000000000
+      internalID: 7389928460665833949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_9
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 681
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8932900673feac0800000000000000
+      internalID: -3823776673004545830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_10
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 681
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39584734075fe57f0800000000000000
+      internalID: -621789836013697645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_11
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 603
+        width: 694
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5774cafb38b404080800000000000000
+      internalID: -9205274609116756107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_12
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 667
+        width: 207
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b7059c1ff749eb0800000000000000
+      internalID: -4714002233508725899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_13
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 191
+        width: 206
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed127039934f83d50800000000000000
+      internalID: 6717387372340126174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_14
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 185
+        width: 388
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed6f9950d8976170800000000000000
+      internalID: 8171668069511294441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_15
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 174
+        width: 397
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a193c4d6e9806050800000000000000
+      internalID: 5791780745303527842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_16
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 188
+        width: 195
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde0e172e06d5fa50800000000000000
+      internalID: 6554380188981792476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_17
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 174
+        width: 206
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35c5f1707c8b9da0800000000000000
+      internalID: -5936997269181708998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_18
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 191
+        width: 207
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf3b39607089cbd0800000000000000
+      internalID: -2609413288794308646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hal Poin Soal Evaluasi_19
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 194
+        width: 212
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab0167475466f580800000000000000
+      internalID: -8793730896371840084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hal Poin Soal Evaluasi_0: 7781591981799215601
+      Hal Poin Soal Evaluasi_1: 6479323221809695324
+      Hal Poin Soal Evaluasi_10: -621789836013697645
+      Hal Poin Soal Evaluasi_11: -9205274609116756107
+      Hal Poin Soal Evaluasi_12: -4714002233508725899
+      Hal Poin Soal Evaluasi_13: 6717387372340126174
+      Hal Poin Soal Evaluasi_14: 8171668069511294441
+      Hal Poin Soal Evaluasi_15: 5791780745303527842
+      Hal Poin Soal Evaluasi_16: 6554380188981792476
+      Hal Poin Soal Evaluasi_17: -5936997269181708998
+      Hal Poin Soal Evaluasi_18: -2609413288794308646
+      Hal Poin Soal Evaluasi_19: -8793730896371840084
+      Hal Poin Soal Evaluasi_2: -8317685473980065234
+      Hal Poin Soal Evaluasi_3: 681846803651049088
+      Hal Poin Soal Evaluasi_4: 3810680390987949204
+      Hal Poin Soal Evaluasi_5: -1959202330055271020
+      Hal Poin Soal Evaluasi_6: -8279012540930263164
+      Hal Poin Soal Evaluasi_7: 7403176425190851914
+      Hal Poin Soal Evaluasi_8: 7389928460665833949
+      Hal Poin Soal Evaluasi_9: -3823776673004545830
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
