@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 2a68dbd8b33cd384f875a143dd4994d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5654519157501509032
+    second: Quraysh -  Al-Ma'un_0
+  - first:
+      213: 2272806617627593859
+    second: Quraysh -  Al-Ma'un_1
+  - first:
+      213: -2785699399803008076
+    second: Quraysh -  Al-Ma'un_2
+  - first:
+      213: -7971284795360131224
+    second: Quraysh -  Al-Ma'un_3
+  - first:
+      213: 5493965877323344702
+    second: Quraysh -  Al-Ma'un_4
+  - first:
+      213: -9199613862950654671
+    second: Quraysh -  Al-Ma'un_5
+  - first:
+      213: -6940424109841557707
+    second: Quraysh -  Al-Ma'un_6
+  - first:
+      213: -1122472803222147002
+    second: Quraysh -  Al-Ma'un_7
+  - first:
+      213: 992727677238802366
+    second: Quraysh -  Al-Ma'un_8
+  - first:
+      213: 2532770419304005001
+    second: Quraysh -  Al-Ma'un_9
+  - first:
+      213: -8710639169402028131
+    second: Quraysh -  Al-Ma'un_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1875
+        width: 1410
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8524b7109cc1781b0800000000000000
+      internalID: -5654519157501509032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_1
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1882
+        width: 1573
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c89dea391aa8f10800000000000000
+      internalID: 2272806617627593859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_2
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 1882
+        width: 845
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb09b7b7253759d0800000000000000
+      internalID: -2785699399803008076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1546
+        width: 2306
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867461956be406190800000000000000
+      internalID: -7971284795360131224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_4
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1111
+        width: 1267
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ba9fd6bdc7e3c40800000000000000
+      internalID: 5493965877323344702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_5
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1111
+        width: 1384
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d211ceee7645080800000000000000
+      internalID: -9199613862950654671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_6
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 785
+        width: 946
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53756564b09aeaf90800000000000000
+      internalID: -6940424109841557707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_7
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 785
+        width: 1648
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64038edbeec2c60f0800000000000000
+      internalID: -1122472803222147002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_8
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 460
+        width: 1019
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb774801090e6cd00800000000000000
+      internalID: 992727677238802366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_9
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 460
+        width: 1619
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7b34f645362320800000000000000
+      internalID: 2532770419304005001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quraysh -  Al-Ma'un_10
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 134
+        width: 1086
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f303d83d79d1780800000000000000
+      internalID: -8710639169402028131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Quraysh -  Al-Ma'un_0: -5654519157501509032
+      Quraysh -  Al-Ma'un_1: 2272806617627593859
+      Quraysh -  Al-Ma'un_10: -8710639169402028131
+      Quraysh -  Al-Ma'un_2: -2785699399803008076
+      Quraysh -  Al-Ma'un_3: -7971284795360131224
+      Quraysh -  Al-Ma'un_4: 5493965877323344702
+      Quraysh -  Al-Ma'un_5: -9199613862950654671
+      Quraysh -  Al-Ma'un_6: -6940424109841557707
+      Quraysh -  Al-Ma'un_7: -1122472803222147002
+      Quraysh -  Al-Ma'un_8: 992727677238802366
+      Quraysh -  Al-Ma'un_9: 2532770419304005001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

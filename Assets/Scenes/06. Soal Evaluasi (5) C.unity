@@ -354,6 +354,7 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
+  inputEnabled: 1
 --- !u!1 &383831131
 GameObject:
   m_ObjectHideFlags: 0
@@ -413,6 +414,7 @@ MonoBehaviour:
   - {fileID: 1064275254}
   backButton: {fileID: 1041480648}
   uiSceneManager: {fileID: 689971962}
+  inputEnabled: 1
 --- !u!1 &430714121
 GameObject:
   m_ObjectHideFlags: 0
@@ -495,7 +497,31 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 430714124}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1470985619}
+        m_TargetAssemblyTypeName: UIButtonIndexSender, Assembly-CSharp
+        m_MethodName: SendMainIndex
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 689971962}
+        m_TargetAssemblyTypeName: UISceneManager, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 8
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &430714124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -547,7 +573,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
   narrationClip: {fileID: 8300000, guid: 10592773f59da5944bb3a61074b73c60, type: 3}
-  hoverSFX: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -867,7 +892,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
   narrationClip: {fileID: 8300000, guid: 34a80d5e82b17f74d9fda984d16a5ecf, type: 3}
-  hoverSFX: {fileID: 0}
 --- !u!114 &793338838
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1175,7 +1199,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0df51c10473385749b86c7b6d81eaa76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  sceneIntroAudio: {fileID: 8300000, guid: 6b312a026be9ccf47ac1ae2d6cae3e1b, type: 3}
+  sceneIntroAudio: {fileID: 8300000, guid: 1a64a900ae49bc4418c76d547a8669c5, type: 3}
 --- !u!1001 &1064275252
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1341,7 +1365,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
   narrationClip: {fileID: 8300000, guid: ac8507ee73fe7fc4392fd9200217c22e, type: 3}
-  hoverSFX: {fileID: 0}
 --- !u!114 &1110294964
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1386,14 +1409,26 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1470985619}
+        m_TargetAssemblyTypeName: UIButtonIndexSender, Assembly-CSharp
+        m_MethodName: SendMainIndex
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 689971962}
         m_TargetAssemblyTypeName: UISceneManager, Assembly-CSharp
         m_MethodName: LoadScene
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 6
+          m_IntArgument: 8
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

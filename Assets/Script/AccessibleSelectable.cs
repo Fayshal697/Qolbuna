@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
@@ -8,38 +8,42 @@ public class AccessibleSelectable : MonoBehaviour,
     ISelectHandler
 {
     [Header("Audio")]
-    [Tooltip("Narasi saat tombol di-highlight (keyboard / mouse)")]
     public AudioClip narrationClip;
-
-    [Tooltip("SFX hover (opsional)")]
-    public AudioClip hoverSFX;
 
     private bool hasPlayedThisFrame = false;
 
     private void LateUpdate()
     {
-        // reset flag tiap frame (anti double trigger)
         hasPlayedThisFrame = false;
     }
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        PlayAudio();
+        HandleHighlight();
     }
 
     public void OnSelect(BaseEventData eventData)
     {
-        PlayAudio();
+        HandleHighlight();
     }
 
-    private void PlayAudio()
+    private void HandleHighlight()
     {
         if (hasPlayedThisFrame) return;
         hasPlayedThisFrame = true;
 
         if (AudioManager.Instance == null) return;
 
-        // Narasi setelahnya
+        // 🔥 HENTIKAN PANEL AUDIO JIKA ADA
+        PanelAudioAnnouncer panel =
+            FindObjectOfType<PanelAudioAnnouncer>();
+
+        if (panel != null && panel.isActiveAndEnabled)
+        {
+            panel.InterruptByUI();
+        }
+
+        // 🔊 Mainkan audio tombol
         if (narrationClip != null)
             AudioManager.Instance.PlayVoice(narrationClip);
     }

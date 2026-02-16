@@ -5,13 +5,21 @@ public class AudioManager : MonoBehaviour
 {
     public static AudioManager Instance;
 
+    public enum AudioContext
+    {
+        Scene,
+        Panel
+    }
+
     [Header("Audio Sources")]
     public AudioSource sfxSource;
     public AudioSource voiceSource;
 
+    [HideInInspector] public AudioContext currentContext = AudioContext.Scene;
+
     private bool voiceEnabled = true;
 
-    void Awake()
+    private void Awake()
     {
         if (Instance == null)
         {
@@ -29,9 +37,7 @@ public class AudioManager : MonoBehaviour
         if (!voiceEnabled || clip == null || voiceSource == null) return;
 
         voiceSource.Stop();
-        voiceSource.clip = null;
         voiceSource.clip = clip;
-
         StartCoroutine(PlayNextFrame());
     }
 
@@ -39,7 +45,6 @@ public class AudioManager : MonoBehaviour
     {
         yield return null;
         voiceSource.Play();
-        Debug.Log("Playing voice clip: " + voiceSource.clip.name);
     }
 
     public void StopAllAudio()
@@ -48,15 +53,15 @@ public class AudioManager : MonoBehaviour
         if (voiceSource != null) voiceSource.Stop();
     }
 
-    public bool IsVoicePlaying()
-    {
-        return voiceSource != null && voiceSource.isPlaying;
-    }
-
     public void ToggleSound()
     {
         voiceEnabled = !voiceEnabled;
-        if (!voiceEnabled && voiceSource != null)
-            voiceSource.Stop();
+        if (!voiceEnabled)
+            StopAllAudio();
+    }
+
+    public bool IsVoicePlaying()
+    {
+        return voiceSource != null && voiceSource.isPlaying;
     }
 }

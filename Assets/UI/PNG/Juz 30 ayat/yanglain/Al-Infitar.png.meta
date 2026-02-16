@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 3bc9c14b4d5d5e643aa2eacfd08b3a9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7647990042770540688
+    second: Al-Infitar_0
+  - first:
+      213: 5406296470254812554
+    second: Al-Infitar_1
+  - first:
+      213: 8960255726212544844
+    second: Al-Infitar_2
+  - first:
+      213: 8354836285383197751
+    second: Al-Infitar_3
+  - first:
+      213: -3491176648239628776
+    second: Al-Infitar_4
+  - first:
+      213: 3558445153933702625
+    second: Al-Infitar_5
+  - first:
+      213: -6228875431121271801
+    second: Al-Infitar_6
+  - first:
+      213: -2639209090493114970
+    second: Al-Infitar_7
+  - first:
+      213: -5424219759515124811
+    second: Al-Infitar_8
+  - first:
+      213: -1527589952284506600
+    second: Al-Infitar_9
+  - first:
+      213: 419570203798631931
+    second: Al-Infitar_10
+  - first:
+      213: 7381251420311005065
+    second: Al-Infitar_11
+  - first:
+      213: 2387232496568442481
+    second: Al-Infitar_12
+  - first:
+      213: 4667416808823529513
+    second: Al-Infitar_13
+  - first:
+      213: 6202691485702617271
+    second: Al-Infitar_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Infitar_0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1821
+        width: 1158
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09800115c6e132a60800000000000000
+      internalID: 7647990042770540688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_1
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1815
+        width: 1259
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7cf3fef5070b40800000000000000
+      internalID: 5406296470254812554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_2
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1815
+        width: 1175
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49fe890c19395c70800000000000000
+      internalID: 8960255726212544844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_3
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 1477
+        width: 1883
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7344fc2f55752f370800000000000000
+      internalID: 8354836285383197751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_4
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1477
+        width: 1161
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb981e559dc8fc0800000000000000
+      internalID: -3491176648239628776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1132
+        width: 1895
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5bde89303226130800000000000000
+      internalID: 3558445153933702625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_6
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1139
+        width: 1883
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cbd12cc69e89a0800000000000000
+      internalID: -6228875431121271801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 788
+        width: 1558
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a51d29b055af5bd0800000000000000
+      internalID: -2639209090493114970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_8
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 800
+        width: 1748
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb32721edc49b4b0800000000000000
+      internalID: -5424219759515124811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 437
+        width: 884
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81640ab2809eccae0800000000000000
+      internalID: -1527589952284506600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_10
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 437
+        width: 1328
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf571cb90ec92d500800000000000000
+      internalID: 419570203798631931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_11
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 449
+        width: 1337
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9872c792f097f6660800000000000000
+      internalID: 7381251420311005065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 1430
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e1b3abe47212120800000000000000
+      internalID: 2387232496568442481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_13
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 92
+        width: 1268
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202d9ccbdef5c040800000000000000
+      internalID: 4667416808823529513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Infitar_14
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 92
+        width: 1230
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f4a00b03641650800000000000000
+      internalID: 6202691485702617271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Infitar_0: 7647990042770540688
+      Al-Infitar_1: 5406296470254812554
+      Al-Infitar_10: 419570203798631931
+      Al-Infitar_11: 7381251420311005065
+      Al-Infitar_12: 2387232496568442481
+      Al-Infitar_13: 4667416808823529513
+      Al-Infitar_14: 6202691485702617271
+      Al-Infitar_2: 8960255726212544844
+      Al-Infitar_3: 8354836285383197751
+      Al-Infitar_4: -3491176648239628776
+      Al-Infitar_5: 3558445153933702625
+      Al-Infitar_6: -6228875431121271801
+      Al-Infitar_7: -2639209090493114970
+      Al-Infitar_8: -5424219759515124811
+      Al-Infitar_9: -1527589952284506600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

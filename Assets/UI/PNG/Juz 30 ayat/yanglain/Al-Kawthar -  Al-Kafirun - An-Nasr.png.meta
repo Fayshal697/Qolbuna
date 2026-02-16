@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 83b05cd10a1fbc54d834eb387ec7b286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7988693176585853088
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_0
+  - first:
+      213: 7396999958944293238
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_1
+  - first:
+      213: -1342976647858875339
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_2
+  - first:
+      213: 9172919602887238889
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_3
+  - first:
+      213: -4797853479726613709
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_4
+  - first:
+      213: -6652111649252624631
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_5
+  - first:
+      213: -5194069662423853298
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_6
+  - first:
+      213: -289548855441816467
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_7
+  - first:
+      213: -6841291645553975005
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_8
+  - first:
+      213: 6315239228700609931
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_9
+  - first:
+      213: 3850750084004885149
+    second: Al-Kawthar -  Al-Kafirun - An-Nasr_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_0
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1878
+        width: 1149
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067630eb1e5722190800000000000000
+      internalID: -7988693176585853088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_1
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1878
+        width: 1055
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671247c854c67a660800000000000000
+      internalID: 7396999958944293238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_2
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 1878
+        width: 1068
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5341abaaad9cc5de0800000000000000
+      internalID: -1342976647858875339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1478
+        width: 1362
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4af4357c1cc4f70800000000000000
+      internalID: 9172919602887238889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_4
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1478
+        width: 1073
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf5882ea99a6db0800000000000000
+      internalID: -4797853479726613709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_5
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1478
+        width: 1077
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073f0c03b3fea3a0800000000000000
+      internalID: -6652111649252624631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_6
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1152
+        width: 1112
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07d7905925fae7b0800000000000000
+      internalID: -5194069662423853298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_7
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 1152
+        width: 1208
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64054e99d05bfbf0800000000000000
+      internalID: -289548855441816467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 752
+        width: 2156
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32168edbe79de01a0800000000000000
+      internalID: -6841291645553975005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_9
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 752
+        width: 1297
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dcf427e9c34a750800000000000000
+      internalID: 6315239228700609931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Kawthar -  Al-Kafirun - An-Nasr_10
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 351
+        width: 2277
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92baeb9ccc907530800000000000000
+      internalID: 3850750084004885149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Kawthar -  Al-Kafirun - An-Nasr_0: -7988693176585853088
+      Al-Kawthar -  Al-Kafirun - An-Nasr_1: 7396999958944293238
+      Al-Kawthar -  Al-Kafirun - An-Nasr_10: 3850750084004885149
+      Al-Kawthar -  Al-Kafirun - An-Nasr_2: -1342976647858875339
+      Al-Kawthar -  Al-Kafirun - An-Nasr_3: 9172919602887238889
+      Al-Kawthar -  Al-Kafirun - An-Nasr_4: -4797853479726613709
+      Al-Kawthar -  Al-Kafirun - An-Nasr_5: -6652111649252624631
+      Al-Kawthar -  Al-Kafirun - An-Nasr_6: -5194069662423853298
+      Al-Kawthar -  Al-Kafirun - An-Nasr_7: -289548855441816467
+      Al-Kawthar -  Al-Kafirun - An-Nasr_8: -6841291645553975005
+      Al-Kawthar -  Al-Kafirun - An-Nasr_9: 6315239228700609931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

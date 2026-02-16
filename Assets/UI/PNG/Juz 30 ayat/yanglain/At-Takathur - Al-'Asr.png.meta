@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: ef5cb6970c2bceb42807296fe965d32a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3891427872340993089
+    second: At-Takathur - Al-'Asr_0
+  - first:
+      213: -446778544428455171
+    second: At-Takathur - Al-'Asr_1
+  - first:
+      213: -285868975020595640
+    second: At-Takathur - Al-'Asr_2
+  - first:
+      213: 6513693152381797840
+    second: At-Takathur - Al-'Asr_3
+  - first:
+      213: -4153905954301924952
+    second: At-Takathur - Al-'Asr_4
+  - first:
+      213: -3333443322709653115
+    second: At-Takathur - Al-'Asr_5
+  - first:
+      213: 1967929198091079068
+    second: At-Takathur - Al-'Asr_6
+  - first:
+      213: 1830491190410032094
+    second: At-Takathur - Al-'Asr_7
+  - first:
+      213: 2563716289611571059
+    second: At-Takathur - Al-'Asr_8
+  - first:
+      213: 7703287795117957392
+    second: At-Takathur - Al-'Asr_9
+  - first:
+      213: 3139861507739255973
+    second: At-Takathur - Al-'Asr_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_0
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1831
+        width: 1104
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14460ff3801210630800000000000000
+      internalID: 3891427872340993089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_1
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 1831
+        width: 1039
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa631ee749bcc9f0800000000000000
+      internalID: -446778544428455171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_2
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1831
+        width: 875
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a79b8ea3680cf0800000000000000
+      internalID: -285868975020595640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1505
+        width: 887
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d58c9b3969456a50800000000000000
+      internalID: 6513693152381797840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_4
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1505
+        width: 1428
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9247bfa8c5a56c0800000000000000
+      internalID: -4153905954301924952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_5
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 1505
+        width: 1215
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894ef695fa3db1d0800000000000000
+      internalID: -3333443322709653115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_6
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1179
+        width: 1537
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d865bdd2d7f4b10800000000000000
+      internalID: 1967929198091079068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_7
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 1179
+        width: 1254
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33fd01a06376910800000000000000
+      internalID: 1830491190410032094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_8
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 616
+        width: 1222
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f1e2bd166249320800000000000000
+      internalID: 2563716289611571059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_9
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 616
+        width: 559
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011ab969f6397ea60800000000000000
+      internalID: 7703287795117957392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At-Takathur - Al-'Asr_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 290
+        width: 3352
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a488b4d767039b20800000000000000
+      internalID: 3139861507739255973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      At-Takathur - Al-'Asr_0: 3891427872340993089
+      At-Takathur - Al-'Asr_1: -446778544428455171
+      At-Takathur - Al-'Asr_10: 3139861507739255973
+      At-Takathur - Al-'Asr_2: -285868975020595640
+      At-Takathur - Al-'Asr_3: 6513693152381797840
+      At-Takathur - Al-'Asr_4: -4153905954301924952
+      At-Takathur - Al-'Asr_5: -3333443322709653115
+      At-Takathur - Al-'Asr_6: 1967929198091079068
+      At-Takathur - Al-'Asr_7: 1830491190410032094
+      At-Takathur - Al-'Asr_8: 2563716289611571059
+      At-Takathur - Al-'Asr_9: 7703287795117957392
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

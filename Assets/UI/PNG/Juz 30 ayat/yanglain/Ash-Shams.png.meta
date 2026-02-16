@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 4a3e622dfcb0b1b4fa2781325d18fec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5749424862273216661
+    second: Ash-Shams_0
+  - first:
+      213: 3222661497481150377
+    second: Ash-Shams_1
+  - first:
+      213: -226450347159993062
+    second: Ash-Shams_2
+  - first:
+      213: -1371061847083606683
+    second: Ash-Shams_3
+  - first:
+      213: -7511855820379766552
+    second: Ash-Shams_4
+  - first:
+      213: -5289447371951191308
+    second: Ash-Shams_5
+  - first:
+      213: -2186640350103771195
+    second: Ash-Shams_6
+  - first:
+      213: 7098075201880317517
+    second: Ash-Shams_7
+  - first:
+      213: -2554464617424155636
+    second: Ash-Shams_8
+  - first:
+      213: -5194331544633469172
+    second: Ash-Shams_9
+  - first:
+      213: 7045091561808734205
+    second: Ash-Shams_10
+  - first:
+      213: 3723540205712235509
+    second: Ash-Shams_11
+  - first:
+      213: -7002407779404986294
+    second: Ash-Shams_12
+  - first:
+      213: -7734509520633364962
+    second: Ash-Shams_13
+  - first:
+      213: 9217501668458166985
+    second: Ash-Shams_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ash-Shams_0
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1864
+        width: 1051
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902892537f0acf40800000000000000
+      internalID: 5749424862273216661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_1
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1864
+        width: 991
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af31bcbe8139bc20800000000000000
+      internalID: 3222661497481150377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_2
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1878
+        width: 1123
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15c34aeb9c7bdcf0800000000000000
+      internalID: -226450347159993062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1532
+        width: 1178
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9d77a38209fce0800000000000000
+      internalID: -1371061847083606683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1532
+        width: 1116
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0405e4ee680c790800000000000000
+      internalID: -7511855820379766552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_5
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 1532
+        width: 1052
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fac9b0d3ab1896b0800000000000000
+      internalID: -5289447371951191308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_6
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1225
+        width: 1463
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c76788df2e77a1e0800000000000000
+      internalID: -2186640350103771195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_7
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1225
+        width: 1186
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed515f9cd618260800000000000000
+      internalID: 7098075201880317517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 912
+        width: 1289
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c012fe6f7bc8cd0800000000000000
+      internalID: -2554464617424155636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_9
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 912
+        width: 1272
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07148c1bf60ae7b0800000000000000
+      internalID: -5194331544633469172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_10
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 912
+        width: 1124
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df726bfe27135c160800000000000000
+      internalID: 7045091561808734205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 580
+        width: 2116
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbdc54c61caca330800000000000000
+      internalID: 3723540205712235509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_12
+      rect:
+        serializedVersion: 2
+        x: 2855
+        y: 580
+        width: 1114
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a484228993372de90800000000000000
+      internalID: -7002407779404986294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 248
+        width: 1065
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e75c6f19089a490800000000000000
+      internalID: -7734509520633364962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ash-Shams_14
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 260
+        width: 2852
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caf4095ee42bef70800000000000000
+      internalID: 9217501668458166985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ash-Shams_0: 5749424862273216661
+      Ash-Shams_1: 3222661497481150377
+      Ash-Shams_10: 7045091561808734205
+      Ash-Shams_11: 3723540205712235509
+      Ash-Shams_12: -7002407779404986294
+      Ash-Shams_13: -7734509520633364962
+      Ash-Shams_14: 9217501668458166985
+      Ash-Shams_2: -226450347159993062
+      Ash-Shams_3: -1371061847083606683
+      Ash-Shams_4: -7511855820379766552
+      Ash-Shams_5: -5289447371951191308
+      Ash-Shams_6: -2186640350103771195
+      Ash-Shams_7: 7098075201880317517
+      Ash-Shams_8: -2554464617424155636
+      Ash-Shams_9: -5194331544633469172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

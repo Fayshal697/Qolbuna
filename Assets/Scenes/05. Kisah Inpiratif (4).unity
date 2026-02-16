@@ -1,0 +1,90 @@
+import torch
+import matplotlib.pyplot as plt
+
+# 1. Persiapan Data (Berdasarkan source: 6)
+# x = Hari ke-x, y = Data Suhu (°C)
+x = torch.tensor([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], dtype=torch.float32)
+y = torch.tensor([23.334, 23.41, 23.44, 23.32, 23.3, 23.33, 23.45, 23.45, 23.33, 23.41], 
+                 dtype=torch.float32)
+
+# 2. Definisi Model dan Fungsi Numerik (Berdasarkan source: 12, 13, 14)
+def predict(a, b, c, x):
+    """Model suhu: y_p = a * sin(b * x) + c"""
+    return a * torch.sin(b * x) + c [cite: 12]
+
+def residual(a, b, c, x, y):
+    """Fungsi Residu: r = y_pred - y"""
+    y_pred = predict(a, b, c, x)
+    return (y_pred - y).reshape(-1, 1) [cite: 12]
+
+def jacobian_residual(a, b, c, x):
+    """
+    Menghitung Matrix Jacobian (Jr) berdasarkan turunan parsial terhadap a, b, dan c.
+    Jr[:, 0] = d/da = sin(bx)
+    Jr[:, 1] = d/db = a * x * cos(bx)
+    Jr[:, 2] = d/dc = 1
+    """
+    N = x.numel()
+    Jr = torch.zeros((N, 3), dtype=torch.float32)
+    Jr[:, 0] = torch.sin(b * x)           # dr/da 
+    Jr[:, 1] = a * x * torch.cos(b * x)  # dr/db 
+    Jr[:, 2] = 1.0                       # dr/dc 
+    return Jr
+
+def gauss_newton_step(a, b, c, x, y):
+    """Satu langkah iterasi Gauss-Newton menggunakan persamaan normal"""
+    r = residual(a, b, c, x, y)
+    Jr = jacobian_residual(a, b, c, x)
+
+    # Persamaan Normal: (Jr^T * Jr) * delta = -Jr^T * r
+    A = Jr.T @ Jr [cite: 14]
+    g = Jr.T @ r [cite: 14]
+
+    # Menyelesaikan delta menggunakan inverse matrix (atau linalg.solve)
+    delta = torch.linalg.inv(A) @ -g [cite: 14]
+
+    # Update parameter: theta_k+1 = theta_k + delta
+    a_new = a + delta[0]
+    b_new = b + delta[1]
+    c_new = c + delta[2]
+
+    return a_new, b_new, c_new
+
+# 3. Prosedur Training (Berdasarkan source: 15, 16, 17)
+def train_gauss_newton(x, y, epochs=20):
+    # Inisialisasi parameter awal
+    a = torch.tensor(1.0)
+    b = torch.tensor(0.5)
+    c = torch.tensor(y.mean().item()) # Rata-rata suhu sebagai titik awal c
+
+    print(f"{'Iter':<5} | {'RMSE':<10} | {'a':<8} | {'b':<8} | {'c':<8}")
+    print("-" * 55)
+
+    for it in range(epochs):
+        y_pred = predict(a, b, c, x)
+        rmse = torch.sqrt(torch.mean((y_pred - y) ** 2)) [cite: 15]
+
+        print(f"{it:02d}    | {rmse.item():.6f} | {a.item():.4f} | {b.item():.4f} | {c.item():.4f}") [cite: 16, 17]
+
+        # Langkah Gauss-Newton
+        a, b, c = gauss_newton_step(a, b, c, x, y)
+
+    return a, b, c
+
+# 4. Eksekusi dan Visualisasi (Berdasarkan source: 21, 31)
+a_final, b_final, c_final = train_gauss_newton(x, y, epochs=20)
+
+# Prediksi hasil akhir
+y_fit = predict(a_final, b_final, c_final, x)
+
+
+
+plt.figure(figsize=(8, 5))
+plt.plot(x, y, 'o-', label="True y (Data)")
+plt.plot(x, y_fit, 's--', label="Predicted y (Gauss-Newton)")
+plt.xlabel("Hari ke-x")
+plt.ylabel("Suhu (°C)")
+plt.title("Prediksi Suhu menggunakan Gauss-Newton (Jacobian)")
+plt.legend()
+plt.grid(True)
+plt.show() [cite: 31]

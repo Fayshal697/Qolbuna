@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 2be61c370857702439a3f84bc9795e94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6839960047783945297
+    second: Al-Inshiqaq (2)_0
+  - first:
+      213: -9212611810563831961
+    second: Al-Inshiqaq (2)_1
+  - first:
+      213: 5832035783281684988
+    second: Al-Inshiqaq (2)_2
+  - first:
+      213: -7224394123518238591
+    second: Al-Inshiqaq (2)_3
+  - first:
+      213: 6880686273197719309
+    second: Al-Inshiqaq (2)_4
+  - first:
+      213: -305009605887643
+    second: Al-Inshiqaq (2)_5
+  - first:
+      213: -2667172738495911430
+    second: Al-Inshiqaq (2)_6
+  - first:
+      213: 6505701485486206404
+    second: Al-Inshiqaq (2)_7
+  - first:
+      213: -7030805333789457997
+    second: Al-Inshiqaq (2)_8
+  - first:
+      213: -8169115725118462880
+    second: Al-Inshiqaq (2)_9
+  - first:
+      213: 4808677896695336415
+    second: Al-Inshiqaq (2)_10
+  - first:
+      213: -8313207320849214646
+    second: Al-Inshiqaq (2)_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_0
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1865
+        width: 1529
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154a60e7c6b6cee50800000000000000
+      internalID: 6839960047783945297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_1
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1865
+        width: 1340
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76746c96e5a362080800000000000000
+      internalID: -9212611810563831961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1514
+        width: 1101
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf13fdb35ad8fe050800000000000000
+      internalID: 5832035783281684988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1514
+        width: 1077
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180a64632dbcdbb90800000000000000
+      internalID: -7224394123518238591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1514
+        width: 1195
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f3bd4c5bb1d7f50800000000000000
+      internalID: 6880686273197719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1163
+        width: 1239
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569b9ca689aeefff0800000000000000
+      internalID: -305009605887643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_6
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1163
+        width: 1340
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9685f868c4cfad0800000000000000
+      internalID: -2667172738495911430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 812
+        width: 1449
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde2294805e84a50800000000000000
+      internalID: 6505701485486206404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 812
+        width: 2180
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1ce8abccf8d6e90800000000000000
+      internalID: -7030805333789457997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 462
+        width: 1353
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064a143a78871ae80800000000000000
+      internalID: -8169115725118462880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 462
+        width: 1350
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd4ccfc11bdbb240800000000000000
+      internalID: 4808677896695336415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Inshiqaq (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 111
+        width: 2886
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a431b98acfd81ac80800000000000000
+      internalID: -8313207320849214646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Inshiqaq (2)_0: 6839960047783945297
+      Al-Inshiqaq (2)_1: -9212611810563831961
+      Al-Inshiqaq (2)_10: 4808677896695336415
+      Al-Inshiqaq (2)_11: -8313207320849214646
+      Al-Inshiqaq (2)_2: 5832035783281684988
+      Al-Inshiqaq (2)_3: -7224394123518238591
+      Al-Inshiqaq (2)_4: 6880686273197719309
+      Al-Inshiqaq (2)_5: -305009605887643
+      Al-Inshiqaq (2)_6: -2667172738495911430
+      Al-Inshiqaq (2)_7: 6505701485486206404
+      Al-Inshiqaq (2)_8: -7030805333789457997
+      Al-Inshiqaq (2)_9: -8169115725118462880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

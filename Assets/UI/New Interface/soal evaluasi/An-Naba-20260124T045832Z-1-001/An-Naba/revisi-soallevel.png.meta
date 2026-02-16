@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 471cd30dad319d142852d10a194efc9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5816978878665444144
+    second: revisi-soallevel_0
+  - first:
+      213: 5629239217792470974
+    second: revisi-soallevel_1
+  - first:
+      213: -5487831230246912427
+    second: revisi-soallevel_2
+  - first:
+      213: -2893020072487514398
+    second: revisi-soallevel_3
+  - first:
+      213: -3019476647119362674
+    second: revisi-soallevel_4
+  - first:
+      213: -6293134486617000529
+    second: revisi-soallevel_5
+  - first:
+      213: -7236424895056540882
+    second: revisi-soallevel_6
+  - first:
+      213: -2271506133180193102
+    second: revisi-soallevel_7
+  - first:
+      213: 6261057713181200598
+    second: revisi-soallevel_8
+  - first:
+      213: 3353191151163748085
+    second: revisi-soallevel_9
+  - first:
+      213: -1976748468183097902
+    second: revisi-soallevel_10
+  - first:
+      213: -6842154041678853064
+    second: revisi-soallevel_11
+  - first:
+      213: 5505066456002869666
+    second: revisi-soallevel_12
+  - first:
+      213: -2148374123944816141
+    second: revisi-soallevel_13
+  - first:
+      213: -5727623402688125840
+    second: revisi-soallevel_14
+  - first:
+      213: -269942936235387466
+    second: revisi-soallevel_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: revisi-soallevel_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1716
+        width: 270
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4323f8780f54fa0800000000000000
+      internalID: -5816978878665444144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_1
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1841
+        width: 908
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc73c5e331f1e40800000000000000
+      internalID: 5629239217792470974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_2
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1845
+        width: 641
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e76d5629e47d3b0800000000000000
+      internalID: -5487831230246912427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_3
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1848
+        width: 582
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8e4b629de9d7d0800000000000000
+      internalID: -2893020072487514398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1409
+        width: 262
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85ecd0ccf9a816d0800000000000000
+      internalID: -3019476647119362674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_5
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1360
+        width: 1657
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5fe61e68b4aa8a0800000000000000
+      internalID: -6293134486617000529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1085
+        width: 265
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b8c5ee5ed039b90800000000000000
+      internalID: -7236424895056540882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 919
+        width: 299
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b66ca2f43df970e0800000000000000
+      internalID: -2271506133180193102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 888
+        width: 753
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0926051deb3e650800000000000000
+      internalID: 6261057713181200598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_9
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 953
+        width: 294
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe2915069de88e20800000000000000
+      internalID: 3353191151163748085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_10
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1023
+        width: 772
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd16afcdbd2194e0800000000000000
+      internalID: -1976748468183097902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 480
+        width: 299
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c8a3f7629cb01a0800000000000000
+      internalID: -6842154041678853064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 553
+        width: 550
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a938fe46cce56c40800000000000000
+      internalID: 5505066456002869666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_13
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 485
+        width: 294
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d0a9ed117f22e0800000000000000
+      internalID: -2148374123944816141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_14
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 500
+        width: 621
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0746f8b8cd46380b0800000000000000
+      internalID: -5727623402688125840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: revisi-soallevel_15
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 72
+        width: 755
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b550186458f04cf0800000000000000
+      internalID: -269942936235387466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      revisi-soallevel_0: -5816978878665444144
+      revisi-soallevel_1: 5629239217792470974
+      revisi-soallevel_10: -1976748468183097902
+      revisi-soallevel_11: -6842154041678853064
+      revisi-soallevel_12: 5505066456002869666
+      revisi-soallevel_13: -2148374123944816141
+      revisi-soallevel_14: -5727623402688125840
+      revisi-soallevel_15: -269942936235387466
+      revisi-soallevel_2: -5487831230246912427
+      revisi-soallevel_3: -2893020072487514398
+      revisi-soallevel_4: -3019476647119362674
+      revisi-soallevel_5: -6293134486617000529
+      revisi-soallevel_6: -7236424895056540882
+      revisi-soallevel_7: -2271506133180193102
+      revisi-soallevel_8: 6261057713181200598
+      revisi-soallevel_9: 3353191151163748085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

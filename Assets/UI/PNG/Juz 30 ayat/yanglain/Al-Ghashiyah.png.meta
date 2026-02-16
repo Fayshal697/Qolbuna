@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 5858ee2bd61f2304e8ac5a337529e0b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5309303906992671309
+    second: Al-Ghashiyah_0
+  - first:
+      213: -1176423884557338374
+    second: Al-Ghashiyah_1
+  - first:
+      213: -2549956640871030472
+    second: Al-Ghashiyah_2
+  - first:
+      213: -8671068871987319511
+    second: Al-Ghashiyah_3
+  - first:
+      213: 609744374845667497
+    second: Al-Ghashiyah_4
+  - first:
+      213: 319493363359123033
+    second: Al-Ghashiyah_5
+  - first:
+      213: 2136256042051701870
+    second: Al-Ghashiyah_6
+  - first:
+      213: -1435916295636265870
+    second: Al-Ghashiyah_7
+  - first:
+      213: -8196895290380804610
+    second: Al-Ghashiyah_8
+  - first:
+      213: -3373455975539233494
+    second: Al-Ghashiyah_9
+  - first:
+      213: -8114064198322286981
+    second: Al-Ghashiyah_10
+  - first:
+      213: -8538116502906132523
+    second: Al-Ghashiyah_11
+  - first:
+      213: 8294697492874096010
+    second: Al-Ghashiyah_12
+  - first:
+      213: -5966172754645758012
+    second: Al-Ghashiyah_13
+  - first:
+      213: -1977253418191529808
+    second: Al-Ghashiyah_14
+  - first:
+      213: -2980895331843881797
+    second: Al-Ghashiyah_15
+  - first:
+      213: 7314705235042205768
+    second: Al-Ghashiyah_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Ghashiyah_0
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1876
+        width: 872
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a44e406cf6ea940800000000000000
+      internalID: 5309303906992671309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_1
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1876
+        width: 1246
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8bcafb5b08cafe0800000000000000
+      internalID: -1176423884557338374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_2
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1876
+        width: 1456
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831eb3402fbbc9cd0800000000000000
+      internalID: -2549956640871030472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1540
+        width: 1591
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92daf3e5dcc2aa780800000000000000
+      internalID: -8671068871987319511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_4
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1551
+        width: 1234
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8f772474f367800800000000000000
+      internalID: 609744374845667497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_5
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 1551
+        width: 994
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568d1f65811f6400800000000000000
+      internalID: 319493363359123033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1225
+        width: 923
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c06c74d8185ad10800000000000000
+      internalID: 2136256042051701870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_7
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1225
+        width: 1187
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274d767acb9921ce0800000000000000
+      internalID: -1435916295636265870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_8
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 1215
+        width: 1544
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd97c39927ce3e80800000000000000
+      internalID: -8196895290380804610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 877
+        width: 1061
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da090e9a31f21d0800000000000000
+      internalID: -3373455975539233494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_10
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 899
+        width: 1183
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e094e0a9d056f80800000000000000
+      internalID: -8114064198322286981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_11
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 899
+        width: 921
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d721690744828980800000000000000
+      internalID: -8538116502906132523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 552
+        width: 1109
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d651e2c6fac1370800000000000000
+      internalID: 8294697492874096010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_13
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 564
+        width: 1166
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfc9b26d75e33da0800000000000000
+      internalID: -5966172754645758012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_14
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 574
+        width: 1181
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b854c9fd726f84e0800000000000000
+      internalID: -1977253418191529808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_15
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 242
+        width: 1847
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb443d83d7bb1a6d0800000000000000
+      internalID: -2980895331843881797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Ghashiyah_16
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 242
+        width: 928
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840816308ad038560800000000000000
+      internalID: 7314705235042205768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Ghashiyah_0: 5309303906992671309
+      Al-Ghashiyah_1: -1176423884557338374
+      Al-Ghashiyah_10: -8114064198322286981
+      Al-Ghashiyah_11: -8538116502906132523
+      Al-Ghashiyah_12: 8294697492874096010
+      Al-Ghashiyah_13: -5966172754645758012
+      Al-Ghashiyah_14: -1977253418191529808
+      Al-Ghashiyah_15: -2980895331843881797
+      Al-Ghashiyah_16: 7314705235042205768
+      Al-Ghashiyah_2: -2549956640871030472
+      Al-Ghashiyah_3: -8671068871987319511
+      Al-Ghashiyah_4: 609744374845667497
+      Al-Ghashiyah_5: 319493363359123033
+      Al-Ghashiyah_6: 2136256042051701870
+      Al-Ghashiyah_7: -1435916295636265870
+      Al-Ghashiyah_8: -8196895290380804610
+      Al-Ghashiyah_9: -3373455975539233494
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

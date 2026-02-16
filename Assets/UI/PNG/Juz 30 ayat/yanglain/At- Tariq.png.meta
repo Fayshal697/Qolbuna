@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d587c64a5adecde47a33a3b21eb8c06f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6497794789700723801
+    second: At- Tariq_0
+  - first:
+      213: -3358240818118659687
+    second: At- Tariq_1
+  - first:
+      213: 2349968106641962431
+    second: At- Tariq_2
+  - first:
+      213: -4837505489586911465
+    second: At- Tariq_3
+  - first:
+      213: -8948157228609792002
+    second: At- Tariq_4
+  - first:
+      213: -7871008588086362500
+    second: At- Tariq_5
+  - first:
+      213: -6231029373807382233
+    second: At- Tariq_6
+  - first:
+      213: -1074507312717862006
+    second: At- Tariq_7
+  - first:
+      213: -8783086954905597898
+    second: At- Tariq_8
+  - first:
+      213: -5989459142921597675
+    second: At- Tariq_9
+  - first:
+      213: -8722763810564549806
+    second: At- Tariq_10
+  - first:
+      213: 7949339067120250369
+    second: At- Tariq_11
+  - first:
+      213: -8621907458802522210
+    second: At- Tariq_12
+  - first:
+      213: -3915165493701568030
+    second: At- Tariq_13
+  - first:
+      213: 432983695802582394
+    second: At- Tariq_14
+  - first:
+      213: 8100971498761239449
+    second: At- Tariq_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: At- Tariq_0
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1823
+        width: 955
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1188c01233d5a0800000000000000
+      internalID: -6497794789700723801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_1
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1823
+        width: 1293
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991f1d5c4c12561d0800000000000000
+      internalID: -3358240818118659687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_2
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1823
+        width: 1066
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb534e5da83cc9020800000000000000
+      internalID: 2349968106641962431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1497
+        width: 1410
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7178b2e236abddcb0800000000000000
+      internalID: -4837505489586911465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_4
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1497
+        width: 1636
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef79e52f862c1d380800000000000000
+      internalID: -8948157228609792002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1171
+        width: 1765
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e301b346f84c290800000000000000
+      internalID: -7871008588086362500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_6
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 1171
+        width: 1190
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721bf254ccfe689a0800000000000000
+      internalID: -6231029373807382233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 846
+        width: 1434
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b64e4ca459611f0800000000000000
+      internalID: -1074507312717862006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_8
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 846
+        width: 1026
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6380c7503f43c1680800000000000000
+      internalID: -8783086954905597898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_9
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 846
+        width: 1185
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d417d94aa21eca0800000000000000
+      internalID: -5989459142921597675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 520
+        width: 1114
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253daab878482f680800000000000000
+      internalID: -8722763810564549806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_11
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 520
+        width: 1260
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e66de93c9b15e60800000000000000
+      internalID: 7949339067120250369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_12
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 520
+        width: 1215
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e8c7d8d4d85880800000000000000
+      internalID: -8621907458802522210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_13
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 175
+        width: 908
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91d071ab98aa9c0800000000000000
+      internalID: -3915165493701568030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 175
+        width: 1225
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7549d59064420600800000000000000
+      internalID: 432983695802582394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At- Tariq_15
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 175
+        width: 967
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b3a3748ae6c6070800000000000000
+      internalID: 8100971498761239449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      At- Tariq_0: -6497794789700723801
+      At- Tariq_1: -3358240818118659687
+      At- Tariq_10: -8722763810564549806
+      At- Tariq_11: 7949339067120250369
+      At- Tariq_12: -8621907458802522210
+      At- Tariq_13: -3915165493701568030
+      At- Tariq_14: 432983695802582394
+      At- Tariq_15: 8100971498761239449
+      At- Tariq_2: 2349968106641962431
+      At- Tariq_3: -4837505489586911465
+      At- Tariq_4: -8948157228609792002
+      At- Tariq_5: -7871008588086362500
+      At- Tariq_6: -6231029373807382233
+      At- Tariq_7: -1074507312717862006
+      At- Tariq_8: -8783086954905597898
+      At- Tariq_9: -5989459142921597675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

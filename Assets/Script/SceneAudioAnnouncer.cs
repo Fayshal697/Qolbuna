@@ -1,43 +1,33 @@
 ﻿using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class SceneAudioAnnouncer : MonoBehaviour
 {
-    public AudioClip sceneIntroAudio; // audio untuk scene ini
-
-    private bool firstTime = true;
+    public AudioClip sceneIntroAudio;
+    private bool hasPlayed = false;
 
     private void Start()
     {
-        // Trigger audio saat game pertama kali dimuat
-        if (firstTime)
-        {
-            firstTime = false;
-            PlaySceneAudio();
-        }
+        PlaySceneAudio();
     }
 
-    private void OnEnable()
+    private void Update()
     {
-        // Trigger audio saat scene berikutnya diaktifkan / dipindah
-        if (!firstTime)
-        {
+        if (AudioManager.Instance == null) return;
+        if (AudioManager.Instance.currentContext != AudioManager.AudioContext.Scene) return;
+
+        if (Input.GetKeyDown(KeyCode.J))
+            AudioManager.Instance.StopAllAudio();
+
+        if (Input.GetKeyDown(KeyCode.K))
             PlaySceneAudio();
-        }
     }
 
     public void PlaySceneAudio()
     {
-        if (sceneIntroAudio != null && AudioManager.Instance != null)
-        {
-            AudioManager.Instance.StopAllAudio(); // hentikan audio lain dulu
-            AudioManager.Instance.PlayVoice(sceneIntroAudio);
-        }
-    }
+        if (sceneIntroAudio == null || AudioManager.Instance == null) return;
 
-    public void StopSceneAudio()
-    {
-        if (AudioManager.Instance != null)
-            AudioManager.Instance.StopAllAudio();
+        hasPlayed = true;
+        AudioManager.Instance.StopAllAudio();
+        AudioManager.Instance.PlayVoice(sceneIntroAudio);
     }
 }

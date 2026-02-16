@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 489278c1ade3fb1448e62d52bd0ce28e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7642058613756887391
+    second: Ad-Duhaa_0
+  - first:
+      213: 5701036900447466287
+    second: Ad-Duhaa_1
+  - first:
+      213: 8456189043988736310
+    second: Ad-Duhaa_2
+  - first:
+      213: 8699331932110922233
+    second: Ad-Duhaa_3
+  - first:
+      213: 583633859818469215
+    second: Ad-Duhaa_4
+  - first:
+      213: -6046081878654881393
+    second: Ad-Duhaa_5
+  - first:
+      213: 5353699614097490841
+    second: Ad-Duhaa_6
+  - first:
+      213: 3946111403969897312
+    second: Ad-Duhaa_7
+  - first:
+      213: 7940848173546036744
+    second: Ad-Duhaa_8
+  - first:
+      213: -1110575311116984948
+    second: Ad-Duhaa_9
+  - first:
+      213: -7365063532906685681
+    second: Ad-Duhaa_10
+  - first:
+      213: -227228611104030595
+    second: Ad-Duhaa_11
+  - first:
+      213: -6043439600796003381
+    second: Ad-Duhaa_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ad-Duhaa_0
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1878
+        width: 1322
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5181b1e1db0e0a60800000000000000
+      internalID: 7642058613756887391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_1
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1878
+        width: 934
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23b0960bd62e1f40800000000000000
+      internalID: 5701036900447466287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_2
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 1878
+        width: 609
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639af78f12b6a5570800000000000000
+      internalID: 8456189043988736310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_3
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1546
+        width: 1621
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f12fac1d4c3ab870800000000000000
+      internalID: 8699331932110922233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_4
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 1546
+        width: 1504
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57be5d37eb791800800000000000000
+      internalID: 583633859818469215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1213
+        width: 1204
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8179db9090081ca0800000000000000
+      internalID: -6046081878654881393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_6
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1213
+        width: 1246
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934d641f692c4a40800000000000000
+      internalID: 5353699614097490841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_7
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1506
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636ebd1a6763c630800000000000000
+      internalID: 3946111403969897312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_8
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1213
+        width: 1301
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e5587675f833e60800000000000000
+      internalID: 7940848173546036744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 881
+        width: 1366
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9d8c73a17690f0800000000000000
+      internalID: -1110575311116984948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_10
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 881
+        width: 1180
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd9e41db90ac990800000000000000
+      internalID: -7365063532906685681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_11
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 881
+        width: 1138
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70c65838c8b8dcf0800000000000000
+      internalID: -227228611104030595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ad-Duhaa_12
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 549
+        width: 1367
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3960dd3b3612ca0800000000000000
+      internalID: -6043439600796003381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ad-Duhaa_0: 7642058613756887391
+      Ad-Duhaa_1: 5701036900447466287
+      Ad-Duhaa_10: -7365063532906685681
+      Ad-Duhaa_11: -227228611104030595
+      Ad-Duhaa_12: -6043439600796003381
+      Ad-Duhaa_2: 8456189043988736310
+      Ad-Duhaa_3: 8699331932110922233
+      Ad-Duhaa_4: 583633859818469215
+      Ad-Duhaa_5: -6046081878654881393
+      Ad-Duhaa_6: 5353699614097490841
+      Ad-Duhaa_7: 3946111403969897312
+      Ad-Duhaa_8: 7940848173546036744
+      Ad-Duhaa_9: -1110575311116984948
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

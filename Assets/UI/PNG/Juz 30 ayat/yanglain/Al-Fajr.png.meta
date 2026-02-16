@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0e6107b85ccc2f842b84eb54941c6e9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4838638512636280684
+    second: Al-Fajr_0
+  - first:
+      213: -4961984182105726231
+    second: Al-Fajr_1
+  - first:
+      213: -8932708669014769231
+    second: Al-Fajr_2
+  - first:
+      213: -1970270921370974012
+    second: Al-Fajr_3
+  - first:
+      213: 7364948736238741681
+    second: Al-Fajr_4
+  - first:
+      213: 2892789678575938627
+    second: Al-Fajr_5
+  - first:
+      213: -4729661186626597975
+    second: Al-Fajr_6
+  - first:
+      213: -482521901851848725
+    second: Al-Fajr_7
+  - first:
+      213: 5610949452428085581
+    second: Al-Fajr_8
+  - first:
+      213: 8790647673327572821
+    second: Al-Fajr_9
+  - first:
+      213: -5013566667521644949
+    second: Al-Fajr_10
+  - first:
+      213: 5973506232700533657
+    second: Al-Fajr_11
+  - first:
+      213: -20053063543343409
+    second: Al-Fajr_12
+  - first:
+      213: -7075614291592564521
+    second: Al-Fajr_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Fajr_0
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1824
+        width: 837
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904ac1b8e3b9dcb0800000000000000
+      internalID: -4838638512636280684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_1
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1824
+        width: 927
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e22b741dad732bb0800000000000000
+      internalID: -4961984182105726231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_2
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 1824
+        width: 747
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b182550bc4a80480800000000000000
+      internalID: -8932708669014769231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_3
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1824
+        width: 538
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8c664390138a4e0800000000000000
+      internalID: -1970270921370974012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1468
+        width: 1477
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e87cbadd853660800000000000000
+      internalID: 7364948736238741681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_5
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1468
+        width: 1587
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c6f61d2e0452820800000000000000
+      internalID: 2892789678575938627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_6
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1111
+        width: 1573
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab4b27a53edc5eb0800000000000000
+      internalID: -4729661186626597975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_7
+      rect:
+        serializedVersion: 2
+        x: 2970
+        y: 1111
+        width: 947
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef46c303ecbd49f0800000000000000
+      internalID: -482521901851848725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_8
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 753
+        width: 1140
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4906a48cc81edd40800000000000000
+      internalID: 5610949452428085581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_9
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 753
+        width: 1727
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557dd4aeb77aef970800000000000000
+      internalID: 8790647673327572821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_10
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 396
+        width: 1210
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6622accdab3c6ab0800000000000000
+      internalID: -5013566667521644949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_11
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 396
+        width: 1249
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b72b7054826e250800000000000000
+      internalID: 5973506232700533657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_12
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 78
+        width: 1090
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc637de48d1c8bff0800000000000000
+      internalID: -20053063543343409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Fajr_13
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 78
+        width: 1739
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0b2fd3a4e5ecd90800000000000000
+      internalID: -7075614291592564521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Fajr_0: -4838638512636280684
+      Al-Fajr_1: -4961984182105726231
+      Al-Fajr_10: -5013566667521644949
+      Al-Fajr_11: 5973506232700533657
+      Al-Fajr_12: -20053063543343409
+      Al-Fajr_13: -7075614291592564521
+      Al-Fajr_2: -8932708669014769231
+      Al-Fajr_3: -1970270921370974012
+      Al-Fajr_4: 7364948736238741681
+      Al-Fajr_5: 2892789678575938627
+      Al-Fajr_6: -4729661186626597975
+      Al-Fajr_7: -482521901851848725
+      Al-Fajr_8: 5610949452428085581
+      Al-Fajr_9: 8790647673327572821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

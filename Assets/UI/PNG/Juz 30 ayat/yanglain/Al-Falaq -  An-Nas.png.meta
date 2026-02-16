@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 179aefab241ee1d4eb2376a7f09e22e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7029320685286809622
+    second: Al-Falaq -  An-Nas_0
+  - first:
+      213: 3288017875041426383
+    second: Al-Falaq -  An-Nas_1
+  - first:
+      213: 2773348216921001958
+    second: Al-Falaq -  An-Nas_2
+  - first:
+      213: 5416933028010901024
+    second: Al-Falaq -  An-Nas_3
+  - first:
+      213: -3313115641801189414
+    second: Al-Falaq -  An-Nas_4
+  - first:
+      213: -1904202569643157525
+    second: Al-Falaq -  An-Nas_5
+  - first:
+      213: 3931363777459060538
+    second: Al-Falaq -  An-Nas_6
+  - first:
+      213: -949045949549522429
+    second: Al-Falaq -  An-Nas_7
+  - first:
+      213: -8147112182178653509
+    second: Al-Falaq -  An-Nas_8
+  - first:
+      213: 3238660408114550057
+    second: Al-Falaq -  An-Nas_9
+  - first:
+      213: 7980122803643904185
+    second: Al-Falaq -  An-Nas_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1878
+        width: 1386
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61063da9be92d8160800000000000000
+      internalID: 7029320685286809622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_1
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1878
+        width: 937
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb9af036d261ad20800000000000000
+      internalID: 3288017875041426383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_2
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1878
+        width: 1117
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef0a0c6289ec7620800000000000000
+      internalID: 2773348216921001958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_3
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1492
+        width: 1387
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ebbaa83efcc2b40800000000000000
+      internalID: 5416933028010901024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_4
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1492
+        width: 1545
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad756ae90e27502d0800000000000000
+      internalID: -3313115641801189414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 978
+        width: 721
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be798001ad9e295e0800000000000000
+      internalID: -1904202569643157525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_6
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 978
+        width: 764
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff84eb6820f8630800000000000000
+      internalID: 3931363777459060538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_7
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 978
+        width: 1137
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302d395bcbf44d2f0800000000000000
+      internalID: -949045949549522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_8
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 1677
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbadbf3b2a4afee80800000000000000
+      internalID: -8147112182178653509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_9
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 640
+        width: 1438
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9251ac56b7802fc20800000000000000
+      internalID: 3238660408114550057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Falaq -  An-Nas_10
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 255
+        width: 1043
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0703fc8671fbe60800000000000000
+      internalID: 7980122803643904185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Falaq -  An-Nas_0: 7029320685286809622
+      Al-Falaq -  An-Nas_1: 3288017875041426383
+      Al-Falaq -  An-Nas_10: 7980122803643904185
+      Al-Falaq -  An-Nas_2: 2773348216921001958
+      Al-Falaq -  An-Nas_3: 5416933028010901024
+      Al-Falaq -  An-Nas_4: -3313115641801189414
+      Al-Falaq -  An-Nas_5: -1904202569643157525
+      Al-Falaq -  An-Nas_6: 3931363777459060538
+      Al-Falaq -  An-Nas_7: -949045949549522429
+      Al-Falaq -  An-Nas_8: -8147112182178653509
+      Al-Falaq -  An-Nas_9: 3238660408114550057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

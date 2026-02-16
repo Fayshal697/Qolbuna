@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 5647cc836b830dc4a8b5fd112023d54e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -773832525717143135
+    second: Al-A'la_0
+  - first:
+      213: -4806796916086939025
+    second: Al-A'la_1
+  - first:
+      213: 3762143819607490998
+    second: Al-A'la_2
+  - first:
+      213: -623207080788432462
+    second: Al-A'la_3
+  - first:
+      213: 2253420015373420858
+    second: Al-A'la_4
+  - first:
+      213: -443944570368801015
+    second: Al-A'la_5
+  - first:
+      213: -2580523510493285655
+    second: Al-A'la_6
+  - first:
+      213: -2414698479347562098
+    second: Al-A'la_7
+  - first:
+      213: 8494479782261833447
+    second: Al-A'la_8
+  - first:
+      213: 8299920551635031133
+    second: Al-A'la_9
+  - first:
+      213: 8730699968520931122
+    second: Al-A'la_10
+  - first:
+      213: 3510945997558924167
+    second: Al-A'la_11
+  - first:
+      213: 2319993965037360875
+    second: Al-A'la_12
+  - first:
+      213: 4688318113217166614
+    second: Al-A'la_13
+  - first:
+      213: -2100953663346518864
+    second: Al-A'la_14
+  - first:
+      213: 359699981265335163
+    second: Al-A'la_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-A'la_0
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1804
+        width: 1086
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18cf4fa6bc245f0800000000000000
+      internalID: -773832525717143135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_1
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1804
+        width: 1056
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62e13d1ca3da4db0800000000000000
+      internalID: -4806796916086939025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_2
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1804
+        width: 1219
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1c2a90fd1d53430800000000000000
+      internalID: 3762143819607490998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_3
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1468
+        width: 1130
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9e810467ce957f0800000000000000
+      internalID: -623207080788432462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_4
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1468
+        width: 1141
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39861a9091c54f10800000000000000
+      internalID: 2253420015373420858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_5
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1468
+        width: 1181
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907443fe3cac6d9f0800000000000000
+      internalID: -443944570368801015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_6
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1126
+        width: 1043
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f0861a83203cd0800000000000000
+      internalID: -2580523510493285655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_7
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1133
+        width: 2207
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8900d2d6844d7ed0800000000000000
+      internalID: -2414698479347562098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 805
+        width: 1056
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee34753b5472e570800000000000000
+      internalID: 8494479782261833447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_9
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 805
+        width: 1125
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d549b2054cd3f2370800000000000000
+      internalID: 8299920551635031133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_10
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 798
+        width: 1334
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23744383d5da92970800000000000000
+      internalID: 8730699968520931122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_11
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 469
+        width: 1529
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783441278c269b030800000000000000
+      internalID: 3510945997558924167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_12
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 462
+        width: 1328
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be61a172836423020800000000000000
+      internalID: 2319993965037360875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 1392
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61db654fb70401140800000000000000
+      internalID: 4688318113217166614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_14
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 112
+        width: 1236
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4dca646c9e7d2e0800000000000000
+      internalID: -2100953663346518864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-A'la_15
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 112
+        width: 1110
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73f8092a39edf400800000000000000
+      internalID: 359699981265335163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-A'la_0: -773832525717143135
+      Al-A'la_1: -4806796916086939025
+      Al-A'la_10: 8730699968520931122
+      Al-A'la_11: 3510945997558924167
+      Al-A'la_12: 2319993965037360875
+      Al-A'la_13: 4688318113217166614
+      Al-A'la_14: -2100953663346518864
+      Al-A'la_15: 359699981265335163
+      Al-A'la_2: 3762143819607490998
+      Al-A'la_3: -623207080788432462
+      Al-A'la_4: 2253420015373420858
+      Al-A'la_5: -443944570368801015
+      Al-A'la_6: -2580523510493285655
+      Al-A'la_7: -2414698479347562098
+      Al-A'la_8: 8494479782261833447
+      Al-A'la_9: 8299920551635031133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

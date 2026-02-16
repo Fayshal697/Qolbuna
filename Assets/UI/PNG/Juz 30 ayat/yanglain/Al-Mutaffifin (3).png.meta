@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: e4a28516353a7a24696917779b929b2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1615360316626643509
+    second: Al-Mutaffifin (3)_0
+  - first:
+      213: 5414282656531295333
+    second: Al-Mutaffifin (3)_1
+  - first:
+      213: -6273776423980411700
+    second: Al-Mutaffifin (3)_2
+  - first:
+      213: -4010819221993713293
+    second: Al-Mutaffifin (3)_3
+  - first:
+      213: 5958014506060839832
+    second: Al-Mutaffifin (3)_4
+  - first:
+      213: 73645900906525562
+    second: Al-Mutaffifin (3)_5
+  - first:
+      213: -7128939016686681522
+    second: Al-Mutaffifin (3)_6
+  - first:
+      213: -6176408925342519548
+    second: Al-Mutaffifin (3)_7
+  - first:
+      213: 8839140751623523214
+    second: Al-Mutaffifin (3)_8
+  - first:
+      213: 4841482301187471312
+    second: Al-Mutaffifin (3)_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_0
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1846
+        width: 2735
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a2bc046a9ea6610800000000000000
+      internalID: 1615360316626643509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1502
+        width: 1916
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c2b18d365632b40800000000000000
+      internalID: 5414282656531295333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_2
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1502
+        width: 1354
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc45d6015911fe8a0800000000000000
+      internalID: -6273776423980411700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_3
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1157
+        width: 2716
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37191c6fa25b658c0800000000000000
+      internalID: -4010819221993713293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 813
+        width: 2063
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b716850ae1fa250800000000000000
+      internalID: 5958014506060839832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_5
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 813
+        width: 1502
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7372b28e84a50100800000000000000
+      internalID: 73645900906525562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 468
+        width: 1725
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42c7fc2cbbe01d90800000000000000
+      internalID: -7128939016686681522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_7
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 468
+        width: 2069
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f28617eccf84aa0800000000000000
+      internalID: -6176408925342519548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 124
+        width: 1323
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b033c8eafeaaa70800000000000000
+      internalID: 8839140751623523214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Mutaffifin (3)_9
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 124
+        width: 2305
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7be9c6086603340800000000000000
+      internalID: 4841482301187471312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Mutaffifin (3)_0: 1615360316626643509
+      Al-Mutaffifin (3)_1: 5414282656531295333
+      Al-Mutaffifin (3)_2: -6273776423980411700
+      Al-Mutaffifin (3)_3: -4010819221993713293
+      Al-Mutaffifin (3)_4: 5958014506060839832
+      Al-Mutaffifin (3)_5: 73645900906525562
+      Al-Mutaffifin (3)_6: -7128939016686681522
+      Al-Mutaffifin (3)_7: -6176408925342519548
+      Al-Mutaffifin (3)_8: 8839140751623523214
+      Al-Mutaffifin (3)_9: 4841482301187471312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

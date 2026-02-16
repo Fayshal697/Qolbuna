@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: c92ab7d625cda4742b12efc17bd8a6b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3942858608790134972
+    second: Al-Buruj (2)_0
+  - first:
+      213: -1627060431475100899
+    second: Al-Buruj (2)_1
+  - first:
+      213: -4030019597405758961
+    second: Al-Buruj (2)_2
+  - first:
+      213: -4348181530770555761
+    second: Al-Buruj (2)_3
+  - first:
+      213: 5644523502504978002
+    second: Al-Buruj (2)_4
+  - first:
+      213: -4868593076677050005
+    second: Al-Buruj (2)_5
+  - first:
+      213: 4849996007481349191
+    second: Al-Buruj (2)_6
+  - first:
+      213: 8854812156204357656
+    second: Al-Buruj (2)_7
+  - first:
+      213: -8990856414545162369
+    second: Al-Buruj (2)_8
+  - first:
+      213: -5350528737839158280
+    second: Al-Buruj (2)_9
+  - first:
+      213: 5721000836681543519
+    second: Al-Buruj (2)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Buruj (2)_0
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1606
+        width: 3051
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0e688b309d7b630800000000000000
+      internalID: 3942858608790134972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1547
+        width: 1400
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1335d978258b69e0800000000000000
+      internalID: -1627060431475100899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1222
+        width: 975
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a54c2378e7218c0800000000000000
+      internalID: -4030019597405758961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_3
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1222
+        width: 1238
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cb1877fe728a3c0800000000000000
+      internalID: -4348181530770555761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 1266
+        width: 1231
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25627253830655e40800000000000000
+      internalID: 5644523502504978002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 896
+        width: 991
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b610db444684f6cb0800000000000000
+      internalID: -4868593076677050005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_6
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 896
+        width: 1538
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441df32ca5ae4340800000000000000
+      internalID: 4849996007481349191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_7
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 555
+        width: 1490
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8181f53cdbc92ea70800000000000000
+      internalID: 8854812156204357656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_8
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 555
+        width: 1692
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f4e700abf0a3380800000000000000
+      internalID: -8990856414545162369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 208
+        width: 1179
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbe394167a1fb5b0800000000000000
+      internalID: -5350528737839158280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Buruj (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 213
+        width: 1249
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fad1623f3156f40800000000000000
+      internalID: 5721000836681543519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Buruj (2)_0: 3942858608790134972
+      Al-Buruj (2)_1: -1627060431475100899
+      Al-Buruj (2)_10: 5721000836681543519
+      Al-Buruj (2)_2: -4030019597405758961
+      Al-Buruj (2)_3: -4348181530770555761
+      Al-Buruj (2)_4: 5644523502504978002
+      Al-Buruj (2)_5: -4868593076677050005
+      Al-Buruj (2)_6: 4849996007481349191
+      Al-Buruj (2)_7: 8854812156204357656
+      Al-Buruj (2)_8: -8990856414545162369
+      Al-Buruj (2)_9: -5350528737839158280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

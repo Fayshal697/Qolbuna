@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: b45839e1e2af5f442bae3ec1f539d884
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 637019480571983167
+    second: Abasa (3)_0
+  - first:
+      213: -4481940719881858960
+    second: Abasa (3)_1
+  - first:
+      213: -229982129548347118
+    second: Abasa (3)_2
+  - first:
+      213: 6088626658178441061
+    second: Abasa (3)_3
+  - first:
+      213: 4631108201293414930
+    second: Abasa (3)_4
+  - first:
+      213: 7924256034225653287
+    second: Abasa (3)_5
+  - first:
+      213: 1928977507025295827
+    second: Abasa (3)_6
+  - first:
+      213: -1101760668011621259
+    second: Abasa (3)_7
+  - first:
+      213: 5134062833730450522
+    second: Abasa (3)_8
+  - first:
+      213: -1241658014766068873
+    second: Abasa (3)_9
+  - first:
+      213: -6426033311152037479
+    second: Abasa (3)_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Abasa (3)_0
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1876
+        width: 1250
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f353f7ea7d527d800800000000000000
+      internalID: 637019480571983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_1
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1876
+        width: 1384
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070551f59a2fcc1c0800000000000000
+      internalID: -4481940719881858960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1538
+        width: 1062
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219359fb870feccf0800000000000000
+      internalID: -229982129548347118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_3
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1538
+        width: 858
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f13bacfa52f7450800000000000000
+      internalID: 6088626658178441061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_4
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 1538
+        width: 1512
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120e765f50054040800000000000000
+      internalID: 4631108201293414930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1194
+        width: 1469
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726044de0ec98fd60800000000000000
+      internalID: 7924256034225653287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_6
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1200
+        width: 2104
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d916fd82da15ca10800000000000000
+      internalID: 1928977507025295827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 849
+        width: 954
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5749ba38282c5b0f0800000000000000
+      internalID: -1101760668011621259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 849
+        width: 1601
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f90322fadf3740800000000000000
+      internalID: 5134062833730450522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_9
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 861
+        width: 1324
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b0a593d9eb4cee0800000000000000
+      internalID: -1241658014766068873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Abasa (3)_10
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 473
+        width: 1502
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991a4f500c422d6a0800000000000000
+      internalID: -6426033311152037479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Abasa (3)_0: 637019480571983167
+      Abasa (3)_1: -4481940719881858960
+      Abasa (3)_10: -6426033311152037479
+      Abasa (3)_2: -229982129548347118
+      Abasa (3)_3: 6088626658178441061
+      Abasa (3)_4: 4631108201293414930
+      Abasa (3)_5: 7924256034225653287
+      Abasa (3)_6: 1928977507025295827
+      Abasa (3)_7: -1101760668011621259
+      Abasa (3)_8: 5134062833730450522
+      Abasa (3)_9: -1241658014766068873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

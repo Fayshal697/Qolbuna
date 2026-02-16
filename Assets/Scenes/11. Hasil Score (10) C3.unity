@@ -3034,7 +3034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 32169956c67323548a08d28892161946, type: 3}
+  introNarration: {fileID: 8300000, guid: d2d7a86aaf1a2b34aaf75f6108796947, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}
@@ -3085,7 +3085,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 0993598a4331a83469ae3ff625024fe7, type: 3}
+  introNarration: {fileID: 8300000, guid: 41bfffad07325c243b7b5861b2b006a0, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}
@@ -3627,7 +3627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: da37a4338996d734db130542a0acf03b, type: 3}
+  introNarration: {fileID: 8300000, guid: 01267729ec58e1949ab89e1f72c1980a, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}
@@ -3873,7 +3873,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: 750fe45d478cbb64fb64def68397b333, type: 3}
+  introNarration: {fileID: 8300000, guid: 60d4135ccb9fc4047959437eb033f650, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}
@@ -4284,7 +4284,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7865a058469289e43a9a305aa71512f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PanelAudioAnnouncer
-  introNarration: {fileID: 8300000, guid: f8c0095e7b0236e47871313bf35dc21b, type: 3}
+  introNarration: {fileID: 8300000, guid: 6fa6993d819952848851aea066665662, type: 3}
   replayNarration: {fileID: 0}
   stepNarrations: []
   specialNarration: {fileID: 0}

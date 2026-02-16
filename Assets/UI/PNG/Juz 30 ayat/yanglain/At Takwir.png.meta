@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 1492b65013e6ef141b03f4b34e6dd940
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4596991882788122195
+    second: At Takwir_0
+  - first:
+      213: -7357539525603907055
+    second: At Takwir_1
+  - first:
+      213: 4623273583662841050
+    second: At Takwir_2
+  - first:
+      213: 1949969800905318736
+    second: At Takwir_3
+  - first:
+      213: 8969512235147530594
+    second: At Takwir_4
+  - first:
+      213: 5196319569658447011
+    second: At Takwir_5
+  - first:
+      213: 2246186154932123704
+    second: At Takwir_6
+  - first:
+      213: 661017566234707926
+    second: At Takwir_7
+  - first:
+      213: -2932138697819010183
+    second: At Takwir_8
+  - first:
+      213: -3356059471159232591
+    second: At Takwir_9
+  - first:
+      213: -2903968520350327997
+    second: At Takwir_10
+  - first:
+      213: 3655364668623376359
+    second: At Takwir_11
+  - first:
+      213: 6243131223751473404
+    second: At Takwir_12
+  - first:
+      213: -7294716238743656211
+    second: At Takwir_13
+  - first:
+      213: -5393158538433625819
+    second: At Takwir_14
+  - first:
+      213: -6738357533667421502
+    second: At Takwir_15
+  - first:
+      213: 5960993513354170121
+    second: At Takwir_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: At Takwir_0
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1876
+        width: 1180
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da15f0f0d343430c0800000000000000
+      internalID: -4596991882788122195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_1
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1876
+        width: 1238
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aab7b88c4c4e990800000000000000
+      internalID: -7357539525603907055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_2
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1876
+        width: 1137
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcbba544da292040800000000000000
+      internalID: 4623273583662841050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1507
+        width: 1173
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05163b9d33faf0b10800000000000000
+      internalID: 1949969800905318736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1181
+        width: 1003
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611d78fadb1a7c70800000000000000
+      internalID: 8969512235147530594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_5
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1507
+        width: 1336
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a407e80e190d1840800000000000000
+      internalID: 5196319569658447011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_6
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1507
+        width: 1183
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383128386e0c2f10800000000000000
+      internalID: 2246186154932123704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_7
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1181
+        width: 1266
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d786b969f76c2900800000000000000
+      internalID: 661017566234707926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_8
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1181
+        width: 1260
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b4254b363fe47d0800000000000000
+      internalID: -2932138697819010183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 856
+        width: 1309
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f77031b1ec61d0800000000000000
+      internalID: -3356059471159232591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_10
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 856
+        width: 1274
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b1a91440803b7d0800000000000000
+      internalID: -2903968520350327997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_11
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 856
+        width: 1254
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef4fc59cc67ab230800000000000000
+      internalID: 3655364668623376359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_12
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 530
+        width: 1560
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf83bdd35ce04a650800000000000000
+      internalID: 6243131223751473404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_13
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 530
+        width: 1228
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8296cda36f3ca90800000000000000
+      internalID: -7294716238743656211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 204
+        width: 1234
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218c4b22e6a725b0800000000000000
+      internalID: -5393158538433625819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_15
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 204
+        width: 1000
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c21d24468b8c72a0800000000000000
+      internalID: -6738357533667421502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: At Takwir_16
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 204
+        width: 1238
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f02e78404b9b250800000000000000
+      internalID: 5960993513354170121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      At Takwir_0: -4596991882788122195
+      At Takwir_1: -7357539525603907055
+      At Takwir_10: -2903968520350327997
+      At Takwir_11: 3655364668623376359
+      At Takwir_12: 6243131223751473404
+      At Takwir_13: -7294716238743656211
+      At Takwir_14: -5393158538433625819
+      At Takwir_15: -6738357533667421502
+      At Takwir_16: 5960993513354170121
+      At Takwir_2: 4623273583662841050
+      At Takwir_3: 1949969800905318736
+      At Takwir_4: 8969512235147530594
+      At Takwir_5: 5196319569658447011
+      At Takwir_6: 2246186154932123704
+      At Takwir_7: 661017566234707926
+      At Takwir_8: -2932138697819010183
+      At Takwir_9: -3356059471159232591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

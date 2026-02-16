@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: b9ee6a4637991a944843d16da4600984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6127074802243949440
+    second: An-Naziat (2)_0
+  - first:
+      213: 3258359144236169501
+    second: An-Naziat (2)_1
+  - first:
+      213: 1814017374386350977
+    second: An-Naziat (2)_2
+  - first:
+      213: 8102854246094038537
+    second: An-Naziat (2)_3
+  - first:
+      213: -2546779212213373405
+    second: An-Naziat (2)_4
+  - first:
+      213: 1390512265484071977
+    second: An-Naziat (2)_5
+  - first:
+      213: 5235488250178365705
+    second: An-Naziat (2)_6
+  - first:
+      213: -5264860104028594371
+    second: An-Naziat (2)_7
+  - first:
+      213: -677068513552210714
+    second: An-Naziat (2)_8
+  - first:
+      213: -1104115232038637354
+    second: An-Naziat (2)_9
+  - first:
+      213: 6799861324082116483
+    second: An-Naziat (2)_10
+  - first:
+      213: 4755833064778450965
+    second: An-Naziat (2)_11
+  - first:
+      213: -7536595790019201533
+    second: An-Naziat (2)_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: An-Naziat (2)_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1875
+        width: 1743
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca0041ee148faa0800000000000000
+      internalID: -6127074802243949440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_1
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1875
+        width: 1882
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b7dec064083d20800000000000000
+      internalID: 3258359144236169501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1525
+        width: 1525
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6fa0e03fac2910800000000000000
+      internalID: 1814017374386350977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_3
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 1525
+        width: 1597
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906633d810f137070800000000000000
+      internalID: 8102854246094038537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_4
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1173
+        width: 1018
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3263ca6ccc508acd0800000000000000
+      internalID: -2546779212213373405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1173
+        width: 1033
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247008c9871c4310800000000000000
+      internalID: 1390512265484071977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_6
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1173
+        width: 1216
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909ec9123d038a840800000000000000
+      internalID: 5235488250178365705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 821
+        width: 1330
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdf3b31a57fe6b0800000000000000
+      internalID: -5264860104028594371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_8
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 821
+        width: 956
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e46e1136c19a96f0800000000000000
+      internalID: -677068513552210714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 469
+        width: 1819
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d03d3bdb056da0f0800000000000000
+      internalID: -1104115232038637354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 469
+        width: 1865
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387f4d7d8d5fd5e50800000000000000
+      internalID: 6799861324082116483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 117
+        width: 1328
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5184d2599fc100240800000000000000
+      internalID: 4755833064778450965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: An-Naziat (2)_12
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 117
+        width: 1858
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30673304f02a86790800000000000000
+      internalID: -7536595790019201533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      An-Naziat (2)_0: -6127074802243949440
+      An-Naziat (2)_1: 3258359144236169501
+      An-Naziat (2)_10: 6799861324082116483
+      An-Naziat (2)_11: 4755833064778450965
+      An-Naziat (2)_12: -7536595790019201533
+      An-Naziat (2)_2: 1814017374386350977
+      An-Naziat (2)_3: 8102854246094038537
+      An-Naziat (2)_4: -2546779212213373405
+      An-Naziat (2)_5: 1390512265484071977
+      An-Naziat (2)_6: 5235488250178365705
+      An-Naziat (2)_7: -5264860104028594371
+      An-Naziat (2)_8: -677068513552210714
+      An-Naziat (2)_9: -1104115232038637354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

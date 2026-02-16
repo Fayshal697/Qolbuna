@@ -267,6 +267,7 @@ MonoBehaviour:
   selectables: []
   backButton: {fileID: 0}
   uiSceneManager: {fileID: 0}
+  inputEnabled: 1
 --- !u!1 &62082207
 GameObject:
   m_ObjectHideFlags: 0
@@ -645,10 +646,7 @@ MonoBehaviour:
     - {fileID: 8951737704848329396}
     - {fileID: 1581259343}
   - groupName: FItur
-    buttons:
-    - {fileID: 3503959587910420930}
-    - {fileID: 8987478744771484208}
-    - {fileID: 2272799483355472482}
+    buttons: []
   selectables:
   - {fileID: 3093151784221277015}
   - {fileID: 4601043732218018884}
@@ -656,6 +654,7 @@ MonoBehaviour:
   - {fileID: 8951737704848329396}
   backButton: {fileID: 3503959587910420930}
   uiSceneManager: {fileID: 689971962}
+  inputEnabled: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -1318,7 +1317,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0df51c10473385749b86c7b6d81eaa76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneAudioAnnouncer
-  sceneIntroAudio: {fileID: 8300000, guid: 6bafdb0f077781341b99d202628ea26e, type: 3}
+  sceneIntroAudio: {fileID: 8300000, guid: f886e147b756f8c49b0ab145c76c035f, type: 3}
 --- !u!224 &1916024866 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6657359072353900902, guid: c3879c85077acd546a6ad3d8cde74994, type: 3}
@@ -1508,17 +1507,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c8c70abf75d51d747b3b1b4baf5b4a99, type: 3}
---- !u!114 &2272799483355472482 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4163294544945955462, guid: c8c70abf75d51d747b3b1b4baf5b4a99, type: 3}
-  m_PrefabInstance: {fileID: 2272799483355472481}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!1001 &3093151784221277014
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2179,7 +2167,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AccessibleSelectable
   narrationClip: {fileID: 8300000, guid: 77895a6d750898e418a4f38b413b22bb, type: 3}
-  hoverSFX: {fileID: 0}
 --- !u!1001 &8951737704848329395
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2493,17 +2480,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62711595766620340a1a3235f0d6b578, type: 3}
---- !u!114 &8987478744771484208 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1079436497691763889, guid: 62711595766620340a1a3235f0d6b578, type: 3}
-  m_PrefabInstance: {fileID: 8987478744771484207}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

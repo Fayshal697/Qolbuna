@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 4922e5fdbe622d2498956b25e973baf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1308798392180162860
+    second: Al-Balad_0
+  - first:
+      213: -6869572610876940803
+    second: Al-Balad_1
+  - first:
+      213: 5149813362881024333
+    second: Al-Balad_2
+  - first:
+      213: -7445576723410974082
+    second: Al-Balad_3
+  - first:
+      213: -3882848786973765651
+    second: Al-Balad_4
+  - first:
+      213: -8440261906397949285
+    second: Al-Balad_5
+  - first:
+      213: 5780206752828019317
+    second: Al-Balad_6
+  - first:
+      213: 1736423712161254424
+    second: Al-Balad_7
+  - first:
+      213: -2070385938683828827
+    second: Al-Balad_8
+  - first:
+      213: -3825210988144215148
+    second: Al-Balad_9
+  - first:
+      213: -6081038018220179335
+    second: Al-Balad_10
+  - first:
+      213: -1662624705433134811
+    second: Al-Balad_11
+  - first:
+      213: -5753041201870148325
+    second: Al-Balad_12
+  - first:
+      213: -4268948353642045664
+    second: Al-Balad_13
+  - first:
+      213: 8783048836466206173
+    second: Al-Balad_14
+  - first:
+      213: -5330158249716444325
+    second: Al-Balad_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Balad_0
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1878
+        width: 914
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2140801439c92210800000000000000
+      internalID: 1308798392180162860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_1
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1878
+        width: 1225
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd5de16b106aa0a0800000000000000
+      internalID: -6869572610876940803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_2
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 1878
+        width: 1087
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41551af7ffc77740800000000000000
+      internalID: 5149813362881024333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1534
+        width: 1622
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a0c2d1b6ffba890800000000000000
+      internalID: -7445576723410974082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_4
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1534
+        width: 1468
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4fd7b9995d1ac0800000000000000
+      internalID: -3882848786973765651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1190
+        width: 1156
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9293e9b38a2eda80800000000000000
+      internalID: -8440261906397949285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_6
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 1190
+        width: 1313
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572d0a6ba6b673050800000000000000
+      internalID: 5780206752828019317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_7
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 1190
+        width: 1248
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ccfee8a24091810800000000000000
+      internalID: 1736423712161254424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_8
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 845
+        width: 1051
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a569c845f28443e0800000000000000
+      internalID: -2070385938683828827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_9
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 845
+        width: 1062
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b3eb48fde1aeac0800000000000000
+      internalID: -3825210988144215148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_10
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 845
+        width: 961
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97047522420db9ba0800000000000000
+      internalID: -6081038018220179335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 500
+        width: 1670
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5299edda3ab2de8e0800000000000000
+      internalID: -1662624705433134811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_12
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 500
+        width: 723
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de75002871920b0800000000000000
+      internalID: -5753041201870148325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_13
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 500
+        width: 1288
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f5da81716a1c4c0800000000000000
+      internalID: -4268948353642045664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_14
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 156
+        width: 1184
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e976d168a3e970800000000000000
+      internalID: 8783048836466206173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Balad_15
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 156
+        width: 957
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b539801ff497706b0800000000000000
+      internalID: -5330158249716444325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Balad_0: 1308798392180162860
+      Al-Balad_1: -6869572610876940803
+      Al-Balad_10: -6081038018220179335
+      Al-Balad_11: -1662624705433134811
+      Al-Balad_12: -5753041201870148325
+      Al-Balad_13: -4268948353642045664
+      Al-Balad_14: 8783048836466206173
+      Al-Balad_15: -5330158249716444325
+      Al-Balad_2: 5149813362881024333
+      Al-Balad_3: -7445576723410974082
+      Al-Balad_4: -3882848786973765651
+      Al-Balad_5: -8440261906397949285
+      Al-Balad_6: 5780206752828019317
+      Al-Balad_7: 1736423712161254424
+      Al-Balad_8: -2070385938683828827
+      Al-Balad_9: -3825210988144215148
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

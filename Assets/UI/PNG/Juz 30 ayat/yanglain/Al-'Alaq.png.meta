@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 42f7c31c7ae2527469f8b991130c4a8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4212364401957535244
+    second: Al-'Alaq_0
+  - first:
+      213: 1607785442204837207
+    second: Al-'Alaq_1
+  - first:
+      213: 1870313315642743260
+    second: Al-'Alaq_2
+  - first:
+      213: -8033855012729008727
+    second: Al-'Alaq_3
+  - first:
+      213: -1461996416870354681
+    second: Al-'Alaq_4
+  - first:
+      213: -8695567648307189941
+    second: Al-'Alaq_5
+  - first:
+      213: 1836767004598988369
+    second: Al-'Alaq_6
+  - first:
+      213: -8202001614995048575
+    second: Al-'Alaq_7
+  - first:
+      213: 8858915237861356170
+    second: Al-'Alaq_8
+  - first:
+      213: 5913994614605486454
+    second: Al-'Alaq_9
+  - first:
+      213: 8936812432789428601
+    second: Al-'Alaq_10
+  - first:
+      213: -2849117206222869735
+    second: Al-'Alaq_11
+  - first:
+      213: 1503609221276547881
+    second: Al-'Alaq_12
+  - first:
+      213: 70222237675305192
+    second: Al-'Alaq_13
+  - first:
+      213: 4389681327470254875
+    second: Al-'Alaq_14
+  - first:
+      213: -5940655519658181924
+    second: Al-'Alaq_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-'Alaq_0
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1834
+        width: 1031
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f102dcf4ecaa85c0800000000000000
+      internalID: -4212364401957535244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_1
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1834
+        width: 1242
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e9ad5750005610800000000000000
+      internalID: 1607785442204837207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_2
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1834
+        width: 1370
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9919d1d00b4f910800000000000000
+      internalID: 1870313315642743260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1483
+        width: 1255
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adcb4d5e63028090800000000000000
+      internalID: -8033855012729008727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1483
+        width: 1327
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7017c8d3102f5bbe0800000000000000
+      internalID: -1461996416870354681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_5
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1483
+        width: 964
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4765428b43235780800000000000000
+      internalID: -8695567648307189941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1133
+        width: 1036
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ee74cebd18d7910800000000000000
+      internalID: 1836767004598988369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_7
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1133
+        width: 1125
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1873a0bbcf2ac2e80800000000000000
+      internalID: -8202001614995048575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_8
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1133
+        width: 973
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827508e87031fa70800000000000000
+      internalID: 8858915237861356170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_9
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 776
+        width: 934
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679122fa4cab21250800000000000000
+      internalID: 5913994614605486454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_10
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 782
+        width: 1394
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97955b0fe8fe50c70800000000000000
+      internalID: 8936812432789428601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_11
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 782
+        width: 841
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be1a70ff6e578d0800000000000000
+      internalID: -2849117206222869735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_12
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 425
+        width: 1222
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bb03bce94edd410800000000000000
+      internalID: 1503609221276547881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_13
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 425
+        width: 1288
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e838fbc0ca79f000800000000000000
+      internalID: 70222237675305192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_14
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 78
+        width: 1221
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b9709e8e74bec30800000000000000
+      internalID: 4389681327470254875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-'Alaq_15
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 78
+        width: 1745
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda7fc1a74d8e8da0800000000000000
+      internalID: -5940655519658181924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-'Alaq_0: -4212364401957535244
+      Al-'Alaq_1: 1607785442204837207
+      Al-'Alaq_10: 8936812432789428601
+      Al-'Alaq_11: -2849117206222869735
+      Al-'Alaq_12: 1503609221276547881
+      Al-'Alaq_13: 70222237675305192
+      Al-'Alaq_14: 4389681327470254875
+      Al-'Alaq_15: -5940655519658181924
+      Al-'Alaq_2: 1870313315642743260
+      Al-'Alaq_3: -8033855012729008727
+      Al-'Alaq_4: -1461996416870354681
+      Al-'Alaq_5: -8695567648307189941
+      Al-'Alaq_6: 1836767004598988369
+      Al-'Alaq_7: -8202001614995048575
+      Al-'Alaq_8: 8858915237861356170
+      Al-'Alaq_9: 5913994614605486454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

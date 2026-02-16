@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PanelAudioAnnouncer : MonoBehaviour
 {
@@ -14,16 +13,28 @@ public class PanelAudioAnnouncer : MonoBehaviour
     public AudioClip specialNarration;
 
     private int stepIndex = 0;
+    private bool isInterrupted = false;
 
     private void OnEnable()
     {
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.currentContext = AudioManager.AudioContext.Panel;
+
         stepIndex = 0;
+        isInterrupted = false;
         PlayIntroAudio();
+    }
+
+    private void OnDisable()
+    {
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.currentContext = AudioManager.AudioContext.Scene;
     }
 
     private void Update()
     {
-        // Input tombol universal
+        if (isInterrupted) return;
+
         if (Input.GetKeyDown(KeyCode.Space))
             PlayNextStep();
 
@@ -39,26 +50,19 @@ public class PanelAudioAnnouncer : MonoBehaviour
 
     public void PlayIntroAudio()
     {
-        AudioClip clip = introNarration;
-        if (clip != null && AudioManager.Instance != null)
-        {
-            AudioManager.Instance.StopAllAudio();
-            AudioManager.Instance.PlayVoice(clip);
-        }
+        if (introNarration == null || AudioManager.Instance == null) return;
+
+        AudioManager.Instance.StopAllAudio();
+        AudioManager.Instance.PlayVoice(introNarration);
     }
 
     public void PlayNextStep()
     {
         if (stepNarrations == null || stepIndex >= stepNarrations.Length) return;
 
-        AudioClip clip = stepNarrations[stepIndex];
+        AudioManager.Instance.StopAllAudio();
+        AudioManager.Instance.PlayVoice(stepNarrations[stepIndex]);
         stepIndex++;
-
-        if (AudioManager.Instance != null)
-        {
-            AudioManager.Instance.StopAllAudio();
-            AudioManager.Instance.PlayVoice(clip);
-        }
     }
 
     public void ReplayIntro()
@@ -66,11 +70,10 @@ public class PanelAudioAnnouncer : MonoBehaviour
         stepIndex = 0;
         AudioClip clip = replayNarration != null ? replayNarration : introNarration;
 
-        if (clip != null && AudioManager.Instance != null)
-        {
-            AudioManager.Instance.StopAllAudio();
-            AudioManager.Instance.PlayVoice(clip);
-        }
+        if (clip == null || AudioManager.Instance == null) return;
+
+        AudioManager.Instance.StopAllAudio();
+        AudioManager.Instance.PlayVoice(clip);
     }
 
     public void PlaySpecial()
@@ -83,6 +86,12 @@ public class PanelAudioAnnouncer : MonoBehaviour
 
     public void StopAudio()
     {
+        AudioManager.Instance?.StopAllAudio();
+    }
+
+    public void InterruptByUI()
+    {
+        isInterrupted = true;
         AudioManager.Instance?.StopAllAudio();
     }
 }

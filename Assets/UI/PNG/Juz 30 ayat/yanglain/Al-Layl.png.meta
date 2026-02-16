@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 1bd2c42f0c3bd6c4a88484f59e370a0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6567779650796742853
+    second: Al-Layl_0
+  - first:
+      213: 7927868383353141141
+    second: Al-Layl_1
+  - first:
+      213: -5536730494194014549
+    second: Al-Layl_2
+  - first:
+      213: 4576272509055292866
+    second: Al-Layl_3
+  - first:
+      213: 1746244795415926237
+    second: Al-Layl_4
+  - first:
+      213: -6205049594023827766
+    second: Al-Layl_5
+  - first:
+      213: -824982496057312438
+    second: Al-Layl_6
+  - first:
+      213: -1843174258963637334
+    second: Al-Layl_7
+  - first:
+      213: 5841943154487210072
+    second: Al-Layl_8
+  - first:
+      213: 3275514473623532975
+    second: Al-Layl_9
+  - first:
+      213: -1007460283050541927
+    second: Al-Layl_10
+  - first:
+      213: -2119369506865298808
+    second: Al-Layl_11
+  - first:
+      213: -4298337049405194108
+    second: Al-Layl_12
+  - first:
+      213: 9089345195972062584
+    second: Al-Layl_13
+  - first:
+      213: -3447514565161066314
+    second: Al-Layl_14
+  - first:
+      213: 7324084088151600874
+    second: Al-Layl_15
+  - first:
+      213: -2645141621269916009
+    second: Al-Layl_16
+  - first:
+      213: -1737452391472351503
+    second: Al-Layl_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Layl_0
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1804
+        width: 1289
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379837843f8ad4a0800000000000000
+      internalID: -6567779650796742853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_1
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1795
+        width: 949
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59770df7a42750e60800000000000000
+      internalID: 7927868383353141141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_2
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1795
+        width: 932
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba62e7c43f49923b0800000000000000
+      internalID: -5536730494194014549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_3
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1479
+        width: 1003
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c550a1d99f228f30800000000000000
+      internalID: 4576272509055292866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_4
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1479
+        width: 1235
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd514a1b368eb3810800000000000000
+      internalID: 1746244795415926237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_5
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 1479
+        width: 1006
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6278e154c33e9a0800000000000000
+      internalID: -6205049594023827766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1153
+        width: 992
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bb6907ac21d84f0800000000000000
+      internalID: -824982496057312438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_7
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1153
+        width: 1355
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab145be6cabb66e0800000000000000
+      internalID: -1843174258963637334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_8
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1153
+        width: 1110
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8503c39d850c21150800000000000000
+      internalID: 5841943154487210072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 827
+        width: 951
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa53bf03f07f47d20800000000000000
+      internalID: 3275514473623532975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 827
+        width: 1559
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c3577d538c402f0800000000000000
+      internalID: -1007460283050541927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_11
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 827
+        width: 1160
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882cf7399ac7692e0800000000000000
+      internalID: -2119369506865298808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 502
+        width: 1252
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4808d452a3d3954c0800000000000000
+      internalID: -4298337049405194108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_13
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 502
+        width: 1152
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d61de5c47d32e70800000000000000
+      internalID: 9089345195972062584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_14
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 502
+        width: 1313
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0e699c4c7f720d0800000000000000
+      internalID: -3447514565161066314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 176
+        width: 1317
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeeed5b6caf54a560800000000000000
+      internalID: 7324084088151600874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_16
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 176
+        width: 1073
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7961b93c5b19a4bd0800000000000000
+      internalID: -2645141621269916009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Layl_17
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 176
+        width: 1060
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f63320614453e7e0800000000000000
+      internalID: -1737452391472351503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Layl_0: -6567779650796742853
+      Al-Layl_1: 7927868383353141141
+      Al-Layl_10: -1007460283050541927
+      Al-Layl_11: -2119369506865298808
+      Al-Layl_12: -4298337049405194108
+      Al-Layl_13: 9089345195972062584
+      Al-Layl_14: -3447514565161066314
+      Al-Layl_15: 7324084088151600874
+      Al-Layl_16: -2645141621269916009
+      Al-Layl_17: -1737452391472351503
+      Al-Layl_2: -5536730494194014549
+      Al-Layl_3: 4576272509055292866
+      Al-Layl_4: 1746244795415926237
+      Al-Layl_5: -6205049594023827766
+      Al-Layl_6: -824982496057312438
+      Al-Layl_7: -1843174258963637334
+      Al-Layl_8: 5841943154487210072
+      Al-Layl_9: 3275514473623532975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

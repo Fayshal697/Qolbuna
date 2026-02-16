@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: af35ac6ef44112f489075dd4cdd0d5c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3310314488969242466
+    second: Al-Qari'ah_0
+  - first:
+      213: 2714237430750232167
+    second: Al-Qari'ah_1
+  - first:
+      213: 8629666630990358877
+    second: Al-Qari'ah_2
+  - first:
+      213: 3204964825868225010
+    second: Al-Qari'ah_3
+  - first:
+      213: 7261009251724262880
+    second: Al-Qari'ah_4
+  - first:
+      213: 4397158764294225788
+    second: Al-Qari'ah_5
+  - first:
+      213: -3714128545719926496
+    second: Al-Qari'ah_6
+  - first:
+      213: -4029682044712094782
+    second: Al-Qari'ah_7
+  - first:
+      213: -9127948981544942134
+    second: Al-Qari'ah_8
+  - first:
+      213: -1169536209230476174
+    second: Al-Qari'ah_9
+  - first:
+      213: -1702911079341377517
+    second: Al-Qari'ah_10
+  - first:
+      213: -7120984960149838078
+    second: Al-Qari'ah_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Al-Qari'ah_0
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1878
+        width: 1302
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d826d2866f02d0800000000000000
+      internalID: -3310314488969242466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_1
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 1878
+        width: 709
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebfe70098eaa520800000000000000
+      internalID: 2714237430750232167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_2
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 1878
+        width: 549
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59e836341cb2c770800000000000000
+      internalID: 8629666630990358877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_3
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1537
+        width: 1745
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f94f7b47825a7c20800000000000000
+      internalID: 3204964825868225010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_4
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 1534
+        width: 1838
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed79d7a17944c460800000000000000
+      internalID: 7261009251724262880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1171
+        width: 1307
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fb0c65998d50d30800000000000000
+      internalID: 4397158764294225788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_6
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1190
+        width: 1258
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021c93614c3c47cc0800000000000000
+      internalID: -3714128545719926496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_7
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 1193
+        width: 1291
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c37a2fc781b318c0800000000000000
+      internalID: -4029682044712094782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_8
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1142
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5002363c2035180800000000000000
+      internalID: -9127948981544942134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 845
+        width: 696
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c4cd0a309f4cfe0800000000000000
+      internalID: -1169536209230476174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_10
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 845
+        width: 1138
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b7cf456b0e58e0800000000000000
+      internalID: -1702911079341377517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Al-Qari'ah_11
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 845
+        width: 810
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207ae5748ed2d2d90800000000000000
+      internalID: -7120984960149838078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Al-Qari'ah_0: -3310314488969242466
+      Al-Qari'ah_1: 2714237430750232167
+      Al-Qari'ah_10: -1702911079341377517
+      Al-Qari'ah_11: -7120984960149838078
+      Al-Qari'ah_2: 8629666630990358877
+      Al-Qari'ah_3: 3204964825868225010
+      Al-Qari'ah_4: 7261009251724262880
+      Al-Qari'ah_5: 4397158764294225788
+      Al-Qari'ah_6: -3714128545719926496
+      Al-Qari'ah_7: -4029682044712094782
+      Al-Qari'ah_8: -9127948981544942134
+      Al-Qari'ah_9: -1169536209230476174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
